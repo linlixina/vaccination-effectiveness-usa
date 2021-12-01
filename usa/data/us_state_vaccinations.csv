@@ -1,0 +1,5611 @@
+date,state,rate
+2021/1/12,Alabama,0.15
+2021/1/13,Alabama,0.19
+2021/1/14,Alabama,0.24
+2021/1/15,Alabama,0.28
+2021/1/16,Alabama,0.29
+2021/1/17,Alabama,0.3
+2021/1/18,Alabama,0.31
+2021/1/19,Alabama,0.33
+2021/1/20,Alabama,0.37
+2021/1/21,Alabama,0.44
+2021/1/22,Alabama,0.51
+2021/1/23,Alabama,0.56
+2021/1/24,Alabama,0.61
+2021/1/25,Alabama,0.61
+2021/1/26,Alabama,0.63
+2021/1/27,Alabama,0.69
+2021/1/28,Alabama,0.76
+2021/1/29,Alabama,0.9
+2021/1/30,Alabama,1.1
+2021/1/31,Alabama,1.13
+2021/2/1,Alabama,1.15
+2021/2/2,Alabama,1.2
+2021/2/3,Alabama,1.28
+2021/2/4,Alabama,1.41
+2021/2/5,Alabama,1.56
+2021/2/6,Alabama,1.72
+2021/2/7,Alabama,1.76
+2021/2/8,Alabama,1.8
+2021/2/9,Alabama,1.94
+2021/2/10,Alabama,2.09
+2021/2/11,Alabama,2.26
+2021/2/12,Alabama,2.49
+2021/2/13,Alabama,2.71
+2021/2/14,Alabama,2.79
+2021/2/15,Alabama,2.9
+2021/2/16,Alabama,3.04
+2021/2/17,Alabama,3.15
+2021/2/18,Alabama,3.37
+2021/2/19,Alabama,3.92
+2021/2/20,Alabama,4.37
+2021/2/21,Alabama,4.48
+2021/2/22,Alabama,4.65
+2021/2/23,Alabama,4.88
+2021/2/24,Alabama,5.17
+2021/2/25,Alabama,5.48
+2021/2/26,Alabama,5.83
+2021/2/27,Alabama,6.28
+2021/2/28,Alabama,6.39
+2021/3/1,Alabama,6.45
+2021/3/2,Alabama,6.73
+2021/3/3,Alabama,7.07
+2021/3/4,Alabama,7.45
+2021/3/5,Alabama,7.81
+2021/3/6,Alabama,8.2
+2021/3/7,Alabama,8.3
+2021/3/8,Alabama,8.36
+2021/3/9,Alabama,8.57
+2021/3/10,Alabama,8.87
+2021/3/11,Alabama,9.23
+2021/3/12,Alabama,9.63
+2021/3/13,Alabama,10.05
+2021/3/14,Alabama,10.15
+2021/3/15,Alabama,10.22
+2021/3/16,Alabama,10.44
+2021/3/17,Alabama,10.68
+2021/3/18,Alabama,10.88
+2021/3/19,Alabama,11.16
+2021/3/20,Alabama,11.45
+2021/3/21,Alabama,11.56
+2021/3/22,Alabama,11.61
+2021/3/23,Alabama,11.82
+2021/3/24,Alabama,12.03
+2021/3/25,Alabama,12.25
+2021/3/26,Alabama,12.48
+2021/3/27,Alabama,12.71
+2021/3/28,Alabama,12.82
+2021/3/29,Alabama,12.88
+2021/3/30,Alabama,13.12
+2021/3/31,Alabama,13.4
+2021/4/1,Alabama,13.74
+2021/4/2,Alabama,14.09
+2021/4/3,Alabama,14.38
+2021/4/4,Alabama,14.48
+2021/4/5,Alabama,14.51
+2021/4/6,Alabama,14.79
+2021/4/7,Alabama,15.19
+2021/4/8,Alabama,15.59
+2021/4/9,Alabama,16.08
+2021/4/10,Alabama,16.55
+2021/4/11,Alabama,16.71
+2021/4/12,Alabama,16.81
+2021/4/13,Alabama,17.22
+2021/4/14,Alabama,17.71
+2021/4/15,Alabama,18.21
+2021/4/16,Alabama,18.67
+2021/4/17,Alabama,19.08
+2021/4/18,Alabama,19.24
+2021/4/19,Alabama,19.3
+2021/4/20,Alabama,19.71
+2021/4/21,Alabama,20.14
+2021/4/22,Alabama,20.61
+2021/4/23,Alabama,21.09
+2021/4/24,Alabama,21.51
+2021/4/25,Alabama,21.67
+2021/4/26,Alabama,21.75
+2021/4/27,Alabama,22.02
+2021/4/28,Alabama,22.41
+2021/4/29,Alabama,22.87
+2021/4/30,Alabama,23.32
+2021/5/1,Alabama,23.69
+2021/1/12,Alaska,0.74
+2021/1/13,Alaska,0.84
+2021/1/14,Alaska,1.06
+2021/1/15,Alaska,1.29
+2021/1/16,Alaska,1.34
+2021/1/17,Alaska,1.39
+2021/1/18,Alaska,1.44
+2021/1/19,Alaska,1.48
+2021/1/20,Alaska,1.54
+2021/1/21,Alaska,1.69
+2021/1/22,Alaska,1.88
+2021/1/23,Alaska,2.08
+2021/1/24,Alaska,2.21
+2021/1/25,Alaska,2.28
+2021/1/26,Alaska,2.3
+2021/1/27,Alaska,2.47
+2021/1/28,Alaska,2.74
+2021/1/29,Alaska,2.95
+2021/1/30,Alaska,3.19
+2021/1/31,Alaska,3.36
+2021/2/1,Alaska,3.48
+2021/2/2,Alaska,3.58
+2021/2/3,Alaska,3.76
+2021/2/4,Alaska,4.12
+2021/2/5,Alaska,4.46
+2021/2/6,Alaska,4.89
+2021/2/7,Alaska,5.41
+2021/2/8,Alaska,5.58
+2021/2/9,Alaska,5.7
+2021/2/10,Alaska,5.95
+2021/2/11,Alaska,6.29
+2021/2/12,Alaska,6.69
+2021/2/13,Alaska,7.16
+2021/2/14,Alaska,7.81
+2021/2/15,Alaska,8.07
+2021/2/16,Alaska,8.33
+2021/2/17,Alaska,8.54
+2021/2/18,Alaska,8.92
+2021/2/19,Alaska,9.83
+2021/2/20,Alaska,10.75
+2021/2/21,Alaska,11.25
+2021/2/22,Alaska,11.5
+2021/2/23,Alaska,11.58
+2021/2/24,Alaska,11.87
+2021/2/25,Alaska,12.33
+2021/2/26,Alaska,12.61
+2021/2/27,Alaska,13.03
+2021/2/28,Alaska,13.34
+2021/3/1,Alaska,13.66
+2021/3/2,Alaska,13.79
+2021/3/3,Alaska,14
+2021/3/4,Alaska,14.23
+2021/3/5,Alaska,14.57
+2021/3/6,Alaska,15.04
+2021/3/7,Alaska,15.55
+2021/3/8,Alaska,15.81
+2021/3/9,Alaska,16.04
+2021/3/10,Alaska,16.28
+2021/3/11,Alaska,16.7
+2021/3/12,Alaska,16.97
+2021/3/13,Alaska,17.31
+2021/3/14,Alaska,17.89
+2021/3/15,Alaska,18.12
+2021/3/16,Alaska,18.3
+2021/3/17,Alaska,18.56
+2021/3/18,Alaska,18.93
+2021/3/19,Alaska,19.16
+2021/3/20,Alaska,19.6
+2021/3/21,Alaska,19.95
+2021/3/22,Alaska,20.08
+2021/3/23,Alaska,20.12
+2021/3/24,Alaska,20.33
+2021/3/25,Alaska,20.64
+2021/3/26,Alaska,21.01
+2021/3/27,Alaska,21.42
+2021/3/28,Alaska,21.9
+2021/3/29,Alaska,22
+2021/3/30,Alaska,22.08
+2021/3/31,Alaska,22.3
+2021/4/1,Alaska,22.6
+2021/4/2,Alaska,22.91
+2021/4/3,Alaska,23.34
+2021/4/4,Alaska,24.17
+2021/4/5,Alaska,24.45
+2021/4/6,Alaska,24.52
+2021/4/7,Alaska,24.87
+2021/4/8,Alaska,25.51
+2021/4/9,Alaska,25.97
+2021/4/10,Alaska,26.63
+2021/4/11,Alaska,27.17
+2021/4/12,Alaska,27.58
+2021/4/13,Alaska,30.4
+2021/4/14,Alaska,30.77
+2021/4/15,Alaska,30.79
+2021/4/16,Alaska,31.21
+2021/4/17,Alaska,31.63
+2021/4/18,Alaska,32.06
+2021/4/19,Alaska,32.21
+2021/4/20,Alaska,32.36
+2021/4/21,Alaska,32.78
+2021/4/22,Alaska,33.15
+2021/4/23,Alaska,33.45
+2021/4/24,Alaska,33.74
+2021/4/25,Alaska,33.96
+2021/4/26,Alaska,34.04
+2021/4/27,Alaska,34.11
+2021/4/28,Alaska,34.27
+2021/4/29,Alaska,34.86
+2021/4/30,Alaska,35.07
+2021/5/1,Alaska,35.84
+2021/1/12,Arizona,0.11
+2021/1/13,Arizona,0.17
+2021/1/14,Arizona,0.23
+2021/1/15,Arizona,0.29
+2021/1/16,Arizona,0.33
+2021/1/17,Arizona,0.36
+2021/1/18,Arizona,0.39
+2021/1/19,Arizona,0.42
+2021/1/20,Arizona,0.48
+2021/1/21,Arizona,0.57
+2021/1/22,Arizona,0.67
+2021/1/23,Arizona,0.76
+2021/1/24,Arizona,0.8
+2021/1/25,Arizona,0.86
+2021/1/26,Arizona,0.89
+2021/1/27,Arizona,0.95
+2021/1/28,Arizona,1.02
+2021/1/29,Arizona,1.11
+2021/1/30,Arizona,1.2
+2021/1/31,Arizona,1.27
+2021/2/1,Arizona,1.31
+2021/2/2,Arizona,1.33
+2021/2/3,Arizona,1.4
+2021/2/4,Arizona,1.53
+2021/2/5,Arizona,1.67
+2021/2/6,Arizona,1.87
+2021/2/7,Arizona,2.08
+2021/2/8,Arizona,2.22
+2021/2/9,Arizona,2.29
+2021/2/10,Arizona,2.44
+2021/2/11,Arizona,2.65
+2021/2/12,Arizona,2.86
+2021/2/13,Arizona,3.11
+2021/2/14,Arizona,3.37
+2021/2/15,Arizona,3.5
+2021/2/16,Arizona,3.63
+2021/2/17,Arizona,3.68
+2021/2/18,Arizona,3.9
+2021/2/19,Arizona,4.61
+2021/2/20,Arizona,4.89
+2021/2/21,Arizona,5.1
+2021/2/22,Arizona,5.31
+2021/2/23,Arizona,5.4
+2021/2/24,Arizona,5.59
+2021/2/25,Arizona,5.94
+2021/2/26,Arizona,6.35
+2021/2/27,Arizona,6.74
+2021/2/28,Arizona,7.22
+2021/3/1,Arizona,7.64
+2021/3/2,Arizona,7.91
+2021/3/3,Arizona,8.26
+2021/3/4,Arizona,8.62
+2021/3/5,Arizona,9.04
+2021/3/6,Arizona,9.1
+2021/3/7,Arizona,9.82
+2021/3/8,Arizona,10.14
+2021/3/9,Arizona,10.31
+2021/3/10,Arizona,10.54
+2021/3/11,Arizona,10.88
+2021/3/12,Arizona,11.35
+2021/3/13,Arizona,11.8
+2021/3/14,Arizona,12.25
+2021/3/15,Arizona,12.55
+2021/3/16,Arizona,12.91
+2021/3/17,Arizona,13.13
+2021/3/18,Arizona,13.45
+2021/3/19,Arizona,13.49
+2021/3/20,Arizona,13.8
+2021/3/21,Arizona,14.14
+2021/3/22,Arizona,14.41
+2021/3/23,Arizona,14.56
+2021/3/24,Arizona,14.76
+2021/3/25,Arizona,15.23
+2021/3/26,Arizona,15.51
+2021/3/27,Arizona,15.85
+2021/3/28,Arizona,16.25
+2021/3/29,Arizona,16.56
+2021/3/30,Arizona,16.77
+2021/3/31,Arizona,17.07
+2021/4/1,Arizona,17.41
+2021/4/2,Arizona,17.84
+2021/4/3,Arizona,18.3
+2021/4/4,Arizona,18.77
+2021/4/5,Arizona,19.13
+2021/4/6,Arizona,19.23
+2021/4/7,Arizona,19.53
+2021/4/8,Arizona,19.97
+2021/4/9,Arizona,20.55
+2021/4/10,Arizona,21.16
+2021/4/11,Arizona,21.69
+2021/4/12,Arizona,22.01
+2021/4/13,Arizona,22.24
+2021/4/14,Arizona,22.58
+2021/4/15,Arizona,22.95
+2021/4/16,Arizona,23.39
+2021/4/17,Arizona,23.95
+2021/4/18,Arizona,24.46
+2021/4/19,Arizona,24.79
+2021/4/20,Arizona,25.03
+2021/4/21,Arizona,25.44
+2021/4/22,Arizona,25.87
+2021/4/23,Arizona,26.36
+2021/4/24,Arizona,26.87
+2021/4/25,Arizona,27.3
+2021/4/26,Arizona,27.61
+2021/4/27,Arizona,27.86
+2021/4/28,Arizona,28.19
+2021/4/29,Arizona,28.55
+2021/4/30,Arizona,28.95
+2021/5/1,Arizona,29.39
+2021/1/12,Arkansas,0
+2021/1/13,Arkansas,0.43
+2021/1/14,Arkansas,0.52
+2021/1/15,Arkansas,0.62
+2021/1/16,Arkansas,0.64
+2021/1/17,Arkansas,0.66
+2021/1/18,Arkansas,0.68
+2021/1/19,Arkansas,0.72
+2021/1/20,Arkansas,0.88
+2021/1/21,Arkansas,0.88
+2021/1/22,Arkansas,1.05
+2021/1/23,Arkansas,1.05
+2021/1/24,Arkansas,1.08
+2021/1/25,Arkansas,1.1
+2021/1/26,Arkansas,1.23
+2021/1/27,Arkansas,1.36
+2021/1/28,Arkansas,1.36
+2021/1/29,Arkansas,1.52
+2021/1/30,Arkansas,1.73
+2021/1/31,Arkansas,1.86
+2021/2/1,Arkansas,1.94
+2021/2/2,Arkansas,1.98
+2021/2/3,Arkansas,2.1
+2021/2/4,Arkansas,2.28
+2021/2/5,Arkansas,2.45
+2021/2/6,Arkansas,2.7
+2021/2/7,Arkansas,2.99
+2021/2/8,Arkansas,3.12
+2021/2/9,Arkansas,3.15
+2021/2/10,Arkansas,3.44
+2021/2/11,Arkansas,3.67
+2021/2/12,Arkansas,3.93
+2021/2/13,Arkansas,4.11
+2021/2/14,Arkansas,4.33
+2021/2/15,Arkansas,4.43
+2021/2/16,Arkansas,4.52
+2021/2/17,Arkansas,4.58
+2021/2/18,Arkansas,4.66
+2021/2/19,Arkansas,5
+2021/2/20,Arkansas,5.06
+2021/2/21,Arkansas,5.22
+2021/2/22,Arkansas,5.36
+2021/2/23,Arkansas,5.44
+2021/2/24,Arkansas,5.73
+2021/2/25,Arkansas,6.12
+2021/2/26,Arkansas,6.64
+2021/2/27,Arkansas,7.1
+2021/2/28,Arkansas,7.54
+2021/3/1,Arkansas,7.74
+2021/3/2,Arkansas,7.84
+2021/3/3,Arkansas,8.05
+2021/3/4,Arkansas,8.28
+2021/3/5,Arkansas,8.53
+2021/3/6,Arkansas,8.79
+2021/3/7,Arkansas,9.09
+2021/3/8,Arkansas,9.19
+2021/3/9,Arkansas,9.27
+2021/3/10,Arkansas,9.45
+2021/3/11,Arkansas,9.47
+2021/3/12,Arkansas,9.85
+2021/3/13,Arkansas,10.27
+2021/3/14,Arkansas,10.27
+2021/3/15,Arkansas,10.38
+2021/3/16,Arkansas,10.44
+2021/3/17,Arkansas,10.58
+2021/3/18,Arkansas,10.75
+2021/3/19,Arkansas,10.96
+2021/3/20,Arkansas,11.13
+2021/3/21,Arkansas,11.43
+2021/3/22,Arkansas,11.55
+2021/3/23,Arkansas,11.6
+2021/3/24,Arkansas,11.84
+2021/3/25,Arkansas,12.15
+2021/3/26,Arkansas,12.47
+2021/3/27,Arkansas,12.88
+2021/3/28,Arkansas,13.37
+2021/3/29,Arkansas,13.51
+2021/3/30,Arkansas,13.59
+2021/3/31,Arkansas,13.9
+2021/4/1,Arkansas,14.34
+2021/4/2,Arkansas,14.9
+2021/4/3,Arkansas,15.94
+2021/4/4,Arkansas,15.97
+2021/4/5,Arkansas,16.15
+2021/4/6,Arkansas,16.22
+2021/4/7,Arkansas,16.68
+2021/4/8,Arkansas,17.19
+2021/4/9,Arkansas,17.67
+2021/4/10,Arkansas,18.28
+2021/4/11,Arkansas,18.8
+2021/4/12,Arkansas,18.98
+2021/4/13,Arkansas,19.1
+2021/4/14,Arkansas,19.56
+2021/4/15,Arkansas,20.08
+2021/4/16,Arkansas,20.6
+2021/4/17,Arkansas,21.07
+2021/4/18,Arkansas,21.58
+2021/4/19,Arkansas,21.71
+2021/4/20,Arkansas,21.83
+2021/4/21,Arkansas,22.23
+2021/4/22,Arkansas,22.66
+2021/4/23,Arkansas,23.15
+2021/4/24,Arkansas,23.58
+2021/4/25,Arkansas,23.99
+2021/4/26,Arkansas,24.22
+2021/4/27,Arkansas,24.28
+2021/4/28,Arkansas,24.62
+2021/4/29,Arkansas,25.02
+2021/4/30,Arkansas,25.38
+2021/5/1,Arkansas,25.76
+2021/1/12,California,0.25
+2021/1/13,California,0.34
+2021/1/14,California,0.43
+2021/1/15,California,0.52
+2021/1/16,California,0.56
+2021/1/17,California,0.6
+2021/1/18,California,0.63
+2021/1/19,California,0.66
+2021/1/20,California,0.69
+2021/1/21,California,0.74
+2021/1/22,California,0.81
+2021/1/23,California,0.86
+2021/1/24,California,0.9
+2021/1/25,California,0.94
+2021/1/26,California,0.98
+2021/1/27,California,1.06
+2021/1/28,California,1.16
+2021/1/29,California,1.23
+2021/1/30,California,1.33
+2021/1/31,California,1.41
+2021/2/1,California,1.47
+2021/2/2,California,1.5
+2021/2/3,California,1.55
+2021/2/4,California,1.58
+2021/2/5,California,1.71
+2021/2/6,California,1.84
+2021/2/7,California,2.05
+2021/2/8,California,2.15
+2021/2/9,California,2.22
+2021/2/10,California,2.35
+2021/2/11,California,2.51
+2021/2/12,California,2.74
+2021/2/13,California,2.98
+2021/2/14,California,3.26
+2021/2/15,California,3.47
+2021/2/16,California,3.69
+2021/2/17,California,3.82
+2021/2/18,California,4
+2021/2/19,California,4.44
+2021/2/20,California,4.72
+2021/2/21,California,5
+2021/2/22,California,5.18
+2021/2/23,California,5.32
+2021/2/24,California,5.49
+2021/2/25,California,5.72
+2021/2/26,California,6.02
+2021/2/27,California,6.33
+2021/2/28,California,6.6
+2021/3/1,California,6.94
+2021/3/2,California,7.34
+2021/3/3,California,7.57
+2021/3/4,California,7.7
+2021/3/5,California,7.91
+2021/3/6,California,8.25
+2021/3/7,California,8.47
+2021/3/8,California,8.62
+2021/3/9,California,8.72
+2021/3/10,California,8.82
+2021/3/11,California,8.96
+2021/3/12,California,9.15
+2021/3/13,California,9.67
+2021/3/14,California,9.67
+2021/3/15,California,10.13
+2021/3/16,California,10.51
+2021/3/17,California,11
+2021/3/18,California,11.43
+2021/3/19,California,11.76
+2021/3/20,California,12.13
+2021/3/21,California,12.61
+2021/3/22,California,12.91
+2021/3/23,California,13.17
+2021/3/24,California,13.51
+2021/3/25,California,13.87
+2021/3/26,California,14.34
+2021/3/27,California,14.76
+2021/3/28,California,15.14
+2021/3/29,California,15.52
+2021/3/30,California,15.76
+2021/3/31,California,16.07
+2021/4/1,California,16.41
+2021/4/2,California,16.8
+2021/4/3,California,17.25
+2021/4/4,California,17.77
+2021/4/5,California,18.14
+2021/4/6,California,18.35
+2021/4/7,California,18.79
+2021/4/8,California,19.23
+2021/4/9,California,19.8
+2021/4/10,California,20.53
+2021/4/11,California,21.09
+2021/4/12,California,21.41
+2021/4/13,California,21.65
+2021/4/14,California,22.01
+2021/4/15,California,22.67
+2021/4/16,California,23.89
+2021/4/17,California,24.49
+2021/4/18,California,25.05
+2021/4/19,California,25.41
+2021/4/20,California,25.7
+2021/4/21,California,26.11
+2021/4/22,California,26.56
+2021/4/23,California,27
+2021/4/24,California,27.77
+2021/4/25,California,28.35
+2021/4/26,California,28.78
+2021/4/27,California,29.05
+2021/4/28,California,29.4
+2021/4/29,California,29.86
+2021/4/30,California,30.23
+2021/5/1,California,31.08
+2021/1/12,Colorado,0.63
+2021/1/13,Colorado,0.72
+2021/1/14,Colorado,0.77
+2021/1/15,Colorado,0.82
+2021/1/16,Colorado,0.83
+2021/1/17,Colorado,0.84
+2021/1/18,Colorado,0.85
+2021/1/19,Colorado,0.87
+2021/1/20,Colorado,0.89
+2021/1/21,Colorado,0.95
+2021/1/22,Colorado,1.01
+2021/1/23,Colorado,1.08
+2021/1/24,Colorado,1.34
+2021/1/25,Colorado,1.4
+2021/1/26,Colorado,1.44
+2021/1/27,Colorado,1.57
+2021/1/28,Colorado,1.71
+2021/1/29,Colorado,1.88
+2021/1/30,Colorado,2.06
+2021/1/31,Colorado,2.17
+2021/2/1,Colorado,2.27
+2021/2/2,Colorado,2.31
+2021/2/3,Colorado,2.44
+2021/2/4,Colorado,2.6
+2021/2/5,Colorado,2.82
+2021/2/6,Colorado,3.11
+2021/2/7,Colorado,3.43
+2021/2/8,Colorado,3.61
+2021/2/9,Colorado,3.67
+2021/2/10,Colorado,3.92
+2021/2/11,Colorado,4.16
+2021/2/12,Colorado,4.41
+2021/2/13,Colorado,4.72
+2021/2/14,Colorado,5.05
+2021/2/15,Colorado,5.21
+2021/2/16,Colorado,5.37
+2021/2/17,Colorado,5.46
+2021/2/18,Colorado,5.6
+2021/2/19,Colorado,6
+2021/2/20,Colorado,6.26
+2021/2/21,Colorado,6.57
+2021/2/22,Colorado,6.81
+2021/2/23,Colorado,6.83
+2021/2/24,Colorado,7.18
+2021/2/25,Colorado,7.4
+2021/2/26,Colorado,7.63
+2021/2/27,Colorado,7.65
+2021/2/28,Colorado,8.02
+2021/3/1,Colorado,8.33
+2021/3/2,Colorado,8.42
+2021/3/3,Colorado,8.67
+2021/3/4,Colorado,8.91
+2021/3/5,Colorado,9.14
+2021/3/6,Colorado,9.54
+2021/3/7,Colorado,9.86
+2021/3/8,Colorado,9.93
+2021/3/9,Colorado,10.16
+2021/3/10,Colorado,10.58
+2021/3/11,Colorado,11.12
+2021/3/12,Colorado,11.55
+2021/3/13,Colorado,12.07
+2021/3/14,Colorado,12.07
+2021/3/15,Colorado,12.51
+2021/3/16,Colorado,12.65
+2021/3/17,Colorado,12.97
+2021/3/18,Colorado,13.3
+2021/3/19,Colorado,13.6
+2021/3/20,Colorado,14.55
+2021/3/21,Colorado,15.05
+2021/3/22,Colorado,15.25
+2021/3/23,Colorado,15.45
+2021/3/24,Colorado,15.63
+2021/3/25,Colorado,15.85
+2021/3/26,Colorado,16.1
+2021/3/27,Colorado,16.43
+2021/3/28,Colorado,16.79
+2021/3/29,Colorado,16.95
+2021/3/30,Colorado,17.21
+2021/3/31,Colorado,17.51
+2021/4/1,Colorado,17.86
+2021/4/2,Colorado,18.25
+2021/4/3,Colorado,18.78
+2021/4/4,Colorado,19.25
+2021/4/5,Colorado,19.43
+2021/4/6,Colorado,19.65
+2021/4/7,Colorado,20.09
+2021/4/8,Colorado,20.51
+2021/4/9,Colorado,20.97
+2021/4/10,Colorado,21.7
+2021/4/11,Colorado,22.33
+2021/4/12,Colorado,22.78
+2021/4/13,Colorado,23.15
+2021/4/14,Colorado,23.6
+2021/4/15,Colorado,23.95
+2021/4/16,Colorado,24.41
+2021/4/17,Colorado,25.04
+2021/4/18,Colorado,25.74
+2021/4/19,Colorado,26.23
+2021/4/20,Colorado,26.67
+2021/4/21,Colorado,27.12
+2021/4/22,Colorado,27.72
+2021/4/23,Colorado,28.43
+2021/4/24,Colorado,28.48
+2021/4/25,Colorado,30
+2021/4/26,Colorado,30.31
+2021/4/27,Colorado,30.7
+2021/4/28,Colorado,31.12
+2021/4/29,Colorado,31.68
+2021/4/30,Colorado,32.24
+2021/5/1,Colorado,33.01
+2021/1/12,Connecticut,0.12
+2021/1/13,Connecticut,0.15
+2021/1/14,Connecticut,0.32
+2021/1/15,Connecticut,0.48
+2021/1/16,Connecticut,0.52
+2021/1/17,Connecticut,0.56
+2021/1/18,Connecticut,0.6
+2021/1/19,Connecticut,0.65
+2021/1/20,Connecticut,0.7
+2021/1/21,Connecticut,0.8
+2021/1/22,Connecticut,0.93
+2021/1/23,Connecticut,1.04
+2021/1/24,Connecticut,1.14
+2021/1/25,Connecticut,1.19
+2021/1/26,Connecticut,1.27
+2021/1/27,Connecticut,1.46
+2021/1/28,Connecticut,1.67
+2021/1/29,Connecticut,1.9
+2021/1/30,Connecticut,2.07
+2021/1/31,Connecticut,2.23
+2021/2/1,Connecticut,2.35
+2021/2/2,Connecticut,2.43
+2021/2/3,Connecticut,2.54
+2021/2/4,Connecticut,2.74
+2021/2/5,Connecticut,2.98
+2021/2/6,Connecticut,3.24
+2021/2/7,Connecticut,3.46
+2021/2/8,Connecticut,3.57
+2021/2/9,Connecticut,3.74
+2021/2/10,Connecticut,4.01
+2021/2/11,Connecticut,4.34
+2021/2/12,Connecticut,4.71
+2021/2/13,Connecticut,5.14
+2021/2/14,Connecticut,5.38
+2021/2/15,Connecticut,5.59
+2021/2/16,Connecticut,5.8
+2021/2/17,Connecticut,6.14
+2021/2/18,Connecticut,6.5
+2021/2/19,Connecticut,7.12
+2021/2/20,Connecticut,7.44
+2021/2/21,Connecticut,7.6
+2021/2/22,Connecticut,7.79
+2021/2/23,Connecticut,7.87
+2021/2/24,Connecticut,7.96
+2021/2/25,Connecticut,8.04
+2021/2/26,Connecticut,8.17
+2021/2/27,Connecticut,8.31
+2021/2/28,Connecticut,8.45
+2021/3/1,Connecticut,8.58
+2021/3/2,Connecticut,8.63
+2021/3/3,Connecticut,8.74
+2021/3/4,Connecticut,8.82
+2021/3/5,Connecticut,8.92
+2021/3/6,Connecticut,9.02
+2021/3/7,Connecticut,9.14
+2021/3/8,Connecticut,9.56
+2021/3/9,Connecticut,9.69
+2021/3/10,Connecticut,9.94
+2021/3/11,Connecticut,11.27
+2021/3/12,Connecticut,12.6
+2021/3/13,Connecticut,13.92
+2021/3/14,Connecticut,13.92
+2021/3/15,Connecticut,14.3
+2021/3/16,Connecticut,14.5
+2021/3/17,Connecticut,14.82
+2021/3/18,Connecticut,15.24
+2021/3/19,Connecticut,15.69
+2021/3/20,Connecticut,16.12
+2021/3/21,Connecticut,16.53
+2021/3/22,Connecticut,16.93
+2021/3/23,Connecticut,17.07
+2021/3/24,Connecticut,17.34
+2021/3/25,Connecticut,17.73
+2021/3/26,Connecticut,18.13
+2021/3/27,Connecticut,18.64
+2021/3/28,Connecticut,19.15
+2021/3/29,Connecticut,19.57
+2021/3/30,Connecticut,20
+2021/3/31,Connecticut,20.35
+2021/4/1,Connecticut,20.86
+2021/4/2,Connecticut,21.47
+2021/4/3,Connecticut,22.3
+2021/4/4,Connecticut,22.91
+2021/4/5,Connecticut,23.55
+2021/4/6,Connecticut,23.65
+2021/4/7,Connecticut,24.19
+2021/4/8,Connecticut,24.9
+2021/4/9,Connecticut,25.8
+2021/4/10,Connecticut,26.48
+2021/4/11,Connecticut,27.34
+2021/4/12,Connecticut,28.1
+2021/4/13,Connecticut,28.61
+2021/4/14,Connecticut,29.18
+2021/4/15,Connecticut,29.7
+2021/4/16,Connecticut,30.38
+2021/4/17,Connecticut,30.98
+2021/4/18,Connecticut,31.64
+2021/4/19,Connecticut,32.19
+2021/4/20,Connecticut,32.52
+2021/4/21,Connecticut,33.03
+2021/4/22,Connecticut,33.66
+2021/4/23,Connecticut,34.31
+2021/4/24,Connecticut,35.07
+2021/4/25,Connecticut,35.87
+2021/4/26,Connecticut,36.43
+2021/4/27,Connecticut,36.65
+2021/4/28,Connecticut,37.23
+2021/4/29,Connecticut,37.89
+2021/4/30,Connecticut,38.5
+2021/5/1,Connecticut,39.34
+2021/1/12,Delaware,0.29
+2021/1/13,Delaware,0.42
+2021/1/14,Delaware,0.49
+2021/1/15,Delaware,0.55
+2021/1/16,Delaware,0.59
+2021/1/17,Delaware,0.63
+2021/1/18,Delaware,0.67
+2021/1/19,Delaware,0.7
+2021/1/20,Delaware,0.71
+2021/1/21,Delaware,0.76
+2021/1/22,Delaware,0.91
+2021/1/23,Delaware,1.07
+2021/1/24,Delaware,1.18
+2021/1/25,Delaware,1.2
+2021/1/26,Delaware,1.2
+2021/1/27,Delaware,1.27
+2021/1/28,Delaware,1.35
+2021/1/29,Delaware,1.46
+2021/1/30,Delaware,1.54
+2021/1/31,Delaware,1.68
+2021/2/1,Delaware,1.81
+2021/2/2,Delaware,1.85
+2021/2/3,Delaware,1.91
+2021/2/4,Delaware,2.09
+2021/2/5,Delaware,2.18
+2021/2/6,Delaware,2.34
+2021/2/7,Delaware,2.49
+2021/2/8,Delaware,2.59
+2021/2/9,Delaware,2.61
+2021/2/10,Delaware,2.68
+2021/2/11,Delaware,2.76
+2021/2/12,Delaware,2.85
+2021/2/13,Delaware,3.02
+2021/2/14,Delaware,3.19
+2021/2/15,Delaware,3.34
+2021/2/16,Delaware,3.49
+2021/2/17,Delaware,3.66
+2021/2/18,Delaware,3.85
+2021/2/19,Delaware,4.06
+2021/2/20,Delaware,4.27
+2021/2/21,Delaware,4.48
+2021/2/22,Delaware,4.78
+2021/2/23,Delaware,5.01
+2021/2/24,Delaware,5.26
+2021/2/25,Delaware,5.64
+2021/2/26,Delaware,6.15
+2021/2/27,Delaware,6.75
+2021/2/28,Delaware,7.12
+2021/3/1,Delaware,7.57
+2021/3/2,Delaware,7.58
+2021/3/3,Delaware,8.35
+2021/3/4,Delaware,8.72
+2021/3/5,Delaware,9.18
+2021/3/6,Delaware,9.62
+2021/3/7,Delaware,10.06
+2021/3/8,Delaware,10.33
+2021/3/9,Delaware,10.64
+2021/3/10,Delaware,10.66
+2021/3/11,Delaware,11.11
+2021/3/12,Delaware,11.43
+2021/3/13,Delaware,11.85
+2021/3/14,Delaware,11.87
+2021/3/15,Delaware,12.4
+2021/3/16,Delaware,12.61
+2021/3/17,Delaware,12.79
+2021/3/18,Delaware,12.93
+2021/3/19,Delaware,13.06
+2021/3/20,Delaware,13.29
+2021/3/21,Delaware,13.5
+2021/3/22,Delaware,13.7
+2021/3/23,Delaware,13.72
+2021/3/24,Delaware,13.92
+2021/3/25,Delaware,14.22
+2021/3/26,Delaware,14.58
+2021/3/27,Delaware,15.01
+2021/3/28,Delaware,15.39
+2021/3/29,Delaware,15.7
+2021/3/30,Delaware,15.96
+2021/3/31,Delaware,16.41
+2021/4/1,Delaware,16.8
+2021/4/2,Delaware,17.22
+2021/4/3,Delaware,17.67
+2021/4/4,Delaware,18.08
+2021/4/5,Delaware,18.29
+2021/4/6,Delaware,18.38
+2021/4/7,Delaware,18.87
+2021/4/8,Delaware,19.26
+2021/4/9,Delaware,19.92
+2021/4/10,Delaware,20.64
+2021/4/11,Delaware,21.48
+2021/4/12,Delaware,21.81
+2021/4/13,Delaware,22.11
+2021/4/14,Delaware,22.81
+2021/4/15,Delaware,23.54
+2021/4/16,Delaware,24.27
+2021/4/17,Delaware,24.94
+2021/4/18,Delaware,25.61
+2021/4/19,Delaware,26.11
+2021/4/20,Delaware,26.32
+2021/4/21,Delaware,26.91
+2021/4/22,Delaware,27.59
+2021/4/23,Delaware,28.3
+2021/4/24,Delaware,29.01
+2021/4/25,Delaware,29.82
+2021/4/26,Delaware,30.23
+2021/4/27,Delaware,30.54
+2021/4/28,Delaware,31.22
+2021/4/29,Delaware,31.77
+2021/4/30,Delaware,32.47
+2021/5/1,Delaware,33.25
+2021/1/12,District of Columbia,0.09
+2021/1/13,District of Columbia,0.18
+2021/1/14,District of Columbia,0.68
+2021/1/15,District of Columbia,1.17
+2021/1/16,District of Columbia,1.24
+2021/1/17,District of Columbia,1.31
+2021/1/18,District of Columbia,1.38
+2021/1/19,District of Columbia,1.44
+2021/1/20,District of Columbia,1.5
+2021/1/21,District of Columbia,1.66
+2021/1/22,District of Columbia,1.71
+2021/1/23,District of Columbia,1.79
+2021/1/24,District of Columbia,1.85
+2021/1/25,District of Columbia,1.88
+2021/1/26,District of Columbia,1.88
+2021/1/27,District of Columbia,2.05
+2021/1/28,District of Columbia,2.15
+2021/1/29,District of Columbia,2.28
+2021/1/30,District of Columbia,2.41
+2021/1/31,District of Columbia,2.65
+2021/2/1,District of Columbia,2.72
+2021/2/2,District of Columbia,2.72
+2021/2/3,District of Columbia,2.8
+2021/2/4,District of Columbia,3.02
+2021/2/5,District of Columbia,3.22
+2021/2/6,District of Columbia,3.28
+2021/2/7,District of Columbia,3.34
+2021/2/8,District of Columbia,3.4
+2021/2/9,District of Columbia,3.46
+2021/2/10,District of Columbia,3.53
+2021/2/11,District of Columbia,3.6
+2021/2/12,District of Columbia,3.67
+2021/2/13,District of Columbia,3.74
+2021/2/14,District of Columbia,3.81
+2021/2/15,District of Columbia,3.88
+2021/2/16,District of Columbia,3.95
+2021/2/17,District of Columbia,4.02
+2021/2/18,District of Columbia,4.09
+2021/2/19,District of Columbia,4.16
+2021/2/20,District of Columbia,4.23
+2021/2/21,District of Columbia,4.32
+2021/2/22,District of Columbia,4.41
+2021/2/23,District of Columbia,4.51
+2021/2/24,District of Columbia,4.64
+2021/2/25,District of Columbia,4.79
+2021/2/26,District of Columbia,4.95
+2021/2/27,District of Columbia,5.42
+2021/2/28,District of Columbia,5.68
+2021/3/1,District of Columbia,5.84
+2021/3/2,District of Columbia,5.93
+2021/3/3,District of Columbia,6.07
+2021/3/4,District of Columbia,6.25
+2021/3/5,District of Columbia,6.43
+2021/3/6,District of Columbia,6.96
+2021/3/7,District of Columbia,7.14
+2021/3/8,District of Columbia,7.33
+2021/3/9,District of Columbia,7.48
+2021/3/10,District of Columbia,7.76
+2021/3/11,District of Columbia,8
+2021/3/12,District of Columbia,8.22
+2021/3/13,District of Columbia,8.49
+2021/3/14,District of Columbia,8.78
+2021/3/15,District of Columbia,9.28
+2021/3/16,District of Columbia,9.52
+2021/3/17,District of Columbia,9.75
+2021/3/18,District of Columbia,9.89
+2021/3/19,District of Columbia,10.09
+2021/3/20,District of Columbia,10.25
+2021/3/21,District of Columbia,10.43
+2021/3/22,District of Columbia,10.55
+2021/3/23,District of Columbia,10.62
+2021/3/24,District of Columbia,10.8
+2021/3/25,District of Columbia,11.3
+2021/3/26,District of Columbia,11.63
+2021/3/27,District of Columbia,11.98
+2021/3/28,District of Columbia,12.49
+2021/3/29,District of Columbia,12.94
+2021/3/30,District of Columbia,13.23
+2021/3/31,District of Columbia,13.81
+2021/4/1,District of Columbia,14.25
+2021/4/2,District of Columbia,14.72
+2021/4/3,District of Columbia,15.18
+2021/4/4,District of Columbia,15.57
+2021/4/5,District of Columbia,15.85
+2021/4/6,District of Columbia,16.05
+2021/4/7,District of Columbia,16.18
+2021/4/8,District of Columbia,17.24
+2021/4/9,District of Columbia,17.81
+2021/4/10,District of Columbia,18.52
+2021/4/11,District of Columbia,19.19
+2021/4/12,District of Columbia,19.76
+2021/4/13,District of Columbia,20.43
+2021/4/14,District of Columbia,20.94
+2021/4/15,District of Columbia,21.69
+2021/4/16,District of Columbia,22.3
+2021/4/17,District of Columbia,22.84
+2021/4/18,District of Columbia,23.5
+2021/4/19,District of Columbia,24
+2021/4/20,District of Columbia,24.16
+2021/4/21,District of Columbia,24.67
+2021/4/22,District of Columbia,25.23
+2021/4/23,District of Columbia,25.87
+2021/4/24,District of Columbia,26.54
+2021/4/25,District of Columbia,27.41
+2021/4/26,District of Columbia,27.89
+2021/4/27,District of Columbia,28.27
+2021/4/28,District of Columbia,28.72
+2021/4/29,District of Columbia,29.24
+2021/4/30,District of Columbia,29.77
+2021/5/1,District of Columbia,30.31
+2021/1/12,Florida,0.19
+2021/1/13,Florida,0.25
+2021/1/14,Florida,0.3
+2021/1/15,Florida,0.35
+2021/1/16,Florida,0.38
+2021/1/17,Florida,0.41
+2021/1/18,Florida,0.44
+2021/1/19,Florida,0.48
+2021/1/20,Florida,0.52
+2021/1/21,Florida,0.52
+2021/1/22,Florida,0.58
+2021/1/23,Florida,0.71
+2021/1/24,Florida,0.72
+2021/1/25,Florida,0.73
+2021/1/26,Florida,0.74
+2021/1/27,Florida,0.82
+2021/1/28,Florida,0.95
+2021/1/29,Florida,1.1
+2021/1/30,Florida,1.28
+2021/1/31,Florida,1.39
+2021/2/1,Florida,1.47
+2021/2/2,Florida,1.53
+2021/2/3,Florida,1.74
+2021/2/4,Florida,1.97
+2021/2/5,Florida,2.05
+2021/2/6,Florida,2.38
+2021/2/7,Florida,2.93
+2021/2/8,Florida,2.93
+2021/2/9,Florida,3.23
+2021/2/10,Florida,3.52
+2021/2/11,Florida,3.83
+2021/2/12,Florida,4.48
+2021/2/13,Florida,4.79
+2021/2/14,Florida,5.04
+2021/2/15,Florida,5.16
+2021/2/16,Florida,5.28
+2021/2/17,Florida,5.5
+2021/2/18,Florida,5.73
+2021/2/19,Florida,6.42
+2021/2/20,Florida,6.44
+2021/2/21,Florida,6.62
+2021/2/22,Florida,6.8
+2021/2/23,Florida,6.85
+2021/2/24,Florida,7.04
+2021/2/25,Florida,7.3
+2021/2/26,Florida,7.53
+2021/2/27,Florida,7.77
+2021/2/28,Florida,8.2
+2021/3/1,Florida,8.2
+2021/3/2,Florida,8.26
+2021/3/3,Florida,8.42
+2021/3/4,Florida,8.66
+2021/3/5,Florida,8.86
+2021/3/6,Florida,9.21
+2021/3/7,Florida,9.52
+2021/3/8,Florida,9.57
+2021/3/9,Florida,9.66
+2021/3/10,Florida,9.83
+2021/3/11,Florida,10.15
+2021/3/12,Florida,10.44
+2021/3/13,Florida,11.17
+2021/3/14,Florida,11.39
+2021/3/15,Florida,11.42
+2021/3/16,Florida,11.63
+2021/3/17,Florida,11.93
+2021/3/18,Florida,12.25
+2021/3/19,Florida,12.53
+2021/3/20,Florida,12.98
+2021/3/21,Florida,13.3
+2021/3/22,Florida,13.31
+2021/3/23,Florida,13.44
+2021/3/24,Florida,13.68
+2021/3/25,Florida,13.98
+2021/3/26,Florida,14.3
+2021/3/27,Florida,14.72
+2021/3/28,Florida,15.12
+2021/3/29,Florida,15.14
+2021/3/30,Florida,15.43
+2021/3/31,Florida,15.76
+2021/4/1,Florida,16.25
+2021/4/2,Florida,16.7
+2021/4/3,Florida,17.19
+2021/4/4,Florida,17.94
+2021/4/5,Florida,17.95
+2021/4/6,Florida,18.06
+2021/4/7,Florida,18.46
+2021/4/8,Florida,19.14
+2021/4/9,Florida,19.8
+2021/4/10,Florida,20.45
+2021/4/11,Florida,21.07
+2021/4/12,Florida,21.44
+2021/4/13,Florida,21.66
+2021/4/14,Florida,21.91
+2021/4/15,Florida,22.44
+2021/4/16,Florida,22.91
+2021/4/17,Florida,23.52
+2021/4/18,Florida,24.31
+2021/4/19,Florida,24.32
+2021/4/20,Florida,24.47
+2021/4/21,Florida,24.88
+2021/4/22,Florida,25.41
+2021/4/23,Florida,25.98
+2021/4/24,Florida,26.54
+2021/4/25,Florida,27.15
+2021/4/26,Florida,27.5
+2021/4/27,Florida,27.69
+2021/4/28,Florida,28.09
+2021/4/29,Florida,28.57
+2021/4/30,Florida,28.98
+2021/5/1,Florida,29.85
+2021/1/12,Georgia,0.07
+2021/1/13,Georgia,0.08
+2021/1/14,Georgia,0.14
+2021/1/15,Georgia,0.21
+2021/1/16,Georgia,0.22
+2021/1/17,Georgia,0.23
+2021/1/18,Georgia,0.25
+2021/1/19,Georgia,0.27
+2021/1/20,Georgia,0.33
+2021/1/21,Georgia,0.38
+2021/1/22,Georgia,0.56
+2021/1/23,Georgia,0.56
+2021/1/24,Georgia,0.56
+2021/1/25,Georgia,0.56
+2021/1/26,Georgia,0.61
+2021/1/27,Georgia,0.71
+2021/1/28,Georgia,0.84
+2021/1/29,Georgia,0.94
+2021/1/30,Georgia,1.03
+2021/1/31,Georgia,1.13
+2021/2/1,Georgia,1.18
+2021/2/2,Georgia,1.22
+2021/2/3,Georgia,1.33
+2021/2/4,Georgia,1.44
+2021/2/5,Georgia,1.59
+2021/2/6,Georgia,1.78
+2021/2/7,Georgia,1.98
+2021/2/8,Georgia,2.07
+2021/2/9,Georgia,2.15
+2021/2/10,Georgia,2.37
+2021/2/11,Georgia,2.63
+2021/2/12,Georgia,2.63
+2021/2/13,Georgia,2.96
+2021/2/14,Georgia,3.58
+2021/2/15,Georgia,3.68
+2021/2/16,Georgia,3.79
+2021/2/17,Georgia,3.79
+2021/2/18,Georgia,4.36
+2021/2/19,Georgia,4.97
+2021/2/20,Georgia,5.35
+2021/2/21,Georgia,5.6
+2021/2/22,Georgia,5.84
+2021/2/23,Georgia,5.88
+2021/2/24,Georgia,6.12
+2021/2/25,Georgia,6.36
+2021/2/26,Georgia,6.65
+2021/2/27,Georgia,6.98
+2021/2/28,Georgia,7
+2021/3/1,Georgia,7
+2021/3/2,Georgia,7.03
+2021/3/3,Georgia,7.3
+2021/3/4,Georgia,7.59
+2021/3/5,Georgia,7.93
+2021/3/6,Georgia,8.17
+2021/3/7,Georgia,8.42
+2021/3/8,Georgia,8.52
+2021/3/9,Georgia,8.58
+2021/3/10,Georgia,8.59
+2021/3/11,Georgia,8.82
+2021/3/12,Georgia,9.23
+2021/3/13,Georgia,9.5
+2021/3/14,Georgia,9.74
+2021/3/15,Georgia,9.84
+2021/3/16,Georgia,9.88
+2021/3/17,Georgia,9.89
+2021/3/18,Georgia,10.19
+2021/3/19,Georgia,10.21
+2021/3/20,Georgia,10.72
+2021/3/21,Georgia,10.88
+2021/3/22,Georgia,11.04
+2021/3/23,Georgia,11.04
+2021/3/24,Georgia,11.22
+2021/3/25,Georgia,11.38
+2021/3/26,Georgia,11.58
+2021/3/27,Georgia,11.77
+2021/3/28,Georgia,11.94
+2021/3/29,Georgia,12.01
+2021/3/30,Georgia,12.06
+2021/3/31,Georgia,12.26
+2021/4/1,Georgia,12.5
+2021/4/2,Georgia,12.81
+2021/4/3,Georgia,13.11
+2021/4/4,Georgia,13.13
+2021/4/5,Georgia,13.33
+2021/4/6,Georgia,13.39
+2021/4/7,Georgia,14.08
+2021/4/8,Georgia,14.47
+2021/4/9,Georgia,14.95
+2021/4/10,Georgia,14.99
+2021/4/11,Georgia,15.02
+2021/4/12,Georgia,15.03
+2021/4/13,Georgia,15.91
+2021/4/14,Georgia,16.79
+2021/4/15,Georgia,17.29
+2021/4/16,Georgia,17.9
+2021/4/17,Georgia,18.51
+2021/4/18,Georgia,19.08
+2021/4/19,Georgia,19.54
+2021/4/20,Georgia,19.79
+2021/4/21,Georgia,20.21
+2021/4/22,Georgia,20.75
+2021/4/23,Georgia,21.32
+2021/4/24,Georgia,21.94
+2021/4/25,Georgia,21.96
+2021/4/26,Georgia,22.49
+2021/4/27,Georgia,22.81
+2021/4/28,Georgia,23.27
+2021/4/29,Georgia,23.81
+2021/4/30,Georgia,24.41
+2021/5/1,Georgia,24.95
+2021/1/12,Hawaii,0.13
+2021/1/13,Hawaii,0.26
+2021/1/14,Hawaii,0.39
+2021/1/15,Hawaii,0.51
+2021/1/16,Hawaii,0.58
+2021/1/17,Hawaii,0.65
+2021/1/18,Hawaii,0.72
+2021/1/19,Hawaii,0.8
+2021/1/20,Hawaii,0.98
+2021/1/21,Hawaii,1.14
+2021/1/22,Hawaii,1.16
+2021/1/23,Hawaii,1.19
+2021/1/24,Hawaii,1.19
+2021/1/25,Hawaii,1.26
+2021/1/26,Hawaii,1.27
+2021/1/27,Hawaii,1.31
+2021/1/28,Hawaii,1.4
+2021/1/29,Hawaii,1.54
+2021/1/30,Hawaii,1.68
+2021/1/31,Hawaii,1.83
+2021/2/1,Hawaii,1.91
+2021/2/2,Hawaii,1.92
+2021/2/3,Hawaii,1.99
+2021/2/4,Hawaii,2.16
+2021/2/5,Hawaii,2.38
+2021/2/6,Hawaii,2.62
+2021/2/7,Hawaii,2.86
+2021/2/8,Hawaii,3
+2021/2/9,Hawaii,3
+2021/2/10,Hawaii,3
+2021/2/11,Hawaii,3.53
+2021/2/12,Hawaii,3.81
+2021/2/13,Hawaii,4.11
+2021/2/14,Hawaii,4.4
+2021/2/15,Hawaii,4.62
+2021/2/16,Hawaii,4.85
+2021/2/17,Hawaii,4.93
+2021/2/18,Hawaii,5.17
+2021/2/19,Hawaii,6.42
+2021/2/20,Hawaii,6.85
+2021/2/21,Hawaii,7.26
+2021/2/22,Hawaii,7.62
+2021/2/23,Hawaii,7.71
+2021/2/24,Hawaii,7.99
+2021/2/25,Hawaii,8.31
+2021/2/26,Hawaii,8.7
+2021/2/27,Hawaii,9.17
+2021/2/28,Hawaii,9.67
+2021/3/1,Hawaii,9.98
+2021/3/2,Hawaii,10.15
+2021/3/3,Hawaii,10.44
+2021/3/4,Hawaii,10.91
+2021/3/5,Hawaii,11.28
+2021/3/6,Hawaii,11.69
+2021/3/7,Hawaii,11.77
+2021/3/8,Hawaii,12.35
+2021/3/9,Hawaii,12.71
+2021/3/10,Hawaii,13.04
+2021/3/11,Hawaii,13.33
+2021/3/12,Hawaii,13.68
+2021/3/13,Hawaii,14.06
+2021/3/14,Hawaii,14.34
+2021/3/15,Hawaii,14.69
+2021/3/16,Hawaii,14.91
+2021/3/17,Hawaii,15.25
+2021/3/18,Hawaii,15.51
+2021/3/19,Hawaii,15.83
+2021/3/20,Hawaii,16.11
+2021/3/21,Hawaii,16.35
+2021/3/22,Hawaii,16.42
+2021/3/23,Hawaii,16.61
+2021/3/24,Hawaii,16.84
+2021/3/25,Hawaii,17.15
+2021/3/26,Hawaii,17.68
+2021/3/27,Hawaii,17.72
+2021/3/28,Hawaii,17.77
+2021/3/29,Hawaii,18.33
+2021/3/30,Hawaii,18.51
+2021/3/31,Hawaii,18.96
+2021/4/1,Hawaii,19.51
+2021/4/2,Hawaii,20.11
+2021/4/3,Hawaii,20.49
+2021/4/4,Hawaii,20.95
+2021/4/5,Hawaii,21.12
+2021/4/6,Hawaii,21.43
+2021/4/7,Hawaii,22
+2021/4/8,Hawaii,22.75
+2021/4/9,Hawaii,23.6
+2021/4/10,Hawaii,23.66
+2021/4/11,Hawaii,24.4
+2021/4/12,Hawaii,25.21
+2021/4/13,Hawaii,25.67
+2021/4/14,Hawaii,26.3
+2021/4/15,Hawaii,26.79
+2021/4/16,Hawaii,27.4
+2021/4/17,Hawaii,27.88
+2021/4/18,Hawaii,28.4
+2021/4/19,Hawaii,28.65
+2021/4/20,Hawaii,31.09
+2021/4/21,Hawaii,31.45
+2021/4/22,Hawaii,31.92
+2021/4/23,Hawaii,32.31
+2021/4/24,Hawaii,32.81
+2021/4/25,Hawaii,33.44
+2021/4/26,Hawaii,33.82
+2021/4/27,Hawaii,34.13
+2021/4/28,Hawaii,34.62
+2021/4/29,Hawaii,35.08
+2021/4/30,Hawaii,35.65
+2021/5/1,Hawaii,36.14
+2021/1/12,Idaho,0.24
+2021/1/13,Idaho,0.32
+2021/1/14,Idaho,0.4
+2021/1/15,Idaho,0.49
+2021/1/16,Idaho,0.51
+2021/1/17,Idaho,0.53
+2021/1/18,Idaho,0.55
+2021/1/19,Idaho,0.57
+2021/1/20,Idaho,0.6
+2021/1/21,Idaho,0.66
+2021/1/22,Idaho,0.73
+2021/1/23,Idaho,0.77
+2021/1/24,Idaho,0.79
+2021/1/25,Idaho,0.81
+2021/1/26,Idaho,0.82
+2021/1/27,Idaho,0.86
+2021/1/28,Idaho,0.94
+2021/1/29,Idaho,1.06
+2021/1/30,Idaho,1.13
+2021/1/31,Idaho,1.21
+2021/2/1,Idaho,1.26
+2021/2/2,Idaho,1.27
+2021/2/3,Idaho,1.35
+2021/2/4,Idaho,1.47
+2021/2/5,Idaho,1.62
+2021/2/6,Idaho,1.79
+2021/2/7,Idaho,1.92
+2021/2/8,Idaho,2.01
+2021/2/9,Idaho,2.07
+2021/2/10,Idaho,2.22
+2021/2/11,Idaho,2.42
+2021/2/12,Idaho,2.42
+2021/2/13,Idaho,2.6
+2021/2/14,Idaho,3.17
+2021/2/15,Idaho,3.4
+2021/2/16,Idaho,3.62
+2021/2/17,Idaho,3.79
+2021/2/18,Idaho,4
+2021/2/19,Idaho,4.56
+2021/2/20,Idaho,4.79
+2021/2/21,Idaho,5.16
+2021/2/22,Idaho,5.53
+2021/2/23,Idaho,5.65
+2021/2/24,Idaho,5.86
+2021/2/25,Idaho,6.21
+2021/2/26,Idaho,6.51
+2021/2/27,Idaho,6.8
+2021/2/28,Idaho,7.17
+2021/3/1,Idaho,7.46
+2021/3/2,Idaho,7.61
+2021/3/3,Idaho,7.87
+2021/3/4,Idaho,8.14
+2021/3/5,Idaho,8.52
+2021/3/6,Idaho,8.93
+2021/3/7,Idaho,9.33
+2021/3/8,Idaho,9.76
+2021/3/9,Idaho,9.98
+2021/3/10,Idaho,10.2
+2021/3/11,Idaho,10.48
+2021/3/12,Idaho,10.83
+2021/3/13,Idaho,11.19
+2021/3/14,Idaho,11.56
+2021/3/15,Idaho,11.87
+2021/3/16,Idaho,12.04
+2021/3/17,Idaho,12.07
+2021/3/18,Idaho,12.57
+2021/3/19,Idaho,12.94
+2021/3/20,Idaho,13.38
+2021/3/21,Idaho,13.71
+2021/3/22,Idaho,14
+2021/3/23,Idaho,14.21
+2021/3/24,Idaho,14.42
+2021/3/25,Idaho,14.66
+2021/3/26,Idaho,14.99
+2021/3/27,Idaho,15.34
+2021/3/28,Idaho,15.79
+2021/3/29,Idaho,16.05
+2021/3/30,Idaho,16.19
+2021/3/31,Idaho,16.46
+2021/4/1,Idaho,16.8
+2021/4/2,Idaho,17.21
+2021/4/3,Idaho,17.63
+2021/4/4,Idaho,18.02
+2021/4/5,Idaho,18.29
+2021/4/6,Idaho,18.37
+2021/4/7,Idaho,18.79
+2021/4/8,Idaho,19.21
+2021/4/9,Idaho,19.71
+2021/4/10,Idaho,20.26
+2021/4/11,Idaho,20.88
+2021/4/12,Idaho,20.97
+2021/4/13,Idaho,21.06
+2021/4/14,Idaho,21.15
+2021/4/15,Idaho,21.57
+2021/4/16,Idaho,22.08
+2021/4/17,Idaho,22.64
+2021/4/18,Idaho,23.19
+2021/4/19,Idaho,23.42
+2021/4/20,Idaho,23.54
+2021/4/21,Idaho,23.85
+2021/4/22,Idaho,24.23
+2021/4/23,Idaho,24.7
+2021/4/24,Idaho,25.18
+2021/4/25,Idaho,25.73
+2021/4/26,Idaho,25.96
+2021/4/27,Idaho,26.03
+2021/4/28,Idaho,26.32
+2021/4/29,Idaho,26.62
+2021/4/30,Idaho,26.99
+2021/5/1,Idaho,27.35
+2021/1/12,Illinois,0.5
+2021/1/13,Illinois,0.59
+2021/1/14,Illinois,0.65
+2021/1/15,Illinois,0.72
+2021/1/16,Illinois,0.75
+2021/1/17,Illinois,0.77
+2021/1/18,Illinois,0.8
+2021/1/19,Illinois,0.82
+2021/1/20,Illinois,0.85
+2021/1/21,Illinois,0.88
+2021/1/22,Illinois,0.95
+2021/1/23,Illinois,1.02
+2021/1/24,Illinois,1.07
+2021/1/25,Illinois,1.08
+2021/1/26,Illinois,1.11
+2021/1/27,Illinois,1.17
+2021/1/28,Illinois,1.28
+2021/1/29,Illinois,1.43
+2021/1/30,Illinois,1.56
+2021/1/31,Illinois,1.67
+2021/2/1,Illinois,1.73
+2021/2/2,Illinois,1.76
+2021/2/3,Illinois,1.82
+2021/2/4,Illinois,1.96
+2021/2/5,Illinois,2.05
+2021/2/6,Illinois,2.17
+2021/2/7,Illinois,2.28
+2021/2/8,Illinois,2.36
+2021/2/9,Illinois,2.39
+2021/2/10,Illinois,2.48
+2021/2/11,Illinois,2.61
+2021/2/12,Illinois,2.75
+2021/2/13,Illinois,2.97
+2021/2/14,Illinois,3.16
+2021/2/15,Illinois,3.25
+2021/2/16,Illinois,3.34
+2021/2/17,Illinois,3.4
+2021/2/18,Illinois,3.52
+2021/2/19,Illinois,3.89
+2021/2/20,Illinois,4.16
+2021/2/21,Illinois,4.42
+2021/2/22,Illinois,4.56
+2021/2/23,Illinois,4.76
+2021/2/24,Illinois,4.92
+2021/2/25,Illinois,5.15
+2021/2/26,Illinois,5.55
+2021/2/27,Illinois,5.98
+2021/2/28,Illinois,6.36
+2021/3/1,Illinois,6.69
+2021/3/2,Illinois,6.85
+2021/3/3,Illinois,7.09
+2021/3/4,Illinois,7.41
+2021/3/5,Illinois,7.77
+2021/3/6,Illinois,8.29
+2021/3/7,Illinois,8.75
+2021/3/8,Illinois,9.11
+2021/3/9,Illinois,9.21
+2021/3/10,Illinois,9.48
+2021/3/11,Illinois,9.83
+2021/3/12,Illinois,10.5
+2021/3/13,Illinois,11.54
+2021/3/14,Illinois,11.54
+2021/3/15,Illinois,11.9
+2021/3/16,Illinois,12.24
+2021/3/17,Illinois,12.57
+2021/3/18,Illinois,12.92
+2021/3/19,Illinois,13.24
+2021/3/20,Illinois,13.6
+2021/3/21,Illinois,13.95
+2021/3/22,Illinois,14.19
+2021/3/23,Illinois,14.32
+2021/3/24,Illinois,14.52
+2021/3/25,Illinois,14.77
+2021/3/26,Illinois,15.04
+2021/3/27,Illinois,15.35
+2021/3/28,Illinois,15.76
+2021/3/29,Illinois,16.12
+2021/3/30,Illinois,16.26
+2021/3/31,Illinois,16.49
+2021/4/1,Illinois,16.89
+2021/4/2,Illinois,17.24
+2021/4/3,Illinois,17.7
+2021/4/4,Illinois,18.16
+2021/4/5,Illinois,18.52
+2021/4/6,Illinois,18.61
+2021/4/7,Illinois,18.94
+2021/4/8,Illinois,19.48
+2021/4/9,Illinois,20.08
+2021/4/10,Illinois,20.83
+2021/4/11,Illinois,21.68
+2021/4/12,Illinois,22.27
+2021/4/13,Illinois,22.48
+2021/4/14,Illinois,22.69
+2021/4/15,Illinois,23.26
+2021/4/16,Illinois,23.77
+2021/4/17,Illinois,24.45
+2021/4/18,Illinois,25.12
+2021/4/19,Illinois,25.58
+2021/4/20,Illinois,25.85
+2021/4/21,Illinois,26.24
+2021/4/22,Illinois,26.86
+2021/4/23,Illinois,27.42
+2021/4/24,Illinois,28
+2021/4/25,Illinois,28.56
+2021/4/26,Illinois,28.92
+2021/4/27,Illinois,29.09
+2021/4/28,Illinois,29.42
+2021/4/29,Illinois,29.91
+2021/4/30,Illinois,30.43
+2021/5/1,Illinois,30.85
+2021/1/12,Indiana,0.35
+2021/1/13,Indiana,0.48
+2021/1/14,Indiana,0.52
+2021/1/15,Indiana,0.56
+2021/1/16,Indiana,0.61
+2021/1/17,Indiana,0.66
+2021/1/18,Indiana,0.71
+2021/1/19,Indiana,0.76
+2021/1/20,Indiana,0.87
+2021/1/21,Indiana,0.99
+2021/1/22,Indiana,1.1
+2021/1/23,Indiana,1.16
+2021/1/24,Indiana,1.16
+2021/1/25,Indiana,1.24
+2021/1/26,Indiana,1.26
+2021/1/27,Indiana,1.36
+2021/1/28,Indiana,1.45
+2021/1/29,Indiana,1.56
+2021/1/30,Indiana,1.65
+2021/1/31,Indiana,1.65
+2021/2/1,Indiana,1.65
+2021/2/2,Indiana,1.68
+2021/2/3,Indiana,1.79
+2021/2/4,Indiana,1.93
+2021/2/5,Indiana,2.12
+2021/2/6,Indiana,2.32
+2021/2/7,Indiana,2.32
+2021/2/8,Indiana,2.32
+2021/2/9,Indiana,2.4
+2021/2/10,Indiana,2.63
+2021/2/11,Indiana,2.89
+2021/2/12,Indiana,3.17
+2021/2/13,Indiana,3.98
+2021/2/14,Indiana,4.27
+2021/2/15,Indiana,4.39
+2021/2/16,Indiana,4.5
+2021/2/17,Indiana,4.66
+2021/2/18,Indiana,4.76
+2021/2/19,Indiana,5.21
+2021/2/20,Indiana,5.54
+2021/2/21,Indiana,5.84
+2021/2/22,Indiana,6.03
+2021/2/23,Indiana,6.08
+2021/2/24,Indiana,6.58
+2021/2/25,Indiana,7.39
+2021/2/26,Indiana,7.77
+2021/2/27,Indiana,8.14
+2021/2/28,Indiana,8.44
+2021/3/1,Indiana,8.65
+2021/3/2,Indiana,8.71
+2021/3/3,Indiana,8.98
+2021/3/4,Indiana,9.31
+2021/3/5,Indiana,9.69
+2021/3/6,Indiana,10.05
+2021/3/7,Indiana,10.35
+2021/3/8,Indiana,10.65
+2021/3/9,Indiana,10.75
+2021/3/10,Indiana,11.07
+2021/3/11,Indiana,11.37
+2021/3/12,Indiana,11.76
+2021/3/13,Indiana,12.44
+2021/3/14,Indiana,12.44
+2021/3/15,Indiana,12.69
+2021/3/16,Indiana,12.77
+2021/3/17,Indiana,13.01
+2021/3/18,Indiana,13.27
+2021/3/19,Indiana,13.57
+2021/3/20,Indiana,13.93
+2021/3/21,Indiana,14.21
+2021/3/22,Indiana,14.4
+2021/3/23,Indiana,14.48
+2021/3/24,Indiana,14.7
+2021/3/25,Indiana,15.02
+2021/3/26,Indiana,15.4
+2021/3/27,Indiana,15.75
+2021/3/28,Indiana,16.08
+2021/3/29,Indiana,16.31
+2021/3/30,Indiana,16.39
+2021/3/31,Indiana,16.69
+2021/4/1,Indiana,17.04
+2021/4/2,Indiana,17.45
+2021/4/3,Indiana,17.95
+2021/4/4,Indiana,18.32
+2021/4/5,Indiana,18.57
+2021/4/6,Indiana,18.61
+2021/4/7,Indiana,18.91
+2021/4/8,Indiana,19.28
+2021/4/9,Indiana,19.7
+2021/4/10,Indiana,20.15
+2021/4/11,Indiana,20.53
+2021/4/12,Indiana,20.87
+2021/4/13,Indiana,20.96
+2021/4/14,Indiana,21.09
+2021/4/15,Indiana,21.54
+2021/4/16,Indiana,22
+2021/4/17,Indiana,22.43
+2021/4/18,Indiana,22.79
+2021/4/19,Indiana,22.98
+2021/4/20,Indiana,23.06
+2021/4/21,Indiana,23.36
+2021/4/22,Indiana,23.75
+2021/4/23,Indiana,24.21
+2021/4/24,Indiana,24.66
+2021/4/25,Indiana,25.02
+2021/4/26,Indiana,25.27
+2021/4/27,Indiana,25.41
+2021/4/28,Indiana,25.78
+2021/4/29,Indiana,26.25
+2021/4/30,Indiana,26.81
+2021/5/1,Indiana,27.3
+2021/1/12,Iowa,0.19
+2021/1/13,Iowa,0.22
+2021/1/14,Iowa,0.26
+2021/1/15,Iowa,0.34
+2021/1/16,Iowa,0.36
+2021/1/17,Iowa,0.38
+2021/1/18,Iowa,0.39
+2021/1/19,Iowa,0.4
+2021/1/20,Iowa,0.44
+2021/1/21,Iowa,0.53
+2021/1/22,Iowa,0.71
+2021/1/23,Iowa,0.84
+2021/1/24,Iowa,0.98
+2021/1/25,Iowa,1.02
+2021/1/26,Iowa,1.03
+2021/1/27,Iowa,1.14
+2021/1/28,Iowa,1.28
+2021/1/29,Iowa,1.48
+2021/1/30,Iowa,1.66
+2021/1/31,Iowa,1.85
+2021/2/1,Iowa,1.91
+2021/2/2,Iowa,1.94
+2021/2/3,Iowa,2.04
+2021/2/4,Iowa,2.2
+2021/2/5,Iowa,2.35
+2021/2/6,Iowa,2.56
+2021/2/7,Iowa,2.77
+2021/2/8,Iowa,2.84
+2021/2/9,Iowa,2.87
+2021/2/10,Iowa,3.03
+2021/2/11,Iowa,3.17
+2021/2/12,Iowa,3.32
+2021/2/13,Iowa,3.48
+2021/2/14,Iowa,3.66
+2021/2/15,Iowa,3.73
+2021/2/16,Iowa,3.8
+2021/2/17,Iowa,3.88
+2021/2/18,Iowa,3.93
+2021/2/19,Iowa,4.28
+2021/2/20,Iowa,4.47
+2021/2/21,Iowa,4.68
+2021/2/22,Iowa,4.82
+2021/2/23,Iowa,4.86
+2021/2/24,Iowa,4.92
+2021/2/25,Iowa,5.01
+2021/2/26,Iowa,5.17
+2021/2/27,Iowa,5.36
+2021/2/28,Iowa,5.66
+2021/3/1,Iowa,5.96
+2021/3/2,Iowa,6.03
+2021/3/3,Iowa,6.23
+2021/3/4,Iowa,6.53
+2021/3/5,Iowa,6.96
+2021/3/6,Iowa,8.03
+2021/3/7,Iowa,8.7
+2021/3/8,Iowa,9.66
+2021/3/9,Iowa,9.93
+2021/3/10,Iowa,10.24
+2021/3/11,Iowa,10.76
+2021/3/12,Iowa,11.4
+2021/3/13,Iowa,12.92
+2021/3/14,Iowa,12.92
+2021/3/15,Iowa,13.42
+2021/3/16,Iowa,13.6
+2021/3/17,Iowa,13.61
+2021/3/18,Iowa,14
+2021/3/19,Iowa,14.72
+2021/3/20,Iowa,15.4
+2021/3/21,Iowa,15.95
+2021/3/22,Iowa,16.27
+2021/3/23,Iowa,16.4
+2021/3/24,Iowa,16.59
+2021/3/25,Iowa,16.8
+2021/3/26,Iowa,17.26
+2021/3/27,Iowa,17.83
+2021/3/28,Iowa,18.57
+2021/3/29,Iowa,18.98
+2021/3/30,Iowa,19.12
+2021/3/31,Iowa,19.34
+2021/4/1,Iowa,19.7
+2021/4/2,Iowa,20.18
+2021/4/3,Iowa,21.31
+2021/4/4,Iowa,21.33
+2021/4/5,Iowa,21.66
+2021/4/6,Iowa,21.77
+2021/4/7,Iowa,22.04
+2021/4/8,Iowa,22.58
+2021/4/9,Iowa,23.23
+2021/4/10,Iowa,23.94
+2021/4/11,Iowa,24.84
+2021/4/12,Iowa,25.25
+2021/4/13,Iowa,25.49
+2021/4/14,Iowa,26.04
+2021/4/15,Iowa,26.58
+2021/4/16,Iowa,27.16
+2021/4/17,Iowa,27.75
+2021/4/18,Iowa,28.37
+2021/4/19,Iowa,28.75
+2021/4/20,Iowa,28.87
+2021/4/21,Iowa,29.17
+2021/4/22,Iowa,29.67
+2021/4/23,Iowa,30.29
+2021/4/24,Iowa,30.97
+2021/4/25,Iowa,31.71
+2021/4/26,Iowa,31.99
+2021/4/27,Iowa,32.24
+2021/4/28,Iowa,32.5
+2021/4/29,Iowa,33.16
+2021/4/30,Iowa,33.81
+2021/5/1,Iowa,34.53
+2021/1/12,Kansas,0.33
+2021/1/13,Kansas,0.43
+2021/1/14,Kansas,0.44
+2021/1/15,Kansas,0.46
+2021/1/16,Kansas,0.48
+2021/1/17,Kansas,0.5
+2021/1/18,Kansas,0.52
+2021/1/19,Kansas,0.54
+2021/1/20,Kansas,0.55
+2021/1/21,Kansas,0.6
+2021/1/22,Kansas,0.66
+2021/1/23,Kansas,0.72
+2021/1/24,Kansas,0.78
+2021/1/25,Kansas,0.81
+2021/1/26,Kansas,0.87
+2021/1/27,Kansas,0.91
+2021/1/28,Kansas,1.08
+2021/1/29,Kansas,1.08
+2021/1/30,Kansas,1.26
+2021/1/31,Kansas,1.36
+2021/2/1,Kansas,1.45
+2021/2/2,Kansas,1.52
+2021/2/3,Kansas,1.63
+2021/2/4,Kansas,1.76
+2021/2/5,Kansas,1.88
+2021/2/6,Kansas,2.07
+2021/2/7,Kansas,2.25
+2021/2/8,Kansas,2.35
+2021/2/9,Kansas,2.41
+2021/2/10,Kansas,2.63
+2021/2/11,Kansas,2.81
+2021/2/12,Kansas,2.97
+2021/2/13,Kansas,3.14
+2021/2/14,Kansas,3.41
+2021/2/15,Kansas,3.46
+2021/2/16,Kansas,3.52
+2021/2/17,Kansas,3.65
+2021/2/18,Kansas,3.87
+2021/2/19,Kansas,4.41
+2021/2/20,Kansas,4.76
+2021/2/21,Kansas,5.09
+2021/2/22,Kansas,5.61
+2021/2/23,Kansas,5.66
+2021/2/24,Kansas,5.89
+2021/2/25,Kansas,6.11
+2021/2/26,Kansas,6.38
+2021/2/27,Kansas,6.78
+2021/2/28,Kansas,7.19
+2021/3/1,Kansas,7.29
+2021/3/2,Kansas,7.44
+2021/3/3,Kansas,7.65
+2021/3/4,Kansas,7.87
+2021/3/5,Kansas,8.16
+2021/3/6,Kansas,8.48
+2021/3/7,Kansas,8.84
+2021/3/8,Kansas,8.99
+2021/3/9,Kansas,9.1
+2021/3/10,Kansas,9.38
+2021/3/11,Kansas,9.78
+2021/3/12,Kansas,10.42
+2021/3/13,Kansas,10.51
+2021/3/14,Kansas,11.1
+2021/3/15,Kansas,11.3
+2021/3/16,Kansas,11.47
+2021/3/17,Kansas,11.67
+2021/3/18,Kansas,11.96
+2021/3/19,Kansas,12.41
+2021/3/20,Kansas,12.84
+2021/3/21,Kansas,13.33
+2021/3/22,Kansas,13.5
+2021/3/23,Kansas,13.66
+2021/3/24,Kansas,14.08
+2021/3/25,Kansas,14.43
+2021/3/26,Kansas,14.81
+2021/3/27,Kansas,15.53
+2021/3/28,Kansas,16.17
+2021/3/29,Kansas,16.37
+2021/3/30,Kansas,16.52
+2021/3/31,Kansas,16.85
+2021/4/1,Kansas,17.15
+2021/4/2,Kansas,17.83
+2021/4/3,Kansas,18.37
+2021/4/4,Kansas,19.03
+2021/4/5,Kansas,19.22
+2021/4/6,Kansas,19.31
+2021/4/7,Kansas,19.83
+2021/4/8,Kansas,20.38
+2021/4/9,Kansas,20.94
+2021/4/10,Kansas,21.77
+2021/4/11,Kansas,22.63
+2021/4/12,Kansas,22.88
+2021/4/13,Kansas,23.16
+2021/4/14,Kansas,23.68
+2021/4/15,Kansas,24.37
+2021/4/16,Kansas,25.11
+2021/4/17,Kansas,25.85
+2021/4/18,Kansas,26.5
+2021/4/19,Kansas,26.76
+2021/4/20,Kansas,26.85
+2021/4/21,Kansas,27.27
+2021/4/22,Kansas,27.94
+2021/4/23,Kansas,28.62
+2021/4/24,Kansas,29.29
+2021/4/25,Kansas,29.92
+2021/4/26,Kansas,30.11
+2021/4/27,Kansas,30.19
+2021/4/28,Kansas,30.55
+2021/4/29,Kansas,30.98
+2021/4/30,Kansas,31.46
+2021/5/1,Kansas,32.01
+2021/1/12,Kentucky,0.14
+2021/1/13,Kentucky,0.17
+2021/1/14,Kentucky,0.2
+2021/1/15,Kentucky,0.24
+2021/1/16,Kentucky,0.25
+2021/1/17,Kentucky,0.27
+2021/1/18,Kentucky,0.28
+2021/1/19,Kentucky,0.29
+2021/1/20,Kentucky,0.31
+2021/1/21,Kentucky,0.35
+2021/1/22,Kentucky,0.51
+2021/1/23,Kentucky,0.57
+2021/1/24,Kentucky,0.66
+2021/1/25,Kentucky,0.67
+2021/1/26,Kentucky,0.69
+2021/1/27,Kentucky,0.81
+2021/1/28,Kentucky,0.97
+2021/1/29,Kentucky,1.17
+2021/1/30,Kentucky,1.33
+2021/1/31,Kentucky,1.45
+2021/2/1,Kentucky,1.48
+2021/2/2,Kentucky,1.5
+2021/2/3,Kentucky,1.64
+2021/2/4,Kentucky,1.82
+2021/2/5,Kentucky,2.1
+2021/2/6,Kentucky,2.42
+2021/2/7,Kentucky,2.75
+2021/2/8,Kentucky,2.86
+2021/2/9,Kentucky,2.91
+2021/2/10,Kentucky,3.12
+2021/2/11,Kentucky,3.39
+2021/2/12,Kentucky,3.7
+2021/2/13,Kentucky,3.86
+2021/2/14,Kentucky,4.2
+2021/2/15,Kentucky,4.32
+2021/2/16,Kentucky,4.44
+2021/2/17,Kentucky,4.52
+2021/2/18,Kentucky,4.6
+2021/2/19,Kentucky,5.11
+2021/2/20,Kentucky,5.3
+2021/2/21,Kentucky,5.68
+2021/2/22,Kentucky,5.99
+2021/2/23,Kentucky,6.14
+2021/2/24,Kentucky,6.39
+2021/2/25,Kentucky,6.74
+2021/2/26,Kentucky,7.07
+2021/2/27,Kentucky,7.37
+2021/2/28,Kentucky,7.81
+2021/3/1,Kentucky,8.03
+2021/3/2,Kentucky,8.1
+2021/3/3,Kentucky,8.28
+2021/3/4,Kentucky,8.56
+2021/3/5,Kentucky,8.9
+2021/3/6,Kentucky,9.25
+2021/3/7,Kentucky,9.64
+2021/3/8,Kentucky,9.92
+2021/3/9,Kentucky,10.03
+2021/3/10,Kentucky,10.21
+2021/3/11,Kentucky,10.46
+2021/3/12,Kentucky,10.85
+2021/3/13,Kentucky,11.59
+2021/3/14,Kentucky,11.64
+2021/3/15,Kentucky,11.98
+2021/3/16,Kentucky,12.17
+2021/3/17,Kentucky,12.52
+2021/3/18,Kentucky,12.78
+2021/3/19,Kentucky,13.19
+2021/3/20,Kentucky,13.46
+2021/3/21,Kentucky,13.83
+2021/3/22,Kentucky,14.11
+2021/3/23,Kentucky,14.23
+2021/3/24,Kentucky,14.44
+2021/3/25,Kentucky,14.81
+2021/3/26,Kentucky,15.25
+2021/3/27,Kentucky,15.84
+2021/3/28,Kentucky,16.37
+2021/3/29,Kentucky,16.85
+2021/3/30,Kentucky,17.05
+2021/3/31,Kentucky,17.35
+2021/4/1,Kentucky,17.87
+2021/4/2,Kentucky,18.52
+2021/4/3,Kentucky,19.29
+2021/4/4,Kentucky,19.88
+2021/4/5,Kentucky,20.23
+2021/4/6,Kentucky,20.3
+2021/4/7,Kentucky,20.73
+2021/4/8,Kentucky,21.34
+2021/4/9,Kentucky,22.16
+2021/4/10,Kentucky,23.01
+2021/4/11,Kentucky,23.74
+2021/4/12,Kentucky,24.01
+2021/4/13,Kentucky,24.12
+2021/4/14,Kentucky,24.87
+2021/4/15,Kentucky,25.55
+2021/4/16,Kentucky,26.24
+2021/4/17,Kentucky,26.93
+2021/4/18,Kentucky,27.58
+2021/4/19,Kentucky,27.84
+2021/4/20,Kentucky,27.97
+2021/4/21,Kentucky,28.27
+2021/4/22,Kentucky,28.75
+2021/4/23,Kentucky,29.41
+2021/4/24,Kentucky,29.91
+2021/4/25,Kentucky,30.33
+2021/4/26,Kentucky,30.57
+2021/4/27,Kentucky,30.66
+2021/4/28,Kentucky,30.97
+2021/4/29,Kentucky,31.34
+2021/4/30,Kentucky,31.81
+2021/5/1,Kentucky,32.18
+2021/1/12,Louisiana,0.39
+2021/1/13,Louisiana,0.47
+2021/1/14,Louisiana,0.56
+2021/1/15,Louisiana,0.65
+2021/1/16,Louisiana,0.67
+2021/1/17,Louisiana,0.69
+2021/1/18,Louisiana,0.71
+2021/1/19,Louisiana,0.73
+2021/1/20,Louisiana,0.75
+2021/1/21,Louisiana,0.82
+2021/1/22,Louisiana,0.87
+2021/1/23,Louisiana,0.9
+2021/1/24,Louisiana,0.91
+2021/1/25,Louisiana,0.93
+2021/1/26,Louisiana,0.93
+2021/1/27,Louisiana,1.01
+2021/1/28,Louisiana,1.11
+2021/1/29,Louisiana,1.25
+2021/1/30,Louisiana,1.4
+2021/1/31,Louisiana,1.58
+2021/2/1,Louisiana,1.85
+2021/2/2,Louisiana,2.08
+2021/2/3,Louisiana,2.24
+2021/2/4,Louisiana,2.49
+2021/2/5,Louisiana,2.83
+2021/2/6,Louisiana,3.23
+2021/2/7,Louisiana,3.6
+2021/2/8,Louisiana,3.8
+2021/2/9,Louisiana,3.87
+2021/2/10,Louisiana,4.08
+2021/2/11,Louisiana,4.08
+2021/2/12,Louisiana,4.68
+2021/2/13,Louisiana,5.01
+2021/2/14,Louisiana,5.35
+2021/2/15,Louisiana,5.42
+2021/2/16,Louisiana,5.49
+2021/2/17,Louisiana,5.56
+2021/2/18,Louisiana,5.59
+2021/2/19,Louisiana,6.13
+2021/2/20,Louisiana,6.31
+2021/2/21,Louisiana,6.4
+2021/2/22,Louisiana,6.5
+2021/2/23,Louisiana,6.55
+2021/2/24,Louisiana,6.73
+2021/2/25,Louisiana,7.01
+2021/2/26,Louisiana,7.4
+2021/2/27,Louisiana,7.78
+2021/2/28,Louisiana,8.06
+2021/3/1,Louisiana,8.17
+2021/3/2,Louisiana,8.21
+2021/3/3,Louisiana,8.38
+2021/3/4,Louisiana,8.65
+2021/3/5,Louisiana,9
+2021/3/6,Louisiana,9.01
+2021/3/7,Louisiana,9.03
+2021/3/8,Louisiana,9.93
+2021/3/9,Louisiana,10.01
+2021/3/10,Louisiana,10.23
+2021/3/11,Louisiana,10.49
+2021/3/12,Louisiana,10.87
+2021/3/13,Louisiana,11.63
+2021/3/14,Louisiana,11.63
+2021/3/15,Louisiana,11.83
+2021/3/16,Louisiana,11.92
+2021/3/17,Louisiana,12.12
+2021/3/18,Louisiana,12.13
+2021/3/19,Louisiana,12.66
+2021/3/20,Louisiana,13.03
+2021/3/21,Louisiana,13.35
+2021/3/22,Louisiana,13.52
+2021/3/23,Louisiana,13.58
+2021/3/24,Louisiana,13.83
+2021/3/25,Louisiana,14.1
+2021/3/26,Louisiana,14.49
+2021/3/27,Louisiana,14.97
+2021/3/28,Louisiana,15.48
+2021/3/29,Louisiana,15.81
+2021/3/30,Louisiana,15.9
+2021/3/31,Louisiana,16.32
+2021/4/1,Louisiana,16.78
+2021/4/2,Louisiana,17.32
+2021/4/3,Louisiana,17.93
+2021/4/4,Louisiana,18.21
+2021/4/5,Louisiana,18.3
+2021/4/6,Louisiana,18.4
+2021/4/7,Louisiana,18.73
+2021/4/8,Louisiana,19.22
+2021/4/9,Louisiana,19.75
+2021/4/10,Louisiana,20.3
+2021/4/11,Louisiana,20.81
+2021/4/12,Louisiana,21.06
+2021/4/13,Louisiana,21.21
+2021/4/14,Louisiana,21.32
+2021/4/15,Louisiana,21.9
+2021/4/16,Louisiana,22.39
+2021/4/17,Louisiana,22.86
+2021/4/18,Louisiana,23.3
+2021/4/19,Louisiana,23.56
+2021/4/20,Louisiana,23.72
+2021/4/21,Louisiana,24.08
+2021/4/22,Louisiana,24.52
+2021/4/23,Louisiana,24.98
+2021/4/24,Louisiana,25.39
+2021/4/25,Louisiana,25.74
+2021/4/26,Louisiana,25.92
+2021/4/27,Louisiana,25.99
+2021/4/28,Louisiana,26.28
+2021/4/29,Louisiana,26.61
+2021/4/30,Louisiana,26.62
+2021/5/1,Louisiana,26.64
+2021/1/12,Maine,0.34
+2021/1/13,Maine,0.39
+2021/1/14,Maine,0.5
+2021/1/15,Maine,0.62
+2021/1/16,Maine,0.65
+2021/1/17,Maine,0.68
+2021/1/18,Maine,0.71
+2021/1/19,Maine,0.75
+2021/1/20,Maine,0.79
+2021/1/21,Maine,0.9
+2021/1/22,Maine,1.11
+2021/1/23,Maine,1.31
+2021/1/24,Maine,1.42
+2021/1/25,Maine,1.48
+2021/1/26,Maine,1.5
+2021/1/27,Maine,1.61
+2021/1/28,Maine,1.85
+2021/1/29,Maine,2.1
+2021/1/30,Maine,2.31
+2021/1/31,Maine,2.46
+2021/2/1,Maine,2.55
+2021/2/2,Maine,2.55
+2021/2/3,Maine,2.55
+2021/2/4,Maine,2.74
+2021/2/5,Maine,2.87
+2021/2/6,Maine,3.04
+2021/2/7,Maine,3.31
+2021/2/8,Maine,3.31
+2021/2/9,Maine,3.55
+2021/2/10,Maine,3.7
+2021/2/11,Maine,3.7
+2021/2/12,Maine,3.7
+2021/2/13,Maine,3.7
+2021/2/14,Maine,3.7
+2021/2/15,Maine,4.24
+2021/2/16,Maine,4.78
+2021/2/17,Maine,4.9
+2021/2/18,Maine,4.9
+2021/2/19,Maine,5.64
+2021/2/20,Maine,5.65
+2021/2/21,Maine,5.66
+2021/2/22,Maine,6.88
+2021/2/23,Maine,6.95
+2021/2/24,Maine,7.18
+2021/2/25,Maine,7.19
+2021/2/26,Maine,7.2
+2021/2/27,Maine,8.06
+2021/2/28,Maine,8.09
+2021/3/1,Maine,8.1
+2021/3/2,Maine,8.1
+2021/3/3,Maine,8.11
+2021/3/4,Maine,8.11
+2021/3/5,Maine,9.53
+2021/3/6,Maine,10.03
+2021/3/7,Maine,10.06
+2021/3/8,Maine,11.06
+2021/3/9,Maine,11.32
+2021/3/10,Maine,11.64
+2021/3/11,Maine,11.71
+2021/3/12,Maine,12.82
+2021/3/13,Maine,12.86
+2021/3/14,Maine,13.8
+2021/3/15,Maine,14.17
+2021/3/16,Maine,14.35
+2021/3/17,Maine,14.36
+2021/3/18,Maine,14.38
+2021/3/19,Maine,15.25
+2021/3/20,Maine,15.27
+2021/3/21,Maine,15.28
+2021/3/22,Maine,16.37
+2021/3/23,Maine,16.49
+2021/3/24,Maine,16.51
+2021/3/25,Maine,17.2
+2021/3/26,Maine,17.76
+2021/3/27,Maine,18.42
+2021/3/28,Maine,18.92
+2021/3/29,Maine,19.29
+2021/3/30,Maine,19.39
+2021/3/31,Maine,19.69
+2021/4/1,Maine,20.21
+2021/4/2,Maine,21.08
+2021/4/3,Maine,21.93
+2021/4/4,Maine,22.92
+2021/4/5,Maine,23.71
+2021/4/6,Maine,23.78
+2021/4/7,Maine,24.26
+2021/4/8,Maine,25.06
+2021/4/9,Maine,26.18
+2021/4/10,Maine,27.42
+2021/4/11,Maine,27.52
+2021/4/12,Maine,27.66
+2021/4/13,Maine,28.89
+2021/4/14,Maine,30.12
+2021/4/15,Maine,30.87
+2021/4/16,Maine,31.53
+2021/4/17,Maine,32.16
+2021/4/18,Maine,32.26
+2021/4/19,Maine,33.35
+2021/4/20,Maine,33.59
+2021/4/21,Maine,33.87
+2021/4/22,Maine,34.57
+2021/4/23,Maine,35.47
+2021/4/24,Maine,36.16
+2021/4/25,Maine,36.23
+2021/4/26,Maine,36.29
+2021/4/27,Maine,37.44
+2021/4/28,Maine,37.96
+2021/4/29,Maine,38.49
+2021/4/30,Maine,39.33
+2021/5/1,Maine,40.15
+2021/1/12,Montana,0.55
+2021/1/13,Montana,0.64
+2021/1/14,Montana,0.7
+2021/1/15,Montana,0.77
+2021/1/16,Montana,0.78
+2021/1/17,Montana,0.79
+2021/1/18,Montana,0.8
+2021/1/19,Montana,0.81
+2021/1/20,Montana,0.85
+2021/1/21,Montana,0.93
+2021/1/22,Montana,1.11
+2021/1/23,Montana,1.24
+2021/1/24,Montana,1.32
+2021/1/25,Montana,1.32
+2021/1/26,Montana,1.33
+2021/1/27,Montana,1.44
+2021/1/28,Montana,1.7
+2021/1/29,Montana,1.97
+2021/1/30,Montana,2.23
+2021/1/31,Montana,2.33
+2021/2/1,Montana,2.38
+2021/2/2,Montana,2.42
+2021/2/3,Montana,2.46
+2021/2/4,Montana,2.71
+2021/2/5,Montana,2.88
+2021/2/6,Montana,3.2
+2021/2/7,Montana,3.39
+2021/2/8,Montana,3.42
+2021/2/9,Montana,3.45
+2021/2/10,Montana,3.55
+2021/2/11,Montana,3.72
+2021/2/12,Montana,3.92
+2021/2/13,Montana,4.2
+2021/2/14,Montana,4.56
+2021/2/15,Montana,4.63
+2021/2/16,Montana,4.71
+2021/2/17,Montana,4.8
+2021/2/18,Montana,4.98
+2021/2/19,Montana,5.86
+2021/2/20,Montana,6.23
+2021/2/21,Montana,6.63
+2021/2/22,Montana,6.76
+2021/2/23,Montana,6.84
+2021/2/24,Montana,7.04
+2021/2/25,Montana,7.31
+2021/2/26,Montana,7.65
+2021/2/27,Montana,8.16
+2021/2/28,Montana,8.68
+2021/3/1,Montana,8.77
+2021/3/2,Montana,8.86
+2021/3/3,Montana,9.08
+2021/3/4,Montana,9.52
+2021/3/5,Montana,10.04
+2021/3/6,Montana,10.62
+2021/3/7,Montana,11.24
+2021/3/8,Montana,11.5
+2021/3/9,Montana,11.57
+2021/3/10,Montana,11.8
+2021/3/11,Montana,12.26
+2021/3/12,Montana,12.77
+2021/3/13,Montana,13.42
+2021/3/14,Montana,13.92
+2021/3/15,Montana,14.12
+2021/3/16,Montana,14.26
+2021/3/17,Montana,14.43
+2021/3/18,Montana,14.68
+2021/3/19,Montana,15
+2021/3/20,Montana,15.4
+2021/3/21,Montana,15.74
+2021/3/22,Montana,15.96
+2021/3/23,Montana,15.96
+2021/3/24,Montana,16.18
+2021/3/25,Montana,16.47
+2021/3/26,Montana,16.92
+2021/3/27,Montana,17.41
+2021/3/28,Montana,18.03
+2021/3/29,Montana,18.22
+2021/3/30,Montana,18.32
+2021/3/31,Montana,19.19
+2021/4/1,Montana,19.69
+2021/4/2,Montana,20.15
+2021/4/3,Montana,20.78
+2021/4/4,Montana,21.42
+2021/4/5,Montana,21.61
+2021/4/6,Montana,21.65
+2021/4/7,Montana,22.05
+2021/4/8,Montana,22.54
+2021/4/9,Montana,23.2
+2021/4/10,Montana,23.89
+2021/4/11,Montana,24.68
+2021/4/12,Montana,24.91
+2021/4/13,Montana,25.08
+2021/4/14,Montana,25.23
+2021/4/15,Montana,25.94
+2021/4/16,Montana,26.48
+2021/4/17,Montana,27.19
+2021/4/18,Montana,27.24
+2021/4/19,Montana,27.97
+2021/4/20,Montana,28.1
+2021/4/21,Montana,28.36
+2021/4/22,Montana,28.72
+2021/4/23,Montana,29.19
+2021/4/24,Montana,29.85
+2021/4/25,Montana,30.39
+2021/4/26,Montana,30.55
+2021/4/27,Montana,30.62
+2021/4/28,Montana,30.99
+2021/4/29,Montana,31.57
+2021/4/30,Montana,32.02
+2021/5/1,Montana,32.51
+2021/1/12,Nebraska,0.44
+2021/1/13,Nebraska,0.54
+2021/1/14,Nebraska,0.6
+2021/1/15,Nebraska,0.67
+2021/1/16,Nebraska,0.68
+2021/1/17,Nebraska,0.69
+2021/1/18,Nebraska,0.7
+2021/1/19,Nebraska,0.72
+2021/1/20,Nebraska,0.75
+2021/1/21,Nebraska,0.84
+2021/1/22,Nebraska,0.93
+2021/1/23,Nebraska,1.02
+2021/1/24,Nebraska,1.15
+2021/1/25,Nebraska,1.17
+2021/1/26,Nebraska,1.19
+2021/1/27,Nebraska,1.27
+2021/1/28,Nebraska,1.67
+2021/1/29,Nebraska,1.93
+2021/1/30,Nebraska,2.12
+2021/1/31,Nebraska,2.26
+2021/2/1,Nebraska,2.36
+2021/2/2,Nebraska,2.41
+2021/2/3,Nebraska,2.53
+2021/2/4,Nebraska,2.71
+2021/2/5,Nebraska,2.86
+2021/2/6,Nebraska,3.1
+2021/2/7,Nebraska,3.41
+2021/2/8,Nebraska,3.5
+2021/2/9,Nebraska,3.52
+2021/2/10,Nebraska,3.65
+2021/2/11,Nebraska,3.81
+2021/2/12,Nebraska,4.08
+2021/2/13,Nebraska,4.33
+2021/2/14,Nebraska,4.57
+2021/2/15,Nebraska,4.61
+2021/2/16,Nebraska,4.66
+2021/2/17,Nebraska,4.76
+2021/2/18,Nebraska,4.99
+2021/2/19,Nebraska,5.72
+2021/2/20,Nebraska,5.92
+2021/2/21,Nebraska,6.02
+2021/2/22,Nebraska,6.12
+2021/2/23,Nebraska,6.34
+2021/2/24,Nebraska,6.71
+2021/2/25,Nebraska,7.05
+2021/2/26,Nebraska,7.43
+2021/2/27,Nebraska,7.47
+2021/2/28,Nebraska,8.21
+2021/3/1,Nebraska,8.26
+2021/3/2,Nebraska,8.4
+2021/3/3,Nebraska,8.69
+2021/3/4,Nebraska,9.07
+2021/3/5,Nebraska,9.57
+2021/3/6,Nebraska,9.6
+2021/3/7,Nebraska,10.03
+2021/3/8,Nebraska,10.55
+2021/3/9,Nebraska,10.82
+2021/3/10,Nebraska,11.12
+2021/3/11,Nebraska,11.71
+2021/3/12,Nebraska,12.43
+2021/3/13,Nebraska,12.79
+2021/3/14,Nebraska,12.79
+2021/3/15,Nebraska,12.99
+2021/3/16,Nebraska,13.36
+2021/3/17,Nebraska,13.74
+2021/3/18,Nebraska,14.28
+2021/3/19,Nebraska,14.8
+2021/3/20,Nebraska,14.82
+2021/3/21,Nebraska,15.02
+2021/3/22,Nebraska,15.25
+2021/3/23,Nebraska,15.4
+2021/3/24,Nebraska,15.61
+2021/3/25,Nebraska,15.96
+2021/3/26,Nebraska,16.48
+2021/3/27,Nebraska,16.51
+2021/3/28,Nebraska,16.98
+2021/3/29,Nebraska,17.43
+2021/3/30,Nebraska,17.98
+2021/3/31,Nebraska,18.71
+2021/4/1,Nebraska,19.29
+2021/4/2,Nebraska,19.88
+2021/4/3,Nebraska,19.91
+2021/4/4,Nebraska,20.41
+2021/4/5,Nebraska,20.8
+2021/4/6,Nebraska,21.12
+2021/4/7,Nebraska,21.55
+2021/4/8,Nebraska,22.03
+2021/4/9,Nebraska,22.67
+2021/4/10,Nebraska,22.71
+2021/4/11,Nebraska,23.47
+2021/4/12,Nebraska,23.88
+2021/4/13,Nebraska,25.1
+2021/4/14,Nebraska,25.69
+2021/4/15,Nebraska,26.31
+2021/4/16,Nebraska,27.13
+2021/4/17,Nebraska,27.15
+2021/4/18,Nebraska,27.53
+2021/4/19,Nebraska,27.74
+2021/4/20,Nebraska,28.23
+2021/4/21,Nebraska,28.58
+2021/4/22,Nebraska,29.35
+2021/4/23,Nebraska,29.68
+2021/4/24,Nebraska,29.91
+2021/4/25,Nebraska,29.94
+2021/4/26,Nebraska,31.21
+2021/4/27,Nebraska,31.22
+2021/4/28,Nebraska,31.88
+2021/4/29,Nebraska,32.38
+2021/4/30,Nebraska,32.39
+2021/5/1,Nebraska,32.43
+2021/1/12,Nevada,0.28
+2021/1/13,Nevada,0.28
+2021/1/14,Nevada,0.39
+2021/1/15,Nevada,0.5
+2021/1/16,Nevada,0.51
+2021/1/17,Nevada,0.52
+2021/1/18,Nevada,0.53
+2021/1/19,Nevada,0.54
+2021/1/20,Nevada,0.56
+2021/1/21,Nevada,0.63
+2021/1/22,Nevada,0.66
+2021/1/23,Nevada,0.68
+2021/1/24,Nevada,0.72
+2021/1/25,Nevada,0.72
+2021/1/26,Nevada,0.73
+2021/1/27,Nevada,0.77
+2021/1/28,Nevada,0.85
+2021/1/29,Nevada,0.95
+2021/1/30,Nevada,1.03
+2021/1/31,Nevada,1.1
+2021/2/1,Nevada,1.15
+2021/2/2,Nevada,1.22
+2021/2/3,Nevada,1.34
+2021/2/4,Nevada,1.48
+2021/2/5,Nevada,1.62
+2021/2/6,Nevada,1.83
+2021/2/7,Nevada,2.03
+2021/2/8,Nevada,2.17
+2021/2/9,Nevada,2.2
+2021/2/10,Nevada,2.37
+2021/2/11,Nevada,2.52
+2021/2/12,Nevada,2.71
+2021/2/13,Nevada,2.94
+2021/2/14,Nevada,3.2
+2021/2/15,Nevada,3.3
+2021/2/16,Nevada,3.5
+2021/2/17,Nevada,3.57
+2021/2/18,Nevada,3.83
+2021/2/19,Nevada,4.5
+2021/2/20,Nevada,5.11
+2021/2/21,Nevada,5.37
+2021/2/22,Nevada,5.67
+2021/2/23,Nevada,5.91
+2021/2/24,Nevada,6.04
+2021/2/25,Nevada,6.25
+2021/2/26,Nevada,6.61
+2021/2/27,Nevada,7.02
+2021/2/28,Nevada,7.33
+2021/3/1,Nevada,7.74
+2021/3/2,Nevada,7.87
+2021/3/3,Nevada,8.03
+2021/3/4,Nevada,8.23
+2021/3/5,Nevada,8.48
+2021/3/6,Nevada,8.82
+2021/3/7,Nevada,9.17
+2021/3/8,Nevada,9.57
+2021/3/9,Nevada,9.69
+2021/3/10,Nevada,9.88
+2021/3/11,Nevada,10.28
+2021/3/12,Nevada,10.66
+2021/3/13,Nevada,11.04
+2021/3/14,Nevada,11.45
+2021/3/15,Nevada,11.7
+2021/3/16,Nevada,11.8
+2021/3/17,Nevada,12.04
+2021/3/18,Nevada,12.3
+2021/3/19,Nevada,12.55
+2021/3/20,Nevada,12.93
+2021/3/21,Nevada,13.33
+2021/3/22,Nevada,13.54
+2021/3/23,Nevada,13.59
+2021/3/24,Nevada,13.74
+2021/3/25,Nevada,14.09
+2021/3/26,Nevada,14.49
+2021/3/27,Nevada,14.9
+2021/3/28,Nevada,15.34
+2021/3/29,Nevada,15.71
+2021/3/30,Nevada,15.81
+2021/3/31,Nevada,15.98
+2021/4/1,Nevada,16.29
+2021/4/2,Nevada,16.71
+2021/4/3,Nevada,17.24
+2021/4/4,Nevada,17.81
+2021/4/5,Nevada,18.15
+2021/4/6,Nevada,18.21
+2021/4/7,Nevada,18.5
+2021/4/8,Nevada,19.03
+2021/4/9,Nevada,19.61
+2021/4/10,Nevada,20.27
+2021/4/11,Nevada,20.92
+2021/4/12,Nevada,21.51
+2021/4/13,Nevada,21.64
+2021/4/14,Nevada,21.96
+2021/4/15,Nevada,22.55
+2021/4/16,Nevada,22.99
+2021/4/17,Nevada,23.43
+2021/4/18,Nevada,23.99
+2021/4/19,Nevada,24.4
+2021/4/20,Nevada,24.52
+2021/4/21,Nevada,24.81
+2021/4/22,Nevada,25.2
+2021/4/23,Nevada,25.54
+2021/4/24,Nevada,25.86
+2021/4/25,Nevada,26.25
+2021/4/26,Nevada,26.55
+2021/4/27,Nevada,26.65
+2021/4/28,Nevada,26.89
+2021/4/29,Nevada,27.33
+2021/4/30,Nevada,27.82
+2021/5/1,Nevada,28.36
+2021/1/12,New Hampshire,0
+2021/1/13,New Hampshire,0
+2021/1/14,New Hampshire,0.21
+2021/1/15,New Hampshire,0.42
+2021/1/16,New Hampshire,0.44
+2021/1/17,New Hampshire,0.46
+2021/1/18,New Hampshire,0.49
+2021/1/19,New Hampshire,0.52
+2021/1/20,New Hampshire,0.59
+2021/1/21,New Hampshire,0.76
+2021/1/22,New Hampshire,0.92
+2021/1/23,New Hampshire,0.97
+2021/1/24,New Hampshire,0.98
+2021/1/25,New Hampshire,1.02
+2021/1/26,New Hampshire,1.14
+2021/1/27,New Hampshire,1.34
+2021/1/28,New Hampshire,1.6
+2021/1/29,New Hampshire,1.84
+2021/1/30,New Hampshire,2.03
+2021/1/31,New Hampshire,2.19
+2021/2/1,New Hampshire,2.24
+2021/2/2,New Hampshire,2.38
+2021/2/3,New Hampshire,2.51
+2021/2/4,New Hampshire,2.71
+2021/2/5,New Hampshire,2.98
+2021/2/6,New Hampshire,3.23
+2021/2/7,New Hampshire,3.35
+2021/2/8,New Hampshire,3.39
+2021/2/9,New Hampshire,3.49
+2021/2/10,New Hampshire,3.72
+2021/2/11,New Hampshire,3.91
+2021/2/12,New Hampshire,4.1
+2021/2/13,New Hampshire,4.37
+2021/2/14,New Hampshire,4.53
+2021/2/15,New Hampshire,4.66
+2021/2/16,New Hampshire,4.8
+2021/2/17,New Hampshire,4.86
+2021/2/18,New Hampshire,5.12
+2021/2/19,New Hampshire,5.5
+2021/2/20,New Hampshire,5.76
+2021/2/21,New Hampshire,5.99
+2021/2/22,New Hampshire,6.27
+2021/2/23,New Hampshire,6.35
+2021/2/24,New Hampshire,6.54
+2021/2/25,New Hampshire,6.74
+2021/2/26,New Hampshire,6.97
+2021/2/27,New Hampshire,7.18
+2021/2/28,New Hampshire,7.35
+2021/3/1,New Hampshire,7.37
+2021/3/2,New Hampshire,7.44
+2021/3/3,New Hampshire,7.61
+2021/3/4,New Hampshire,7.84
+2021/3/5,New Hampshire,8.06
+2021/3/6,New Hampshire,8.41
+2021/3/7,New Hampshire,8.62
+2021/3/8,New Hampshire,8.83
+2021/3/9,New Hampshire,9.08
+2021/3/10,New Hampshire,9.44
+2021/3/11,New Hampshire,9.91
+2021/3/12,New Hampshire,10.36
+2021/3/13,New Hampshire,11.08
+2021/3/14,New Hampshire,11.45
+2021/3/15,New Hampshire,11.63
+2021/3/16,New Hampshire,11.84
+2021/3/17,New Hampshire,12
+2021/3/18,New Hampshire,12.33
+2021/3/19,New Hampshire,12.69
+2021/3/20,New Hampshire,13.09
+2021/3/21,New Hampshire,13.6
+2021/3/22,New Hampshire,14.01
+2021/3/23,New Hampshire,14.32
+2021/3/24,New Hampshire,14.72
+2021/3/25,New Hampshire,15.19
+2021/3/26,New Hampshire,15.56
+2021/3/27,New Hampshire,16.15
+2021/3/28,New Hampshire,16.79
+2021/3/29,New Hampshire,16.99
+2021/3/30,New Hampshire,17.22
+2021/3/31,New Hampshire,17.64
+2021/4/1,New Hampshire,18.19
+2021/4/2,New Hampshire,18.56
+2021/4/3,New Hampshire,19.2
+2021/4/4,New Hampshire,19.73
+2021/4/5,New Hampshire,19.87
+2021/4/6,New Hampshire,20.1
+2021/4/7,New Hampshire,20.78
+2021/4/8,New Hampshire,21.56
+2021/4/9,New Hampshire,22.16
+2021/4/10,New Hampshire,23.07
+2021/4/11,New Hampshire,24.07
+2021/4/12,New Hampshire,24.99
+2021/4/13,New Hampshire,25.47
+2021/4/14,New Hampshire,25.87
+2021/4/15,New Hampshire,26.72
+2021/4/16,New Hampshire,27.02
+2021/4/17,New Hampshire,27.32
+2021/4/18,New Hampshire,27.62
+2021/4/19,New Hampshire,27.92
+2021/4/20,New Hampshire,28.22
+2021/4/21,New Hampshire,28.52
+2021/4/22,New Hampshire,28.82
+2021/4/23,New Hampshire,28.12
+2021/4/24,New Hampshire,28.42
+2021/4/25,New Hampshire,28.72
+2021/4/26,New Hampshire,29.02
+2021/4/27,New Hampshire,29.32
+2021/4/28,New Hampshire,29.62
+2021/4/29,New Hampshire,29.92
+2021/4/30,New Hampshire,30.22
+2021/5/1,New Hampshire,30.52
+2021/1/12,New Jersey,0.16
+2021/1/13,New Jersey,0.23
+2021/1/14,New Jersey,0.29
+2021/1/15,New Jersey,0.41
+2021/1/16,New Jersey,0.43
+2021/1/17,New Jersey,0.45
+2021/1/18,New Jersey,0.47
+2021/1/19,New Jersey,0.49
+2021/1/20,New Jersey,0.56
+2021/1/21,New Jersey,0.56
+2021/1/22,New Jersey,0.63
+2021/1/23,New Jersey,0.69
+2021/1/24,New Jersey,0.73
+2021/1/25,New Jersey,0.78
+2021/1/26,New Jersey,0.81
+2021/1/27,New Jersey,0.9
+2021/1/28,New Jersey,0.99
+2021/1/29,New Jersey,1.22
+2021/1/30,New Jersey,1.33
+2021/1/31,New Jersey,1.39
+2021/2/1,New Jersey,1.44
+2021/2/2,New Jersey,1.54
+2021/2/3,New Jersey,1.64
+2021/2/4,New Jersey,1.64
+2021/2/5,New Jersey,1.77
+2021/2/6,New Jersey,2.24
+2021/2/7,New Jersey,2.37
+2021/2/8,New Jersey,2.49
+2021/2/9,New Jersey,2.71
+2021/2/10,New Jersey,2.93
+2021/2/11,New Jersey,3.15
+2021/2/12,New Jersey,3.44
+2021/2/13,New Jersey,3.75
+2021/2/14,New Jersey,3.95
+2021/2/15,New Jersey,4.14
+2021/2/16,New Jersey,4.32
+2021/2/17,New Jersey,4.58
+2021/2/18,New Jersey,4.88
+2021/2/19,New Jersey,5.17
+2021/2/20,New Jersey,5.46
+2021/2/21,New Jersey,5.75
+2021/2/22,New Jersey,6.21
+2021/2/23,New Jersey,6.49
+2021/2/24,New Jersey,6.75
+2021/2/25,New Jersey,7.11
+2021/2/26,New Jersey,7.55
+2021/2/27,New Jersey,7.89
+2021/2/28,New Jersey,8.13
+2021/3/1,New Jersey,8.22
+2021/3/2,New Jersey,8.54
+2021/3/3,New Jersey,8.77
+2021/3/4,New Jersey,9.02
+2021/3/5,New Jersey,9.34
+2021/3/6,New Jersey,9.65
+2021/3/7,New Jersey,9.89
+2021/3/8,New Jersey,10.11
+2021/3/9,New Jersey,10.4
+2021/3/10,New Jersey,10.73
+2021/3/11,New Jersey,11.24
+2021/3/12,New Jersey,11.57
+2021/3/13,New Jersey,11.98
+2021/3/14,New Jersey,12.22
+2021/3/15,New Jersey,12.44
+2021/3/16,New Jersey,12.72
+2021/3/17,New Jersey,13.09
+2021/3/18,New Jersey,13.49
+2021/3/19,New Jersey,13.82
+2021/3/20,New Jersey,14.16
+2021/3/21,New Jersey,14.46
+2021/3/22,New Jersey,14.73
+2021/3/23,New Jersey,14.75
+2021/3/24,New Jersey,15.41
+2021/3/25,New Jersey,15.83
+2021/3/26,New Jersey,16.27
+2021/3/27,New Jersey,16.79
+2021/3/28,New Jersey,17.32
+2021/3/29,New Jersey,17.64
+2021/3/30,New Jersey,18.17
+2021/3/31,New Jersey,18.68
+2021/4/1,New Jersey,19.48
+2021/4/2,New Jersey,20.23
+2021/4/3,New Jersey,20.82
+2021/4/4,New Jersey,21.28
+2021/4/5,New Jersey,21.51
+2021/4/6,New Jersey,21.94
+2021/4/7,New Jersey,22.61
+2021/4/8,New Jersey,23.39
+2021/4/9,New Jersey,24.24
+2021/4/10,New Jersey,25.18
+2021/4/11,New Jersey,25.77
+2021/4/12,New Jersey,26.29
+2021/4/13,New Jersey,26.92
+2021/4/14,New Jersey,27.53
+2021/4/15,New Jersey,28.08
+2021/4/16,New Jersey,28.62
+2021/4/17,New Jersey,29.28
+2021/4/18,New Jersey,29.69
+2021/4/19,New Jersey,30.1
+2021/4/20,New Jersey,30.52
+2021/4/21,New Jersey,31.07
+2021/4/22,New Jersey,31.65
+2021/4/23,New Jersey,32.35
+2021/4/24,New Jersey,32.99
+2021/4/25,New Jersey,33.48
+2021/4/26,New Jersey,33.87
+2021/4/27,New Jersey,34.34
+2021/4/28,New Jersey,34.9
+2021/4/29,New Jersey,35.47
+2021/4/30,New Jersey,36.05
+2021/5/1,New Jersey,36.63
+2021/1/12,New Mexico,0.54
+2021/1/13,New Mexico,0.59
+2021/1/14,New Mexico,0.74
+2021/1/15,New Mexico,0.89
+2021/1/16,New Mexico,0.94
+2021/1/17,New Mexico,1
+2021/1/18,New Mexico,1.05
+2021/1/19,New Mexico,1.11
+2021/1/20,New Mexico,1.18
+2021/1/21,New Mexico,1.29
+2021/1/22,New Mexico,1.4
+2021/1/23,New Mexico,1.58
+2021/1/24,New Mexico,1.66
+2021/1/25,New Mexico,1.69
+2021/1/26,New Mexico,1.71
+2021/1/27,New Mexico,1.83
+2021/1/28,New Mexico,1.99
+2021/1/29,New Mexico,2.24
+2021/1/30,New Mexico,2.39
+2021/1/31,New Mexico,2.69
+2021/2/1,New Mexico,2.87
+2021/2/2,New Mexico,2.9
+2021/2/3,New Mexico,3
+2021/2/4,New Mexico,3.21
+2021/2/5,New Mexico,3.43
+2021/2/6,New Mexico,3.76
+2021/2/7,New Mexico,3.96
+2021/2/8,New Mexico,4.19
+2021/2/9,New Mexico,4.23
+2021/2/10,New Mexico,4.42
+2021/2/11,New Mexico,4.85
+2021/2/12,New Mexico,5.34
+2021/2/13,New Mexico,5.65
+2021/2/14,New Mexico,6.12
+2021/2/15,New Mexico,6.34
+2021/2/16,New Mexico,6.56
+2021/2/17,New Mexico,6.64
+2021/2/18,New Mexico,6.87
+2021/2/19,New Mexico,8.45
+2021/2/20,New Mexico,8.88
+2021/2/21,New Mexico,9.29
+2021/2/22,New Mexico,9.56
+2021/2/23,New Mexico,9.7
+2021/2/24,New Mexico,9.85
+2021/2/25,New Mexico,10.23
+2021/2/26,New Mexico,10.71
+2021/2/27,New Mexico,11.14
+2021/2/28,New Mexico,11.7
+2021/3/1,New Mexico,11.86
+2021/3/2,New Mexico,12.14
+2021/3/3,New Mexico,12.43
+2021/3/4,New Mexico,12.61
+2021/3/5,New Mexico,13.01
+2021/3/6,New Mexico,13.76
+2021/3/7,New Mexico,14.05
+2021/3/8,New Mexico,14.46
+2021/3/9,New Mexico,14.53
+2021/3/10,New Mexico,14.56
+2021/3/11,New Mexico,15.08
+2021/3/12,New Mexico,15.56
+2021/3/13,New Mexico,15.96
+2021/3/14,New Mexico,16.61
+2021/3/15,New Mexico,16.87
+2021/3/16,New Mexico,17.34
+2021/3/17,New Mexico,17.56
+2021/3/18,New Mexico,18.05
+2021/3/19,New Mexico,18.63
+2021/3/20,New Mexico,19.41
+2021/3/21,New Mexico,19.99
+2021/3/22,New Mexico,20.27
+2021/3/23,New Mexico,20.34
+2021/3/24,New Mexico,20.58
+2021/3/25,New Mexico,21
+2021/3/26,New Mexico,21.5
+2021/3/27,New Mexico,22.04
+2021/3/28,New Mexico,22.75
+2021/3/29,New Mexico,23.14
+2021/3/30,New Mexico,23.22
+2021/3/31,New Mexico,23.51
+2021/4/1,New Mexico,23.99
+2021/4/2,New Mexico,24.77
+2021/4/3,New Mexico,25.48
+2021/4/4,New Mexico,25.98
+2021/4/5,New Mexico,26.19
+2021/4/6,New Mexico,26.26
+2021/4/7,New Mexico,26.45
+2021/4/8,New Mexico,27.21
+2021/4/9,New Mexico,28.02
+2021/4/10,New Mexico,28.82
+2021/4/11,New Mexico,29.35
+2021/4/12,New Mexico,29.65
+2021/4/13,New Mexico,29.77
+2021/4/14,New Mexico,30.15
+2021/4/15,New Mexico,30.54
+2021/4/16,New Mexico,31.28
+2021/4/17,New Mexico,31.84
+2021/4/18,New Mexico,32.33
+2021/4/19,New Mexico,32.62
+2021/4/20,New Mexico,32.71
+2021/4/21,New Mexico,33.08
+2021/4/22,New Mexico,33.6
+2021/4/23,New Mexico,34.41
+2021/4/24,New Mexico,35.05
+2021/4/25,New Mexico,35.53
+2021/4/26,New Mexico,35.69
+2021/4/27,New Mexico,35.76
+2021/4/28,New Mexico,36.04
+2021/4/29,New Mexico,36.47
+2021/4/30,New Mexico,37.17
+2021/5/1,New Mexico,37.94
+2021/1/12,New York,0.19
+2021/1/13,New York,0.23
+2021/1/14,New York,0.3
+2021/1/15,New York,0.38
+2021/1/16,New York,0.42
+2021/1/17,New York,0.46
+2021/1/18,New York,0.5
+2021/1/19,New York,0.53
+2021/1/20,New York,0.55
+2021/1/21,New York,0.62
+2021/1/22,New York,0.73
+2021/1/23,New York,0.84
+2021/1/24,New York,0.91
+2021/1/25,New York,0.95
+2021/1/26,New York,0.98
+2021/1/27,New York,1.09
+2021/1/28,New York,1.23
+2021/1/29,New York,1.4
+2021/1/30,New York,1.56
+2021/1/31,New York,1.7
+2021/2/1,New York,1.77
+2021/2/2,New York,1.82
+2021/2/3,New York,1.89
+2021/2/4,New York,2
+2021/2/5,New York,2.19
+2021/2/6,New York,2.41
+2021/2/7,New York,2.67
+2021/2/8,New York,2.85
+2021/2/9,New York,2.94
+2021/2/10,New York,3.18
+2021/2/11,New York,3.43
+2021/2/12,New York,3.71
+2021/2/13,New York,4
+2021/2/14,New York,4.28
+2021/2/15,New York,4.52
+2021/2/16,New York,4.75
+2021/2/17,New York,4.91
+2021/2/18,New York,5.11
+2021/2/19,New York,5.48
+2021/2/20,New York,5.74
+2021/2/21,New York,6
+2021/2/22,New York,6.2
+2021/2/23,New York,6.38
+2021/2/24,New York,6.51
+2021/2/25,New York,6.64
+2021/2/26,New York,6.82
+2021/2/27,New York,7.03
+2021/2/28,New York,7.35
+2021/3/1,New York,7.58
+2021/3/2,New York,7.77
+2021/3/3,New York,7.94
+2021/3/4,New York,8.09
+2021/3/5,New York,8.25
+2021/3/6,New York,8.45
+2021/3/7,New York,8.7
+2021/3/8,New York,9.01
+2021/3/9,New York,9.21
+2021/3/10,New York,9.48
+2021/3/11,New York,9.77
+2021/3/12,New York,10.04
+2021/3/13,New York,10.53
+2021/3/14,New York,10.53
+2021/3/15,New York,10.83
+2021/3/16,New York,11.11
+2021/3/17,New York,11.37
+2021/3/18,New York,11.62
+2021/3/19,New York,11.88
+2021/3/20,New York,12.12
+2021/3/21,New York,12.42
+2021/3/22,New York,12.7
+2021/3/23,New York,13.01
+2021/3/24,New York,13.34
+2021/3/25,New York,13.67
+2021/3/26,New York,14.11
+2021/3/27,New York,14.63
+2021/3/28,New York,15.22
+2021/3/29,New York,15.79
+2021/3/30,New York,16.24
+2021/3/31,New York,16.89
+2021/4/1,New York,17.28
+2021/4/2,New York,19.09
+2021/4/3,New York,20.06
+2021/4/4,New York,20.69
+2021/4/5,New York,21.03
+2021/4/6,New York,21.34
+2021/4/7,New York,22.06
+2021/4/8,New York,22.64
+2021/4/9,New York,23.34
+2021/4/10,New York,24.14
+2021/4/11,New York,24.85
+2021/4/12,New York,25.35
+2021/4/13,New York,25.89
+2021/4/14,New York,26.41
+2021/4/15,New York,26.93
+2021/4/16,New York,27.49
+2021/4/17,New York,28.06
+2021/4/18,New York,28.66
+2021/4/19,New York,29.02
+2021/4/20,New York,29.37
+2021/4/21,New York,29.76
+2021/4/22,New York,30.2
+2021/4/23,New York,30.79
+2021/4/24,New York,31.34
+2021/4/25,New York,31.8
+2021/4/26,New York,32.16
+2021/4/27,New York,32.54
+2021/4/28,New York,33.08
+2021/4/29,New York,33.82
+2021/4/30,New York,34.55
+2021/5/1,New York,35.27
+2021/1/12,North Carolina,0.18
+2021/1/13,North Carolina,0.34
+2021/1/14,North Carolina,0.38
+2021/1/15,North Carolina,0.41
+2021/1/16,North Carolina,0.43
+2021/1/17,North Carolina,0.46
+2021/1/18,North Carolina,0.49
+2021/1/19,North Carolina,0.51
+2021/1/20,North Carolina,0.56
+2021/1/21,North Carolina,0.64
+2021/1/22,North Carolina,0.71
+2021/1/23,North Carolina,0.76
+2021/1/24,North Carolina,0.8
+2021/1/25,North Carolina,0.82
+2021/1/26,North Carolina,0.83
+2021/1/27,North Carolina,0.84
+2021/1/28,North Carolina,1.15
+2021/1/29,North Carolina,1.15
+2021/1/30,North Carolina,1.29
+2021/1/31,North Carolina,1.43
+2021/2/1,North Carolina,1.49
+2021/2/2,North Carolina,1.49
+2021/2/3,North Carolina,1.62
+2021/2/4,North Carolina,1.78
+2021/2/5,North Carolina,1.97
+2021/2/6,North Carolina,2.2
+2021/2/7,North Carolina,2.5
+2021/2/8,North Carolina,2.61
+2021/2/9,North Carolina,2.67
+2021/2/10,North Carolina,2.87
+2021/2/11,North Carolina,3.15
+2021/2/12,North Carolina,3.53
+2021/2/13,North Carolina,3.88
+2021/2/14,North Carolina,4.28
+2021/2/15,North Carolina,4.44
+2021/2/16,North Carolina,4.61
+2021/2/17,North Carolina,4.85
+2021/2/18,North Carolina,5.16
+2021/2/19,North Carolina,5.88
+2021/2/20,North Carolina,6.22
+2021/2/21,North Carolina,6.48
+2021/2/22,North Carolina,6.73
+2021/2/23,North Carolina,6.82
+2021/2/24,North Carolina,7.09
+2021/2/25,North Carolina,7.36
+2021/2/26,North Carolina,7.64
+2021/2/27,North Carolina,7.91
+2021/2/28,North Carolina,8.19
+2021/3/1,North Carolina,8.35
+2021/3/2,North Carolina,8.41
+2021/3/3,North Carolina,8.62
+2021/3/4,North Carolina,8.87
+2021/3/5,North Carolina,8.93
+2021/3/6,North Carolina,9.19
+2021/3/7,North Carolina,9.41
+2021/3/8,North Carolina,9.61
+2021/3/9,North Carolina,9.69
+2021/3/10,North Carolina,9.92
+2021/3/11,North Carolina,10.22
+2021/3/12,North Carolina,10.77
+2021/3/13,North Carolina,11.5
+2021/3/14,North Carolina,11.63
+2021/3/15,North Carolina,11.95
+2021/3/16,North Carolina,12.3
+2021/3/17,North Carolina,12.6
+2021/3/18,North Carolina,12.91
+2021/3/19,North Carolina,13.19
+2021/3/20,North Carolina,13.39
+2021/3/21,North Carolina,13.69
+2021/3/22,North Carolina,13.92
+2021/3/23,North Carolina,14.01
+2021/3/24,North Carolina,14.21
+2021/3/25,North Carolina,14.44
+2021/3/26,North Carolina,14.86
+2021/3/27,North Carolina,15.29
+2021/3/28,North Carolina,15.76
+2021/3/29,North Carolina,16.01
+2021/3/30,North Carolina,16.06
+2021/3/31,North Carolina,16.44
+2021/4/1,North Carolina,16.86
+2021/4/2,North Carolina,17.21
+2021/4/3,North Carolina,17.82
+2021/4/4,North Carolina,18.02
+2021/4/5,North Carolina,18.2
+2021/4/6,North Carolina,18.25
+2021/4/7,North Carolina,18.64
+2021/4/8,North Carolina,19.23
+2021/4/9,North Carolina,19.9
+2021/4/10,North Carolina,20.64
+2021/4/11,North Carolina,21.27
+2021/4/12,North Carolina,21.68
+2021/4/13,North Carolina,21.85
+2021/4/14,North Carolina,22.46
+2021/4/15,North Carolina,23.04
+2021/4/16,North Carolina,23.68
+2021/4/17,North Carolina,24.24
+2021/4/18,North Carolina,24.73
+2021/4/19,North Carolina,24.98
+2021/4/20,North Carolina,25.12
+2021/4/21,North Carolina,25.52
+2021/4/22,North Carolina,26.02
+2021/4/23,North Carolina,26.55
+2021/4/24,North Carolina,27.02
+2021/4/25,North Carolina,27.38
+2021/4/26,North Carolina,27.54
+2021/4/27,North Carolina,27.78
+2021/4/28,North Carolina,27.87
+2021/4/29,North Carolina,28.24
+2021/4/30,North Carolina,28.89
+2021/5/1,North Carolina,29.6
+2021/1/12,North Dakota,0.76
+2021/1/13,North Dakota,0.84
+2021/1/14,North Dakota,0.92
+2021/1/15,North Dakota,0.99
+2021/1/16,North Dakota,1.03
+2021/1/17,North Dakota,1.07
+2021/1/18,North Dakota,1.1
+2021/1/19,North Dakota,1.13
+2021/1/20,North Dakota,1.17
+2021/1/21,North Dakota,1.3
+2021/1/22,North Dakota,1.63
+2021/1/23,North Dakota,1.89
+2021/1/24,North Dakota,2.05
+2021/1/25,North Dakota,2.06
+2021/1/26,North Dakota,2.07
+2021/1/27,North Dakota,2.22
+2021/1/28,North Dakota,2.39
+2021/1/29,North Dakota,2.72
+2021/1/30,North Dakota,3.01
+2021/1/31,North Dakota,3.33
+2021/2/1,North Dakota,3.43
+2021/2/2,North Dakota,3.48
+2021/2/3,North Dakota,3.6
+2021/2/4,North Dakota,3.79
+2021/2/5,North Dakota,4.05
+2021/2/6,North Dakota,4.61
+2021/2/7,North Dakota,4.94
+2021/2/8,North Dakota,5.04
+2021/2/9,North Dakota,5.04
+2021/2/10,North Dakota,5.14
+2021/2/11,North Dakota,5.34
+2021/2/12,North Dakota,5.68
+2021/2/13,North Dakota,5.97
+2021/2/14,North Dakota,6.24
+2021/2/15,North Dakota,6.35
+2021/2/16,North Dakota,6.46
+2021/2/17,North Dakota,6.51
+2021/2/18,North Dakota,6.62
+2021/2/19,North Dakota,7.62
+2021/2/20,North Dakota,8.09
+2021/2/21,North Dakota,8.21
+2021/2/22,North Dakota,8.34
+2021/2/23,North Dakota,8.36
+2021/2/24,North Dakota,8.5
+2021/2/25,North Dakota,8.71
+2021/2/26,North Dakota,9.14
+2021/2/27,North Dakota,9.76
+2021/2/28,North Dakota,10.23
+2021/3/1,North Dakota,10.43
+2021/3/2,North Dakota,10.45
+2021/3/3,North Dakota,10.59
+2021/3/4,North Dakota,10.89
+2021/3/5,North Dakota,11.36
+2021/3/6,North Dakota,11.62
+2021/3/7,North Dakota,11.89
+2021/3/8,North Dakota,12
+2021/3/9,North Dakota,12.06
+2021/3/10,North Dakota,12.28
+2021/3/11,North Dakota,12.66
+2021/3/12,North Dakota,13.25
+2021/3/13,North Dakota,14.02
+2021/3/14,North Dakota,14.45
+2021/3/15,North Dakota,14.9
+2021/3/16,North Dakota,14.91
+2021/3/17,North Dakota,15.06
+2021/3/18,North Dakota,15.36
+2021/3/19,North Dakota,15.86
+2021/3/20,North Dakota,16.41
+2021/3/21,North Dakota,16.8
+2021/3/22,North Dakota,16.99
+2021/3/23,North Dakota,17
+2021/3/24,North Dakota,17.11
+2021/3/25,North Dakota,17.41
+2021/3/26,North Dakota,18.22
+2021/3/27,North Dakota,18.99
+2021/3/28,North Dakota,19.64
+2021/3/29,North Dakota,19.94
+2021/3/30,North Dakota,20.19
+2021/3/31,North Dakota,20.28
+2021/4/1,North Dakota,20.61
+2021/4/2,North Dakota,21.61
+2021/4/3,North Dakota,22.59
+2021/4/4,North Dakota,22.9
+2021/4/5,North Dakota,23.02
+2021/4/6,North Dakota,23.17
+2021/4/7,North Dakota,23.47
+2021/4/8,North Dakota,23.99
+2021/4/9,North Dakota,25.02
+2021/4/10,North Dakota,26.02
+2021/4/11,North Dakota,26.65
+2021/4/12,North Dakota,27.13
+2021/4/13,North Dakota,27.13
+2021/4/14,North Dakota,27.37
+2021/4/15,North Dakota,27.91
+2021/4/16,North Dakota,28.35
+2021/4/17,North Dakota,29.03
+2021/4/18,North Dakota,29.56
+2021/4/19,North Dakota,29.77
+2021/4/20,North Dakota,29.78
+2021/4/21,North Dakota,30.06
+2021/4/22,North Dakota,30.38
+2021/4/23,North Dakota,30.94
+2021/4/24,North Dakota,31.5
+2021/4/25,North Dakota,31.88
+2021/4/26,North Dakota,32.01
+2021/4/27,North Dakota,32.02
+2021/4/28,North Dakota,32.12
+2021/4/29,North Dakota,32.42
+2021/4/30,North Dakota,32.76
+2021/5/1,North Dakota,33.02
+2021/1/12,Ohio,0.03
+2021/1/13,Ohio,0.06
+2021/1/14,Ohio,0.09
+2021/1/15,Ohio,0.12
+2021/1/16,Ohio,0.15
+2021/1/17,Ohio,0.18
+2021/1/18,Ohio,0.2
+2021/1/19,Ohio,0.23
+2021/1/20,Ohio,0.26
+2021/1/21,Ohio,0.26
+2021/1/22,Ohio,0.38
+2021/1/23,Ohio,0.51
+2021/1/24,Ohio,0.61
+2021/1/25,Ohio,0.66
+2021/1/26,Ohio,0.69
+2021/1/27,Ohio,0.76
+2021/1/28,Ohio,0.91
+2021/1/29,Ohio,1.08
+2021/1/30,Ohio,1.29
+2021/1/31,Ohio,1.4
+2021/2/1,Ohio,1.53
+2021/2/2,Ohio,1.62
+2021/2/3,Ohio,1.72
+2021/2/4,Ohio,1.86
+2021/2/5,Ohio,2.05
+2021/2/6,Ohio,2.27
+2021/2/7,Ohio,2.44
+2021/2/8,Ohio,2.62
+2021/2/9,Ohio,2.68
+2021/2/10,Ohio,2.8
+2021/2/11,Ohio,2.99
+2021/2/12,Ohio,3.21
+2021/2/13,Ohio,3.5
+2021/2/14,Ohio,3.83
+2021/2/15,Ohio,3.98
+2021/2/16,Ohio,4.13
+2021/2/17,Ohio,4.25
+2021/2/18,Ohio,4.4
+2021/2/19,Ohio,4.82
+2021/2/20,Ohio,5.16
+2021/2/21,Ohio,5.56
+2021/2/22,Ohio,5.86
+2021/2/23,Ohio,6.03
+2021/2/24,Ohio,6.32
+2021/2/25,Ohio,6.63
+2021/2/26,Ohio,6.89
+2021/2/27,Ohio,7.25
+2021/2/28,Ohio,7.67
+2021/3/1,Ohio,7.87
+2021/3/2,Ohio,8.11
+2021/3/3,Ohio,8.34
+2021/3/4,Ohio,8.55
+2021/3/5,Ohio,8.74
+2021/3/6,Ohio,9.06
+2021/3/7,Ohio,9.44
+2021/3/8,Ohio,9.85
+2021/3/9,Ohio,10.08
+2021/3/10,Ohio,10.35
+2021/3/11,Ohio,10.63
+2021/3/12,Ohio,11.01
+2021/3/13,Ohio,11.49
+2021/3/14,Ohio,11.87
+2021/3/15,Ohio,12.21
+2021/3/16,Ohio,12.38
+2021/3/17,Ohio,12.62
+2021/3/18,Ohio,12.86
+2021/3/19,Ohio,13.16
+2021/3/20,Ohio,13.49
+2021/3/21,Ohio,13.86
+2021/3/22,Ohio,14.12
+2021/3/23,Ohio,14.26
+2021/3/24,Ohio,14.45
+2021/3/25,Ohio,14.74
+2021/3/26,Ohio,15.16
+2021/3/27,Ohio,15.61
+2021/3/28,Ohio,16.13
+2021/3/29,Ohio,16.42
+2021/3/30,Ohio,16.59
+2021/3/31,Ohio,16.86
+2021/4/1,Ohio,17.21
+2021/4/2,Ohio,17.68
+2021/4/3,Ohio,18.27
+2021/4/4,Ohio,18.78
+2021/4/5,Ohio,19.09
+2021/4/6,Ohio,19.24
+2021/4/7,Ohio,19.54
+2021/4/8,Ohio,20.15
+2021/4/9,Ohio,20.84
+2021/4/10,Ohio,21.6
+2021/4/11,Ohio,21.61
+2021/4/12,Ohio,22.93
+2021/4/13,Ohio,23.16
+2021/4/14,Ohio,23.7
+2021/4/15,Ohio,24.29
+2021/4/16,Ohio,24.92
+2021/4/17,Ohio,25.74
+2021/4/18,Ohio,26.32
+2021/4/19,Ohio,26.74
+2021/4/20,Ohio,27.01
+2021/4/21,Ohio,27.51
+2021/4/22,Ohio,28.07
+2021/4/23,Ohio,28.78
+2021/4/24,Ohio,29.48
+2021/4/25,Ohio,30.11
+2021/4/26,Ohio,30.52
+2021/4/27,Ohio,30.82
+2021/4/28,Ohio,31.18
+2021/4/29,Ohio,31.61
+2021/4/30,Ohio,32.24
+2021/5/1,Ohio,32.83
+2021/1/12,Oklahoma,0.44
+2021/1/13,Oklahoma,0.56
+2021/1/14,Oklahoma,0.64
+2021/1/15,Oklahoma,0.73
+2021/1/16,Oklahoma,0.74
+2021/1/17,Oklahoma,0.75
+2021/1/18,Oklahoma,0.76
+2021/1/19,Oklahoma,0.78
+2021/1/20,Oklahoma,0.82
+2021/1/21,Oklahoma,0.88
+2021/1/22,Oklahoma,0.95
+2021/1/23,Oklahoma,0.99
+2021/1/24,Oklahoma,1.04
+2021/1/25,Oklahoma,1.05
+2021/1/26,Oklahoma,1.06
+2021/1/27,Oklahoma,1.18
+2021/1/28,Oklahoma,1.33
+2021/1/29,Oklahoma,1.53
+2021/1/30,Oklahoma,1.73
+2021/1/31,Oklahoma,1.98
+2021/2/1,Oklahoma,2.03
+2021/2/2,Oklahoma,2.03
+2021/2/3,Oklahoma,2.21
+2021/2/4,Oklahoma,2.51
+2021/2/5,Oklahoma,2.89
+2021/2/6,Oklahoma,3.32
+2021/2/7,Oklahoma,3.68
+2021/2/8,Oklahoma,3.82
+2021/2/9,Oklahoma,3.85
+2021/2/10,Oklahoma,4.1
+2021/2/11,Oklahoma,4.36
+2021/2/12,Oklahoma,4.51
+2021/2/13,Oklahoma,4.77
+2021/2/14,Oklahoma,5.08
+2021/2/15,Oklahoma,5.14
+2021/2/16,Oklahoma,5.21
+2021/2/17,Oklahoma,5.23
+2021/2/18,Oklahoma,5.29
+2021/2/19,Oklahoma,6.09
+2021/2/20,Oklahoma,6.34
+2021/2/21,Oklahoma,6.93
+2021/2/22,Oklahoma,7.3
+2021/2/23,Oklahoma,7.54
+2021/2/24,Oklahoma,7.82
+2021/2/25,Oklahoma,8.2
+2021/2/26,Oklahoma,8.74
+2021/2/27,Oklahoma,9.29
+2021/2/28,Oklahoma,9.93
+2021/3/1,Oklahoma,10.12
+2021/3/2,Oklahoma,10.15
+2021/3/3,Oklahoma,10.41
+2021/3/4,Oklahoma,10.77
+2021/3/5,Oklahoma,11.01
+2021/3/6,Oklahoma,11.31
+2021/3/7,Oklahoma,11.58
+2021/3/8,Oklahoma,11.76
+2021/3/9,Oklahoma,11.83
+2021/3/10,Oklahoma,12.11
+2021/3/11,Oklahoma,12.29
+2021/3/12,Oklahoma,12.46
+2021/3/13,Oklahoma,12.7
+2021/3/14,Oklahoma,12.96
+2021/3/15,Oklahoma,13.07
+2021/3/16,Oklahoma,13.09
+2021/3/17,Oklahoma,13.49
+2021/3/18,Oklahoma,13.69
+2021/3/19,Oklahoma,13.92
+2021/3/20,Oklahoma,14.17
+2021/3/21,Oklahoma,14.54
+2021/3/22,Oklahoma,14.82
+2021/3/23,Oklahoma,14.91
+2021/3/24,Oklahoma,15.18
+2021/3/25,Oklahoma,15.64
+2021/3/26,Oklahoma,16.04
+2021/3/27,Oklahoma,16.49
+2021/3/28,Oklahoma,17.08
+2021/3/29,Oklahoma,17.32
+2021/3/30,Oklahoma,17.4
+2021/3/31,Oklahoma,17.81
+2021/4/1,Oklahoma,18.47
+2021/4/2,Oklahoma,19.04
+2021/4/3,Oklahoma,19.73
+2021/4/4,Oklahoma,20.26
+2021/4/5,Oklahoma,20.48
+2021/4/6,Oklahoma,20.54
+2021/4/7,Oklahoma,21.09
+2021/4/8,Oklahoma,21.61
+2021/4/9,Oklahoma,22.17
+2021/4/10,Oklahoma,22.8
+2021/4/11,Oklahoma,23.42
+2021/4/12,Oklahoma,23.7
+2021/4/13,Oklahoma,24.04
+2021/4/14,Oklahoma,24.18
+2021/4/15,Oklahoma,24.64
+2021/4/16,Oklahoma,25.13
+2021/4/17,Oklahoma,25.62
+2021/4/18,Oklahoma,26.09
+2021/4/19,Oklahoma,26.5
+2021/4/20,Oklahoma,26.59
+2021/4/21,Oklahoma,26.89
+2021/4/22,Oklahoma,27.24
+2021/4/23,Oklahoma,27.57
+2021/4/24,Oklahoma,28.07
+2021/4/25,Oklahoma,28.49
+2021/4/26,Oklahoma,28.68
+2021/4/27,Oklahoma,28.77
+2021/4/28,Oklahoma,29.07
+2021/4/29,Oklahoma,29.37
+2021/4/30,Oklahoma,29.62
+2021/5/1,Oklahoma,29.91
+2021/1/12,Oregon,0.11
+2021/1/13,Oregon,0.17
+2021/1/14,Oregon,0.23
+2021/1/15,Oregon,0.3
+2021/1/16,Oregon,0.37
+2021/1/17,Oregon,0.44
+2021/1/18,Oregon,0.51
+2021/1/19,Oregon,0.57
+2021/1/20,Oregon,0.57
+2021/1/21,Oregon,0.57
+2021/1/22,Oregon,0.82
+2021/1/23,Oregon,0.9
+2021/1/24,Oregon,0.96
+2021/1/25,Oregon,1.01
+2021/1/26,Oregon,1.04
+2021/1/27,Oregon,1.14
+2021/1/28,Oregon,1.27
+2021/1/29,Oregon,1.39
+2021/1/30,Oregon,1.57
+2021/1/31,Oregon,1.78
+2021/2/1,Oregon,1.89
+2021/2/2,Oregon,1.99
+2021/2/3,Oregon,2.16
+2021/2/4,Oregon,2.38
+2021/2/5,Oregon,2.54
+2021/2/6,Oregon,2.81
+2021/2/7,Oregon,3.1
+2021/2/8,Oregon,3.31
+2021/2/9,Oregon,3.45
+2021/2/10,Oregon,3.61
+2021/2/11,Oregon,3.61
+2021/2/12,Oregon,3.61
+2021/2/13,Oregon,4.31
+2021/2/14,Oregon,4.58
+2021/2/15,Oregon,4.65
+2021/2/16,Oregon,4.73
+2021/2/17,Oregon,4.81
+2021/2/18,Oregon,4.98
+2021/2/19,Oregon,5.55
+2021/2/20,Oregon,5.91
+2021/2/21,Oregon,6.3
+2021/2/22,Oregon,6.58
+2021/2/23,Oregon,6.86
+2021/2/24,Oregon,6.87
+2021/2/25,Oregon,7.17
+2021/2/26,Oregon,7.65
+2021/2/27,Oregon,7.95
+2021/2/28,Oregon,8.37
+2021/3/1,Oregon,8.63
+2021/3/2,Oregon,8.77
+2021/3/3,Oregon,8.89
+2021/3/4,Oregon,9.15
+2021/3/5,Oregon,9.43
+2021/3/6,Oregon,9.71
+2021/3/7,Oregon,9.97
+2021/3/8,Oregon,10.24
+2021/3/9,Oregon,10.45
+2021/3/10,Oregon,10.6
+2021/3/11,Oregon,10.62
+2021/3/12,Oregon,10.94
+2021/3/13,Oregon,11.53
+2021/3/14,Oregon,11.81
+2021/3/15,Oregon,12.05
+2021/3/16,Oregon,12.29
+2021/3/17,Oregon,12.33
+2021/3/18,Oregon,12.56
+2021/3/19,Oregon,13.01
+2021/3/20,Oregon,13.42
+2021/3/21,Oregon,13.73
+2021/3/22,Oregon,13.98
+2021/3/23,Oregon,14.24
+2021/3/24,Oregon,14.43
+2021/3/25,Oregon,14.66
+2021/3/26,Oregon,14.92
+2021/3/27,Oregon,15.38
+2021/3/28,Oregon,15.77
+2021/3/29,Oregon,16.11
+2021/3/30,Oregon,16.31
+2021/3/31,Oregon,16.67
+2021/4/1,Oregon,17.09
+2021/4/2,Oregon,17.53
+2021/4/3,Oregon,18.07
+2021/4/4,Oregon,18.56
+2021/4/5,Oregon,18.99
+2021/4/6,Oregon,19.25
+2021/4/7,Oregon,19.57
+2021/4/8,Oregon,20.02
+2021/4/9,Oregon,20.57
+2021/4/10,Oregon,21.28
+2021/4/11,Oregon,21.9
+2021/4/12,Oregon,22.34
+2021/4/13,Oregon,22.67
+2021/4/14,Oregon,23
+2021/4/15,Oregon,23.43
+2021/4/16,Oregon,23.96
+2021/4/17,Oregon,24.5
+2021/4/18,Oregon,24.98
+2021/4/19,Oregon,25.3
+2021/4/20,Oregon,25.61
+2021/4/21,Oregon,25.89
+2021/4/22,Oregon,25.93
+2021/4/23,Oregon,27.07
+2021/4/24,Oregon,27.68
+2021/4/25,Oregon,28.35
+2021/4/26,Oregon,28.8
+2021/4/27,Oregon,29.13
+2021/4/28,Oregon,29.46
+2021/4/29,Oregon,29.98
+2021/4/30,Oregon,30.47
+2021/5/1,Oregon,30.49
+2021/1/12,Maryland,0.11
+2021/1/13,Maryland,0.21
+2021/1/14,Maryland,0.23
+2021/1/15,Maryland,0.26
+2021/1/16,Maryland,0.29
+2021/1/17,Maryland,0.31
+2021/1/18,Maryland,0.33
+2021/1/19,Maryland,0.36
+2021/1/20,Maryland,0.4
+2021/1/21,Maryland,0.46
+2021/1/22,Maryland,0.51
+2021/1/23,Maryland,0.56
+2021/1/24,Maryland,0.62
+2021/1/25,Maryland,0.65
+2021/1/26,Maryland,0.7
+2021/1/27,Maryland,0.8
+2021/1/28,Maryland,0.93
+2021/1/29,Maryland,1.1
+2021/1/30,Maryland,1.27
+2021/1/31,Maryland,1.37
+2021/2/1,Maryland,1.44
+2021/2/2,Maryland,1.46
+2021/2/3,Maryland,1.51
+2021/2/4,Maryland,1.68
+2021/2/5,Maryland,1.91
+2021/2/6,Maryland,2.15
+2021/2/7,Maryland,2.42
+2021/2/8,Maryland,2.5
+2021/2/9,Maryland,2.56
+2021/2/10,Maryland,2.79
+2021/2/11,Maryland,3
+2021/2/12,Maryland,3.27
+2021/2/13,Maryland,3.52
+2021/2/14,Maryland,3.82
+2021/2/15,Maryland,3.93
+2021/2/16,Maryland,4.04
+2021/2/17,Maryland,4.2
+2021/2/18,Maryland,4.39
+2021/2/19,Maryland,4.96
+2021/2/20,Maryland,5.3
+2021/2/21,Maryland,5.66
+2021/2/22,Maryland,6.11
+2021/2/23,Maryland,6.32
+2021/2/24,Maryland,6.6
+2021/2/25,Maryland,6.86
+2021/2/26,Maryland,7.25
+2021/2/27,Maryland,7.67
+2021/2/28,Maryland,8.07
+2021/3/1,Maryland,8.33
+2021/3/2,Maryland,8.49
+2021/3/3,Maryland,8.84
+2021/3/4,Maryland,9.11
+2021/3/5,Maryland,9.4
+2021/3/6,Maryland,9.75
+2021/3/7,Maryland,9.97
+2021/3/8,Maryland,10.4
+2021/3/9,Maryland,10.7
+2021/3/10,Maryland,11.02
+2021/3/11,Maryland,11.39
+2021/3/12,Maryland,11.68
+2021/3/13,Maryland,11.99
+2021/3/14,Maryland,12.25
+2021/3/15,Maryland,12.45
+2021/3/16,Maryland,12.66
+2021/3/17,Maryland,12.93
+2021/3/18,Maryland,13.21
+2021/3/19,Maryland,13.44
+2021/3/20,Maryland,13.47
+2021/3/21,Maryland,13.92
+2021/3/22,Maryland,14.11
+2021/3/23,Maryland,14.29
+2021/3/24,Maryland,14.55
+2021/3/25,Maryland,14.82
+2021/3/26,Maryland,15.22
+2021/3/27,Maryland,15.61
+2021/3/28,Maryland,15.99
+2021/3/29,Maryland,16.22
+2021/3/30,Maryland,16.66
+2021/3/31,Maryland,17.19
+2021/4/1,Maryland,17.8
+2021/4/2,Maryland,18.45
+2021/4/3,Maryland,19.14
+2021/4/4,Maryland,19.62
+2021/4/5,Maryland,19.8
+2021/4/6,Maryland,20.23
+2021/4/7,Maryland,20.81
+2021/4/8,Maryland,21.51
+2021/4/9,Maryland,22.21
+2021/4/10,Maryland,23.13
+2021/4/11,Maryland,23.74
+2021/4/12,Maryland,23.76
+2021/4/13,Maryland,24.78
+2021/4/14,Maryland,25.38
+2021/4/15,Maryland,25.93
+2021/4/16,Maryland,26.62
+2021/4/17,Maryland,26.68
+2021/4/18,Maryland,27.78
+2021/4/19,Maryland,28.11
+2021/4/20,Maryland,28.58
+2021/4/21,Maryland,29.23
+2021/4/22,Maryland,29.86
+2021/4/23,Maryland,30.55
+2021/4/24,Maryland,31.12
+2021/4/25,Maryland,31.7
+2021/4/26,Maryland,31.9
+2021/4/27,Maryland,32.37
+2021/4/28,Maryland,32.88
+2021/4/29,Maryland,33.46
+2021/4/30,Maryland,34.16
+2021/5/1,Maryland,34.67
+2021/1/12,Massachusetts,0.28
+2021/1/13,Massachusetts,0.36
+2021/1/14,Massachusetts,0.43
+2021/1/15,Massachusetts,0.51
+2021/1/16,Massachusetts,0.53
+2021/1/17,Massachusetts,0.55
+2021/1/18,Massachusetts,0.57
+2021/1/19,Massachusetts,0.6
+2021/1/20,Massachusetts,0.61
+2021/1/21,Massachusetts,0.67
+2021/1/22,Massachusetts,0.75
+2021/1/23,Massachusetts,0.84
+2021/1/24,Massachusetts,0.92
+2021/1/25,Massachusetts,0.94
+2021/1/26,Massachusetts,0.95
+2021/1/27,Massachusetts,1.06
+2021/1/28,Massachusetts,1.21
+2021/1/29,Massachusetts,1.4
+2021/1/30,Massachusetts,1.55
+2021/1/31,Massachusetts,1.69
+2021/2/1,Massachusetts,1.78
+2021/2/2,Massachusetts,1.84
+2021/2/3,Massachusetts,1.84
+2021/2/4,Massachusetts,1.95
+2021/2/5,Massachusetts,2.08
+2021/2/6,Massachusetts,2.23
+2021/2/7,Massachusetts,2.45
+2021/2/8,Massachusetts,2.53
+2021/2/9,Massachusetts,2.63
+2021/2/10,Massachusetts,2.83
+2021/2/11,Massachusetts,3.01
+2021/2/12,Massachusetts,3.17
+2021/2/13,Massachusetts,3.42
+2021/2/14,Massachusetts,3.77
+2021/2/15,Massachusetts,3.92
+2021/2/16,Massachusetts,4.07
+2021/2/17,Massachusetts,4.18
+2021/2/18,Massachusetts,4.35
+2021/2/19,Massachusetts,4.73
+2021/2/20,Massachusetts,4.99
+2021/2/21,Massachusetts,5.33
+2021/2/22,Massachusetts,5.54
+2021/2/23,Massachusetts,5.7
+2021/2/24,Massachusetts,5.91
+2021/2/25,Massachusetts,6.16
+2021/2/26,Massachusetts,6.46
+2021/2/27,Massachusetts,6.84
+2021/2/28,Massachusetts,7.2
+2021/3/1,Massachusetts,7.59
+2021/3/2,Massachusetts,7.82
+2021/3/3,Massachusetts,8.08
+2021/3/4,Massachusetts,8.39
+2021/3/5,Massachusetts,8.78
+2021/3/6,Massachusetts,9.24
+2021/3/7,Massachusetts,9.62
+2021/3/8,Massachusetts,10.08
+2021/3/9,Massachusetts,10.26
+2021/3/10,Massachusetts,10.87
+2021/3/11,Massachusetts,11.26
+2021/3/12,Massachusetts,11.77
+2021/3/13,Massachusetts,12.68
+2021/3/14,Massachusetts,12.68
+2021/3/15,Massachusetts,13.13
+2021/3/16,Massachusetts,13.22
+2021/3/17,Massachusetts,13.68
+2021/3/18,Massachusetts,14.06
+2021/3/19,Massachusetts,14.43
+2021/3/20,Massachusetts,14.82
+2021/3/21,Massachusetts,15.16
+2021/3/22,Massachusetts,15.51
+2021/3/23,Massachusetts,15.74
+2021/3/24,Massachusetts,16.11
+2021/3/25,Massachusetts,16.5
+2021/3/26,Massachusetts,16.93
+2021/3/27,Massachusetts,17.37
+2021/3/28,Massachusetts,17.81
+2021/3/29,Massachusetts,18.23
+2021/3/30,Massachusetts,18.5
+2021/3/31,Massachusetts,18.96
+2021/4/1,Massachusetts,19.46
+2021/4/2,Massachusetts,19.98
+2021/4/3,Massachusetts,20.55
+2021/4/4,Massachusetts,21.15
+2021/4/5,Massachusetts,21.58
+2021/4/6,Massachusetts,21.77
+2021/4/7,Massachusetts,22.32
+2021/4/8,Massachusetts,22.93
+2021/4/9,Massachusetts,23.61
+2021/4/10,Massachusetts,24.48
+2021/4/11,Massachusetts,25.22
+2021/4/12,Massachusetts,25.82
+2021/4/13,Massachusetts,26.17
+2021/4/14,Massachusetts,26.83
+2021/4/15,Massachusetts,27.46
+2021/4/16,Massachusetts,28.07
+2021/4/17,Massachusetts,28.68
+2021/4/18,Massachusetts,29.33
+2021/4/19,Massachusetts,29.86
+2021/4/20,Massachusetts,30.18
+2021/4/21,Massachusetts,30.7
+2021/4/22,Massachusetts,31.29
+2021/4/23,Massachusetts,31.95
+2021/4/24,Massachusetts,32.72
+2021/4/25,Massachusetts,33.46
+2021/4/26,Massachusetts,34.04
+2021/4/27,Massachusetts,34.46
+2021/4/28,Massachusetts,35.09
+2021/4/29,Massachusetts,35.72
+2021/4/30,Massachusetts,36.37
+2021/5/1,Massachusetts,37.12
+2021/1/12,Michigan,0.19
+2021/1/13,Michigan,0.32
+2021/1/14,Michigan,0.4
+2021/1/15,Michigan,0.49
+2021/1/16,Michigan,0.53
+2021/1/17,Michigan,0.57
+2021/1/18,Michigan,0.61
+2021/1/19,Michigan,0.63
+2021/1/20,Michigan,0.71
+2021/1/21,Michigan,0.81
+2021/1/22,Michigan,0.93
+2021/1/23,Michigan,1.06
+2021/1/24,Michigan,1.11
+2021/1/25,Michigan,1.17
+2021/1/26,Michigan,1.2
+2021/1/27,Michigan,1.31
+2021/1/28,Michigan,1.44
+2021/1/29,Michigan,1.6
+2021/1/30,Michigan,1.75
+2021/1/31,Michigan,1.91
+2021/2/1,Michigan,1.98
+2021/2/2,Michigan,2.01
+2021/2/3,Michigan,2.15
+2021/2/4,Michigan,2.3
+2021/2/5,Michigan,2.53
+2021/2/6,Michigan,2.83
+2021/2/7,Michigan,3.13
+2021/2/8,Michigan,3.29
+2021/2/9,Michigan,3.44
+2021/2/10,Michigan,3.72
+2021/2/11,Michigan,3.99
+2021/2/12,Michigan,4.26
+2021/2/13,Michigan,4.6
+2021/2/14,Michigan,4.92
+2021/2/15,Michigan,5.04
+2021/2/16,Michigan,5.16
+2021/2/17,Michigan,5.27
+2021/2/18,Michigan,5.46
+2021/2/19,Michigan,5.93
+2021/2/20,Michigan,6.19
+2021/2/21,Michigan,6.48
+2021/2/22,Michigan,6.82
+2021/2/23,Michigan,6.89
+2021/2/24,Michigan,7.17
+2021/2/25,Michigan,7.53
+2021/2/26,Michigan,7.81
+2021/2/27,Michigan,8.17
+2021/2/28,Michigan,8.44
+2021/3/1,Michigan,8.61
+2021/3/2,Michigan,8.71
+2021/3/3,Michigan,8.81
+2021/3/4,Michigan,9.06
+2021/3/5,Michigan,9.32
+2021/3/6,Michigan,9.57
+2021/3/7,Michigan,9.82
+2021/3/8,Michigan,10.04
+2021/3/9,Michigan,10.11
+2021/3/10,Michigan,10.27
+2021/3/11,Michigan,10.52
+2021/3/12,Michigan,10.84
+2021/3/13,Michigan,11.17
+2021/3/14,Michigan,11.58
+2021/3/15,Michigan,11.62
+2021/3/16,Michigan,11.93
+2021/3/17,Michigan,12.18
+2021/3/18,Michigan,12.45
+2021/3/19,Michigan,12.84
+2021/3/20,Michigan,13.27
+2021/3/21,Michigan,13.66
+2021/3/22,Michigan,13.95
+2021/3/23,Michigan,14.06
+2021/3/24,Michigan,14.31
+2021/3/25,Michigan,14.61
+2021/3/26,Michigan,15.05
+2021/3/27,Michigan,15.64
+2021/3/28,Michigan,16.18
+2021/3/29,Michigan,16.5
+2021/3/30,Michigan,16.63
+2021/3/31,Michigan,16.95
+2021/4/1,Michigan,17.38
+2021/4/2,Michigan,17.87
+2021/4/3,Michigan,18.59
+2021/4/4,Michigan,19.08
+2021/4/5,Michigan,19.4
+2021/4/6,Michigan,19.51
+2021/4/7,Michigan,19.88
+2021/4/8,Michigan,20.42
+2021/4/9,Michigan,21
+2021/4/10,Michigan,21.78
+2021/4/11,Michigan,22.52
+2021/4/12,Michigan,23.08
+2021/4/13,Michigan,23.28
+2021/4/14,Michigan,23.73
+2021/4/15,Michigan,24.27
+2021/4/16,Michigan,24.78
+2021/4/17,Michigan,25.42
+2021/4/18,Michigan,26
+2021/4/19,Michigan,26.27
+2021/4/20,Michigan,26.46
+2021/4/21,Michigan,27.05
+2021/4/22,Michigan,27.7
+2021/4/23,Michigan,28.34
+2021/4/24,Michigan,29
+2021/4/25,Michigan,29.68
+2021/4/26,Michigan,30.04
+2021/4/27,Michigan,30.19
+2021/4/28,Michigan,30.77
+2021/4/29,Michigan,31.23
+2021/4/30,Michigan,31.84
+2021/5/1,Michigan,32.53
+2021/1/12,Minnesota,0.17
+2021/1/13,Minnesota,0.18
+2021/1/14,Minnesota,0.33
+2021/1/15,Minnesota,0.49
+2021/1/16,Minnesota,0.55
+2021/1/17,Minnesota,0.62
+2021/1/18,Minnesota,0.68
+2021/1/19,Minnesota,0.75
+2021/1/20,Minnesota,0.75
+2021/1/21,Minnesota,0.82
+2021/1/22,Minnesota,0.96
+2021/1/23,Minnesota,1.15
+2021/1/24,Minnesota,1.2
+2021/1/25,Minnesota,1.28
+2021/1/26,Minnesota,1.29
+2021/1/27,Minnesota,1.34
+2021/1/28,Minnesota,1.55
+2021/1/29,Minnesota,1.75
+2021/1/30,Minnesota,1.91
+2021/1/31,Minnesota,2.03
+2021/2/1,Minnesota,2.11
+2021/2/2,Minnesota,2.12
+2021/2/3,Minnesota,2.12
+2021/2/4,Minnesota,2.34
+2021/2/5,Minnesota,2.34
+2021/2/6,Minnesota,2.67
+2021/2/7,Minnesota,2.79
+2021/2/8,Minnesota,2.85
+2021/2/9,Minnesota,2.85
+2021/2/10,Minnesota,2.85
+2021/2/11,Minnesota,3.13
+2021/2/12,Minnesota,3.35
+2021/2/13,Minnesota,3.65
+2021/2/14,Minnesota,3.97
+2021/2/15,Minnesota,4.08
+2021/2/16,Minnesota,4.19
+2021/2/17,Minnesota,4.26
+2021/2/18,Minnesota,4.56
+2021/2/19,Minnesota,5.21
+2021/2/20,Minnesota,5.7
+2021/2/21,Minnesota,6.11
+2021/2/22,Minnesota,6.14
+2021/2/23,Minnesota,6.5
+2021/2/24,Minnesota,6.65
+2021/2/25,Minnesota,6.93
+2021/2/26,Minnesota,7.29
+2021/2/27,Minnesota,7.74
+2021/2/28,Minnesota,8.08
+2021/3/1,Minnesota,8.33
+2021/3/2,Minnesota,8.45
+2021/3/3,Minnesota,8.66
+2021/3/4,Minnesota,8.93
+2021/3/5,Minnesota,9.29
+2021/3/6,Minnesota,9.71
+2021/3/7,Minnesota,10.01
+2021/3/8,Minnesota,10.51
+2021/3/9,Minnesota,10.71
+2021/3/10,Minnesota,10.95
+2021/3/11,Minnesota,11.46
+2021/3/12,Minnesota,11.79
+2021/3/13,Minnesota,12.68
+2021/3/14,Minnesota,12.69
+2021/3/15,Minnesota,13.03
+2021/3/16,Minnesota,13.12
+2021/3/17,Minnesota,13.45
+2021/3/18,Minnesota,13.79
+2021/3/19,Minnesota,14.25
+2021/3/20,Minnesota,14.76
+2021/3/21,Minnesota,15.2
+2021/3/22,Minnesota,15.42
+2021/3/23,Minnesota,15.51
+2021/3/24,Minnesota,15.68
+2021/3/25,Minnesota,15.98
+2021/3/26,Minnesota,16.44
+2021/3/27,Minnesota,17.04
+2021/3/28,Minnesota,17.76
+2021/3/29,Minnesota,18.05
+2021/3/30,Minnesota,18.29
+2021/3/31,Minnesota,18.81
+2021/4/1,Minnesota,19.29
+2021/4/2,Minnesota,19.87
+2021/4/3,Minnesota,20.64
+2021/4/4,Minnesota,21.28
+2021/4/5,Minnesota,21.7
+2021/4/6,Minnesota,21.82
+2021/4/7,Minnesota,22.3
+2021/4/8,Minnesota,22.82
+2021/4/9,Minnesota,23.55
+2021/4/10,Minnesota,24.1
+2021/4/11,Minnesota,25.07
+2021/4/12,Minnesota,26.04
+2021/4/13,Minnesota,26.31
+2021/4/14,Minnesota,26.53
+2021/4/15,Minnesota,27.04
+2021/4/16,Minnesota,27.59
+2021/4/17,Minnesota,28.1
+2021/4/18,Minnesota,28.81
+2021/4/19,Minnesota,28.83
+2021/4/20,Minnesota,29.37
+2021/4/21,Minnesota,29.7
+2021/4/22,Minnesota,30.17
+2021/4/23,Minnesota,30.84
+2021/4/24,Minnesota,31.22
+2021/4/25,Minnesota,32
+2021/4/26,Minnesota,32.58
+2021/4/27,Minnesota,32.68
+2021/4/28,Minnesota,33.09
+2021/4/29,Minnesota,33.53
+2021/4/30,Minnesota,34.17
+2021/5/1,Minnesota,34.87
+2021/1/12,Mississippi,0.16
+2021/1/13,Mississippi,0.19
+2021/1/14,Mississippi,0.23
+2021/1/15,Mississippi,0.28
+2021/1/16,Mississippi,0.29
+2021/1/17,Mississippi,0.3
+2021/1/18,Mississippi,0.31
+2021/1/19,Mississippi,0.32
+2021/1/20,Mississippi,0.34
+2021/1/21,Mississippi,0.39
+2021/1/22,Mississippi,0.45
+2021/1/23,Mississippi,0.45
+2021/1/24,Mississippi,0.53
+2021/1/25,Mississippi,0.54
+2021/1/26,Mississippi,0.54
+2021/1/27,Mississippi,0.59
+2021/1/28,Mississippi,0.65
+2021/1/29,Mississippi,0.72
+2021/1/30,Mississippi,0.77
+2021/1/31,Mississippi,0.82
+2021/2/1,Mississippi,0.84
+2021/2/2,Mississippi,0.85
+2021/2/3,Mississippi,0.93
+2021/2/4,Mississippi,0.93
+2021/2/5,Mississippi,1.26
+2021/2/6,Mississippi,1.6
+2021/2/7,Mississippi,1.89
+2021/2/8,Mississippi,1.99
+2021/2/9,Mississippi,2.02
+2021/2/10,Mississippi,2.28
+2021/2/11,Mississippi,2.65
+2021/2/12,Mississippi,3.01
+2021/2/13,Mississippi,3.48
+2021/2/14,Mississippi,3.84
+2021/2/15,Mississippi,3.93
+2021/2/16,Mississippi,4.02
+2021/2/17,Mississippi,4.02
+2021/2/18,Mississippi,4.02
+2021/2/19,Mississippi,4.43
+2021/2/20,Mississippi,4.56
+2021/2/21,Mississippi,4.72
+2021/2/22,Mississippi,4.98
+2021/2/23,Mississippi,5.09
+2021/2/24,Mississippi,5.46
+2021/2/25,Mississippi,5.48
+2021/2/26,Mississippi,6.23
+2021/2/27,Mississippi,6.65
+2021/2/28,Mississippi,7.08
+2021/3/1,Mississippi,7.39
+2021/3/2,Mississippi,7.53
+2021/3/3,Mississippi,7.81
+2021/3/4,Mississippi,8.11
+2021/3/5,Mississippi,8.46
+2021/3/6,Mississippi,8.73
+2021/3/7,Mississippi,9.05
+2021/3/8,Mississippi,9.37
+2021/3/9,Mississippi,9.42
+2021/3/10,Mississippi,9.74
+2021/3/11,Mississippi,10.03
+2021/3/12,Mississippi,10.04
+2021/3/13,Mississippi,10.96
+2021/3/14,Mississippi,10.96
+2021/3/15,Mississippi,11.06
+2021/3/16,Mississippi,11.08
+2021/3/17,Mississippi,11.28
+2021/3/18,Mississippi,11.53
+2021/3/19,Mississippi,11.62
+2021/3/20,Mississippi,11.95
+2021/3/21,Mississippi,12.3
+2021/3/22,Mississippi,12.4
+2021/3/23,Mississippi,12.44
+2021/3/24,Mississippi,12.78
+2021/3/25,Mississippi,13.19
+2021/3/26,Mississippi,13.21
+2021/3/27,Mississippi,13.9
+2021/3/28,Mississippi,13.94
+2021/3/29,Mississippi,14.71
+2021/3/30,Mississippi,14.76
+2021/3/31,Mississippi,15.15
+2021/4/1,Mississippi,15.19
+2021/4/2,Mississippi,15.78
+2021/4/3,Mississippi,16.34
+2021/4/4,Mississippi,16.82
+2021/4/5,Mississippi,16.82
+2021/4/6,Mississippi,16.95
+2021/4/7,Mississippi,17.32
+2021/4/8,Mississippi,17.77
+2021/4/9,Mississippi,18.19
+2021/4/10,Mississippi,18.7
+2021/4/11,Mississippi,19.2
+2021/4/12,Mississippi,19.21
+2021/4/13,Mississippi,19.38
+2021/4/14,Mississippi,19.79
+2021/4/15,Mississippi,20.14
+2021/4/16,Mississippi,20.51
+2021/4/17,Mississippi,20.53
+2021/4/18,Mississippi,21.26
+2021/4/19,Mississippi,21.28
+2021/4/20,Mississippi,21.39
+2021/4/21,Mississippi,21.67
+2021/4/22,Mississippi,21.92
+2021/4/23,Mississippi,22.26
+2021/4/24,Mississippi,22.28
+2021/4/25,Mississippi,22.32
+2021/4/26,Mississippi,22.33
+2021/4/27,Mississippi,23.04
+2021/4/28,Mississippi,23.25
+2021/4/29,Mississippi,23.27
+2021/4/30,Mississippi,23.78
+2021/5/1,Mississippi,23.79
+2021/1/12,Missouri,0.36
+2021/1/13,Missouri,0.36
+2021/1/14,Missouri,0.48
+2021/1/15,Missouri,0.6
+2021/1/16,Missouri,0.64
+2021/1/17,Missouri,0.68
+2021/1/18,Missouri,0.71
+2021/1/19,Missouri,0.74
+2021/1/20,Missouri,0.8
+2021/1/21,Missouri,0.96
+2021/1/22,Missouri,1.09
+2021/1/23,Missouri,1.12
+2021/1/24,Missouri,1.19
+2021/1/25,Missouri,1.24
+2021/1/26,Missouri,1.25
+2021/1/27,Missouri,1.3
+2021/1/28,Missouri,1.4
+2021/1/29,Missouri,1.51
+2021/1/30,Missouri,1.51
+2021/1/31,Missouri,1.63
+2021/2/1,Missouri,1.68
+2021/2/2,Missouri,1.7
+2021/2/3,Missouri,1.74
+2021/2/4,Missouri,1.83
+2021/2/5,Missouri,1.93
+2021/2/6,Missouri,2.11
+2021/2/7,Missouri,2.3
+2021/2/8,Missouri,2.38
+2021/2/9,Missouri,2.4
+2021/2/10,Missouri,2.53
+2021/2/11,Missouri,2.66
+2021/2/12,Missouri,2.82
+2021/2/13,Missouri,3.35
+2021/2/14,Missouri,3.67
+2021/2/15,Missouri,3.78
+2021/2/16,Missouri,3.89
+2021/2/17,Missouri,3.99
+2021/2/18,Missouri,4.22
+2021/2/19,Missouri,4.81
+2021/2/20,Missouri,4.99
+2021/2/21,Missouri,5.17
+2021/2/22,Missouri,5.36
+2021/2/23,Missouri,5.43
+2021/2/24,Missouri,5.65
+2021/2/25,Missouri,5.93
+2021/2/26,Missouri,6.18
+2021/2/27,Missouri,6.71
+2021/2/28,Missouri,6.73
+2021/3/1,Missouri,7.22
+2021/3/2,Missouri,7.26
+2021/3/3,Missouri,7.45
+2021/3/4,Missouri,7.75
+2021/3/5,Missouri,8.03
+2021/3/6,Missouri,8.31
+2021/3/7,Missouri,8.57
+2021/3/8,Missouri,8.82
+2021/3/9,Missouri,8.87
+2021/3/10,Missouri,9.2
+2021/3/11,Missouri,9.48
+2021/3/12,Missouri,9.75
+2021/3/13,Missouri,10.31
+2021/3/14,Missouri,10.32
+2021/3/15,Missouri,10.55
+2021/3/16,Missouri,10.62
+2021/3/17,Missouri,10.8
+2021/3/18,Missouri,11.1
+2021/3/19,Missouri,11.37
+2021/3/20,Missouri,11.66
+2021/3/21,Missouri,12.01
+2021/3/22,Missouri,12.24
+2021/3/23,Missouri,12.35
+2021/3/24,Missouri,12.57
+2021/3/25,Missouri,12.87
+2021/3/26,Missouri,13.2
+2021/3/27,Missouri,13.63
+2021/3/28,Missouri,14.16
+2021/3/29,Missouri,14.48
+2021/3/30,Missouri,14.65
+2021/3/31,Missouri,15.06
+2021/4/1,Missouri,15.55
+2021/4/2,Missouri,16.25
+2021/4/3,Missouri,16.74
+2021/4/4,Missouri,17.24
+2021/4/5,Missouri,17.56
+2021/4/6,Missouri,17.62
+2021/4/7,Missouri,17.95
+2021/4/8,Missouri,18.56
+2021/4/9,Missouri,18.99
+2021/4/10,Missouri,19.58
+2021/4/11,Missouri,20.17
+2021/4/12,Missouri,20.59
+2021/4/13,Missouri,20.98
+2021/4/14,Missouri,21.11
+2021/4/15,Missouri,21.55
+2021/4/16,Missouri,21.97
+2021/4/17,Missouri,22.54
+2021/4/18,Missouri,23.11
+2021/4/19,Missouri,23.33
+2021/4/20,Missouri,23.39
+2021/4/21,Missouri,23.8
+2021/4/22,Missouri,24.27
+2021/4/23,Missouri,24.76
+2021/4/24,Missouri,25.19
+2021/4/25,Missouri,25.81
+2021/4/26,Missouri,26.1
+2021/4/27,Missouri,26.19
+2021/4/28,Missouri,26.55
+2021/4/29,Missouri,26.97
+2021/4/30,Missouri,27.39
+2021/5/1,Missouri,27.72
+2021/1/12,Pennsylvania,0.08
+2021/1/13,Pennsylvania,0.14
+2021/1/14,Pennsylvania,0.33
+2021/1/15,Pennsylvania,0.52
+2021/1/16,Pennsylvania,0.55
+2021/1/17,Pennsylvania,0.57
+2021/1/18,Pennsylvania,0.6
+2021/1/19,Pennsylvania,0.62
+2021/1/20,Pennsylvania,0.67
+2021/1/21,Pennsylvania,0.75
+2021/1/22,Pennsylvania,0.88
+2021/1/23,Pennsylvania,0.96
+2021/1/24,Pennsylvania,1.03
+2021/1/25,Pennsylvania,1.06
+2021/1/26,Pennsylvania,1.1
+2021/1/27,Pennsylvania,1.22
+2021/1/28,Pennsylvania,1.24
+2021/1/29,Pennsylvania,1.51
+2021/1/30,Pennsylvania,1.64
+2021/1/31,Pennsylvania,1.75
+2021/2/1,Pennsylvania,1.81
+2021/2/2,Pennsylvania,1.85
+2021/2/3,Pennsylvania,1.86
+2021/2/4,Pennsylvania,2.01
+2021/2/5,Pennsylvania,2.15
+2021/2/6,Pennsylvania,2.33
+2021/2/7,Pennsylvania,2.51
+2021/2/8,Pennsylvania,2.57
+2021/2/9,Pennsylvania,2.66
+2021/2/10,Pennsylvania,2.79
+2021/2/11,Pennsylvania,2.92
+2021/2/12,Pennsylvania,3.12
+2021/2/13,Pennsylvania,3.15
+2021/2/14,Pennsylvania,3.54
+2021/2/15,Pennsylvania,3.55
+2021/2/16,Pennsylvania,3.57
+2021/2/17,Pennsylvania,3.9
+2021/2/18,Pennsylvania,4.05
+2021/2/19,Pennsylvania,4.51
+2021/2/20,Pennsylvania,4.66
+2021/2/21,Pennsylvania,4.94
+2021/2/22,Pennsylvania,5.11
+2021/2/23,Pennsylvania,5.21
+2021/2/24,Pennsylvania,5.39
+2021/2/25,Pennsylvania,5.62
+2021/2/26,Pennsylvania,5.88
+2021/2/27,Pennsylvania,6.25
+2021/2/28,Pennsylvania,6.51
+2021/3/1,Pennsylvania,6.81
+2021/3/2,Pennsylvania,6.94
+2021/3/3,Pennsylvania,7.15
+2021/3/4,Pennsylvania,7.42
+2021/3/5,Pennsylvania,7.72
+2021/3/6,Pennsylvania,8.07
+2021/3/7,Pennsylvania,8.12
+2021/3/8,Pennsylvania,8.15
+2021/3/9,Pennsylvania,8.73
+2021/3/10,Pennsylvania,9.08
+2021/3/11,Pennsylvania,9.4
+2021/3/12,Pennsylvania,9.46
+2021/3/13,Pennsylvania,10.48
+2021/3/14,Pennsylvania,10.77
+2021/3/15,Pennsylvania,11.11
+2021/3/16,Pennsylvania,11.27
+2021/3/17,Pennsylvania,12.02
+2021/3/18,Pennsylvania,12.35
+2021/3/19,Pennsylvania,12.4
+2021/3/20,Pennsylvania,12.47
+2021/3/21,Pennsylvania,12.49
+2021/3/22,Pennsylvania,12.8
+2021/3/23,Pennsylvania,13.92
+2021/3/24,Pennsylvania,14.28
+2021/3/25,Pennsylvania,14.4
+2021/3/26,Pennsylvania,14.83
+2021/3/27,Pennsylvania,15.27
+2021/3/28,Pennsylvania,15.68
+2021/3/29,Pennsylvania,16.06
+2021/3/30,Pennsylvania,16.29
+2021/3/31,Pennsylvania,16.62
+2021/4/1,Pennsylvania,17.17
+2021/4/2,Pennsylvania,17.62
+2021/4/3,Pennsylvania,18.18
+2021/4/4,Pennsylvania,18.59
+2021/4/5,Pennsylvania,18.94
+2021/4/6,Pennsylvania,19.13
+2021/4/7,Pennsylvania,19.23
+2021/4/8,Pennsylvania,19.37
+2021/4/9,Pennsylvania,19.62
+2021/4/10,Pennsylvania,21.68
+2021/4/11,Pennsylvania,22.17
+2021/4/12,Pennsylvania,22.74
+2021/4/13,Pennsylvania,23.3
+2021/4/14,Pennsylvania,23.83
+2021/4/15,Pennsylvania,24.38
+2021/4/16,Pennsylvania,25.11
+2021/4/17,Pennsylvania,25.64
+2021/4/18,Pennsylvania,26.14
+2021/4/19,Pennsylvania,26.45
+2021/4/20,Pennsylvania,26.77
+2021/4/21,Pennsylvania,27.39
+2021/4/22,Pennsylvania,27.86
+2021/4/23,Pennsylvania,28.78
+2021/4/24,Pennsylvania,29.5
+2021/4/25,Pennsylvania,29.91
+2021/4/26,Pennsylvania,30.22
+2021/4/27,Pennsylvania,30.49
+2021/4/28,Pennsylvania,30.91
+2021/4/29,Pennsylvania,31.46
+2021/4/30,Pennsylvania,31.96
+2021/5/1,Pennsylvania,32.74
+2021/1/12,Rhode Island,0.39
+2021/1/13,Rhode Island,0.52
+2021/1/14,Rhode Island,0.65
+2021/1/15,Rhode Island,0.77
+2021/1/16,Rhode Island,0.81
+2021/1/17,Rhode Island,0.85
+2021/1/18,Rhode Island,0.89
+2021/1/19,Rhode Island,0.93
+2021/1/20,Rhode Island,1.01
+2021/1/21,Rhode Island,1.05
+2021/1/22,Rhode Island,1.13
+2021/1/23,Rhode Island,1.19
+2021/1/24,Rhode Island,1.25
+2021/1/25,Rhode Island,1.29
+2021/1/26,Rhode Island,1.34
+2021/1/27,Rhode Island,1.55
+2021/1/28,Rhode Island,1.75
+2021/1/29,Rhode Island,1.92
+2021/1/30,Rhode Island,2.11
+2021/1/31,Rhode Island,2.21
+2021/2/1,Rhode Island,2.4
+2021/2/2,Rhode Island,2.46
+2021/2/3,Rhode Island,2.55
+2021/2/4,Rhode Island,2.63
+2021/2/5,Rhode Island,2.74
+2021/2/6,Rhode Island,2.9
+2021/2/7,Rhode Island,3.18
+2021/2/8,Rhode Island,3.34
+2021/2/9,Rhode Island,3.38
+2021/2/10,Rhode Island,3.5
+2021/2/11,Rhode Island,3.6
+2021/2/12,Rhode Island,3.78
+2021/2/13,Rhode Island,3.93
+2021/2/14,Rhode Island,4.13
+2021/2/15,Rhode Island,4.26
+2021/2/16,Rhode Island,4.39
+2021/2/17,Rhode Island,4.54
+2021/2/18,Rhode Island,4.88
+2021/2/19,Rhode Island,5.39
+2021/2/20,Rhode Island,5.62
+2021/2/21,Rhode Island,5.82
+2021/2/22,Rhode Island,5.88
+2021/2/23,Rhode Island,5.99
+2021/2/24,Rhode Island,6.11
+2021/2/25,Rhode Island,6.25
+2021/2/26,Rhode Island,6.39
+2021/2/27,Rhode Island,6.6
+2021/2/28,Rhode Island,6.98
+2021/3/1,Rhode Island,7.34
+2021/3/2,Rhode Island,7.51
+2021/3/3,Rhode Island,7.68
+2021/3/4,Rhode Island,7.83
+2021/3/5,Rhode Island,8.11
+2021/3/6,Rhode Island,8.39
+2021/3/7,Rhode Island,8.62
+2021/3/8,Rhode Island,8.8
+2021/3/9,Rhode Island,8.9
+2021/3/10,Rhode Island,9.18
+2021/3/11,Rhode Island,9.57
+2021/3/12,Rhode Island,9.85
+2021/3/13,Rhode Island,10.22
+2021/3/14,Rhode Island,10.5
+2021/3/15,Rhode Island,11.06
+2021/3/16,Rhode Island,11.31
+2021/3/17,Rhode Island,11.68
+2021/3/18,Rhode Island,12.13
+2021/3/19,Rhode Island,13.09
+2021/3/20,Rhode Island,14.04
+2021/3/21,Rhode Island,14.85
+2021/3/22,Rhode Island,15.82
+2021/3/23,Rhode Island,16.53
+2021/3/24,Rhode Island,17.02
+2021/3/25,Rhode Island,17.58
+2021/3/26,Rhode Island,18.18
+2021/3/27,Rhode Island,18.76
+2021/3/28,Rhode Island,19.35
+2021/3/29,Rhode Island,20.1
+2021/3/30,Rhode Island,20.66
+2021/3/31,Rhode Island,20.95
+2021/4/1,Rhode Island,21.45
+2021/4/2,Rhode Island,22.25
+2021/4/3,Rhode Island,22.99
+2021/4/4,Rhode Island,23.76
+2021/4/5,Rhode Island,24.48
+2021/4/6,Rhode Island,24.9
+2021/4/7,Rhode Island,25.34
+2021/4/8,Rhode Island,25.97
+2021/4/9,Rhode Island,26.45
+2021/4/10,Rhode Island,27.12
+2021/4/11,Rhode Island,28.09
+2021/4/12,Rhode Island,28.71
+2021/4/13,Rhode Island,29.45
+2021/4/14,Rhode Island,29.85
+2021/4/15,Rhode Island,30.4
+2021/4/16,Rhode Island,30.85
+2021/4/17,Rhode Island,31.21
+2021/4/18,Rhode Island,31.61
+2021/4/19,Rhode Island,31.93
+2021/4/20,Rhode Island,32.28
+2021/4/21,Rhode Island,32.59
+2021/4/22,Rhode Island,32.92
+2021/4/23,Rhode Island,33.23
+2021/4/24,Rhode Island,33.76
+2021/4/25,Rhode Island,34.26
+2021/4/26,Rhode Island,34.67
+2021/4/27,Rhode Island,34.96
+2021/4/28,Rhode Island,35.37
+2021/4/29,Rhode Island,35.71
+2021/4/30,Rhode Island,36.56
+2021/5/1,Rhode Island,37.19
+2021/1/12,South Carolina,0.08
+2021/1/13,South Carolina,0.24
+2021/1/14,South Carolina,0.31
+2021/1/15,South Carolina,0.38
+2021/1/16,South Carolina,0.43
+2021/1/17,South Carolina,0.48
+2021/1/18,South Carolina,0.53
+2021/1/19,South Carolina,0.59
+2021/1/20,South Carolina,0.6
+2021/1/21,South Carolina,0.67
+2021/1/22,South Carolina,0.74
+2021/1/23,South Carolina,0.79
+2021/1/24,South Carolina,0.85
+2021/1/25,South Carolina,0.92
+2021/1/26,South Carolina,0.94
+2021/1/27,South Carolina,0.97
+2021/1/28,South Carolina,1.07
+2021/1/29,South Carolina,1.18
+2021/1/30,South Carolina,1.29
+2021/1/31,South Carolina,1.45
+2021/2/1,South Carolina,1.55
+2021/2/2,South Carolina,1.58
+2021/2/3,South Carolina,1.63
+2021/2/4,South Carolina,1.75
+2021/2/5,South Carolina,1.87
+2021/2/6,South Carolina,2.01
+2021/2/7,South Carolina,2.2
+2021/2/8,South Carolina,2.32
+2021/2/9,South Carolina,2.32
+2021/2/10,South Carolina,2.46
+2021/2/11,South Carolina,2.6
+2021/2/12,South Carolina,2.73
+2021/2/13,South Carolina,2.97
+2021/2/14,South Carolina,3.26
+2021/2/15,South Carolina,3.41
+2021/2/16,South Carolina,3.56
+2021/2/17,South Carolina,3.71
+2021/2/18,South Carolina,3.92
+2021/2/19,South Carolina,4.33
+2021/2/20,South Carolina,4.61
+2021/2/21,South Carolina,4.95
+2021/2/22,South Carolina,5.29
+2021/2/23,South Carolina,5.37
+2021/2/24,South Carolina,5.56
+2021/2/25,South Carolina,5.83
+2021/2/26,South Carolina,6.08
+2021/2/27,South Carolina,6.42
+2021/2/28,South Carolina,6.71
+2021/3/1,South Carolina,6.94
+2021/3/2,South Carolina,6.99
+2021/3/3,South Carolina,7.34
+2021/3/4,South Carolina,8
+2021/3/5,South Carolina,8.26
+2021/3/6,South Carolina,8.82
+2021/3/7,South Carolina,9.48
+2021/3/8,South Carolina,9.7
+2021/3/9,South Carolina,9.82
+2021/3/10,South Carolina,10.03
+2021/3/11,South Carolina,10.32
+2021/3/12,South Carolina,10.59
+2021/3/13,South Carolina,11.16
+2021/3/14,South Carolina,11.16
+2021/3/15,South Carolina,11.38
+2021/3/16,South Carolina,11.45
+2021/3/17,South Carolina,11.61
+2021/3/18,South Carolina,11.84
+2021/3/19,South Carolina,12.08
+2021/3/20,South Carolina,12.24
+2021/3/21,South Carolina,12.49
+2021/3/22,South Carolina,12.75
+2021/3/23,South Carolina,12.82
+2021/3/24,South Carolina,13.08
+2021/3/25,South Carolina,13.33
+2021/3/26,South Carolina,13.59
+2021/3/27,South Carolina,13.95
+2021/3/28,South Carolina,14.34
+2021/3/29,South Carolina,14.69
+2021/3/30,South Carolina,14.81
+2021/3/31,South Carolina,15.04
+2021/4/1,South Carolina,15.4
+2021/4/2,South Carolina,15.82
+2021/4/3,South Carolina,15.86
+2021/4/4,South Carolina,16.5
+2021/4/5,South Carolina,16.72
+2021/4/6,South Carolina,16.83
+2021/4/7,South Carolina,17.24
+2021/4/8,South Carolina,18.32
+2021/4/9,South Carolina,18.78
+2021/4/10,South Carolina,19.39
+2021/4/11,South Carolina,20.11
+2021/4/12,South Carolina,20.58
+2021/4/13,South Carolina,20.74
+2021/4/14,South Carolina,21.08
+2021/4/15,South Carolina,21.57
+2021/4/16,South Carolina,22.07
+2021/4/17,South Carolina,22.63
+2021/4/18,South Carolina,23.14
+2021/4/19,South Carolina,23.64
+2021/4/20,South Carolina,23.8
+2021/4/21,South Carolina,24.05
+2021/4/22,South Carolina,24.07
+2021/4/23,South Carolina,24.54
+2021/4/24,South Carolina,25.03
+2021/4/25,South Carolina,25.49
+2021/4/26,South Carolina,25.69
+2021/4/27,South Carolina,26.33
+2021/4/28,South Carolina,26.59
+2021/4/29,South Carolina,26.94
+2021/4/30,South Carolina,27.34
+2021/5/1,South Carolina,27.77
+2021/1/12,South Dakota,0.83
+2021/1/13,South Dakota,0.9
+2021/1/14,South Dakota,1
+2021/1/15,South Dakota,1.09
+2021/1/16,South Dakota,1.09
+2021/1/17,South Dakota,1.1
+2021/1/18,South Dakota,1.1
+2021/1/19,South Dakota,1.11
+2021/1/20,South Dakota,1.12
+2021/1/21,South Dakota,1.22
+2021/1/22,South Dakota,1.56
+2021/1/23,South Dakota,1.83
+2021/1/24,South Dakota,1.95
+2021/1/25,South Dakota,2.09
+2021/1/26,South Dakota,2.12
+2021/1/27,South Dakota,2.47
+2021/1/28,South Dakota,2.77
+2021/1/29,South Dakota,3.01
+2021/1/30,South Dakota,3.23
+2021/1/31,South Dakota,3.32
+2021/2/1,South Dakota,3.45
+2021/2/2,South Dakota,3.48
+2021/2/3,South Dakota,3.6
+2021/2/4,South Dakota,3.83
+2021/2/5,South Dakota,4.02
+2021/2/6,South Dakota,4.37
+2021/2/7,South Dakota,4.49
+2021/2/8,South Dakota,4.56
+2021/2/9,South Dakota,4.57
+2021/2/10,South Dakota,4.7
+2021/2/11,South Dakota,4.95
+2021/2/12,South Dakota,5.14
+2021/2/13,South Dakota,5.5
+2021/2/14,South Dakota,5.68
+2021/2/15,South Dakota,5.76
+2021/2/16,South Dakota,5.84
+2021/2/17,South Dakota,5.92
+2021/2/18,South Dakota,6.17
+2021/2/19,South Dakota,7.81
+2021/2/20,South Dakota,8.26
+2021/2/21,South Dakota,8.56
+2021/2/22,South Dakota,8.7
+2021/2/23,South Dakota,8.77
+2021/2/24,South Dakota,8.98
+2021/2/25,South Dakota,9.3
+2021/2/26,South Dakota,9.82
+2021/2/27,South Dakota,10.2
+2021/2/28,South Dakota,10.62
+2021/3/1,South Dakota,10.79
+2021/3/2,South Dakota,10.8
+2021/3/3,South Dakota,11
+2021/3/4,South Dakota,11.36
+2021/3/5,South Dakota,11.9
+2021/3/6,South Dakota,12.24
+2021/3/7,South Dakota,12.62
+2021/3/8,South Dakota,12.86
+2021/3/9,South Dakota,12.87
+2021/3/10,South Dakota,13.12
+2021/3/11,South Dakota,13.53
+2021/3/12,South Dakota,14.13
+2021/3/13,South Dakota,14.73
+2021/3/14,South Dakota,15.22
+2021/3/15,South Dakota,15.62
+2021/3/16,South Dakota,15.68
+2021/3/17,South Dakota,15.96
+2021/3/18,South Dakota,16.48
+2021/3/19,South Dakota,17.22
+2021/3/20,South Dakota,17.87
+2021/3/21,South Dakota,18.47
+2021/3/22,South Dakota,18.68
+2021/3/23,South Dakota,18.7
+2021/3/24,South Dakota,19.02
+2021/3/25,South Dakota,19.51
+2021/3/26,South Dakota,20.12
+2021/3/27,South Dakota,20.98
+2021/3/28,South Dakota,21.62
+2021/3/29,South Dakota,21.93
+2021/3/30,South Dakota,22.01
+2021/3/31,South Dakota,22.39
+2021/4/1,South Dakota,22.87
+2021/4/2,South Dakota,23.45
+2021/4/3,South Dakota,24.13
+2021/4/4,South Dakota,24.79
+2021/4/5,South Dakota,24.98
+2021/4/6,South Dakota,25.01
+2021/4/7,South Dakota,25.34
+2021/4/8,South Dakota,25.96
+2021/4/9,South Dakota,26.6
+2021/4/10,South Dakota,27.49
+2021/4/11,South Dakota,28.25
+2021/4/12,South Dakota,28.49
+2021/4/13,South Dakota,28.57
+2021/4/14,South Dakota,28.93
+2021/4/15,South Dakota,29.48
+2021/4/16,South Dakota,30.06
+2021/4/17,South Dakota,30.56
+2021/4/18,South Dakota,31.14
+2021/4/19,South Dakota,31.39
+2021/4/20,South Dakota,31.46
+2021/4/21,South Dakota,31.78
+2021/4/22,South Dakota,32.39
+2021/4/23,South Dakota,33.27
+2021/4/24,South Dakota,34.01
+2021/4/25,South Dakota,34.65
+2021/4/26,South Dakota,34.93
+2021/4/27,South Dakota,35
+2021/4/28,South Dakota,35.38
+2021/4/29,South Dakota,36.04
+2021/4/30,South Dakota,36.71
+2021/5/1,South Dakota,37.81
+2021/1/12,Tennessee,0.26
+2021/1/13,Tennessee,0.35
+2021/1/14,Tennessee,0.45
+2021/1/15,Tennessee,0.55
+2021/1/16,Tennessee,0.59
+2021/1/17,Tennessee,0.63
+2021/1/18,Tennessee,0.67
+2021/1/19,Tennessee,0.72
+2021/1/20,Tennessee,0.76
+2021/1/21,Tennessee,0.9
+2021/1/22,Tennessee,1.12
+2021/1/23,Tennessee,1.28
+2021/1/24,Tennessee,1.41
+2021/1/25,Tennessee,1.46
+2021/1/26,Tennessee,1.49
+2021/1/27,Tennessee,1.65
+2021/1/28,Tennessee,1.8
+2021/1/29,Tennessee,2.1
+2021/1/30,Tennessee,2.28
+2021/1/31,Tennessee,2.48
+2021/2/1,Tennessee,2.61
+2021/2/2,Tennessee,2.63
+2021/2/3,Tennessee,2.82
+2021/2/4,Tennessee,2.99
+2021/2/5,Tennessee,3.16
+2021/2/6,Tennessee,3.34
+2021/2/7,Tennessee,3.58
+2021/2/8,Tennessee,3.64
+2021/2/9,Tennessee,3.67
+2021/2/10,Tennessee,3.8
+2021/2/11,Tennessee,3.92
+2021/2/12,Tennessee,4.1
+2021/2/13,Tennessee,4.22
+2021/2/14,Tennessee,4.45
+2021/2/15,Tennessee,4.52
+2021/2/16,Tennessee,4.59
+2021/2/17,Tennessee,4.61
+2021/2/18,Tennessee,4.67
+2021/2/19,Tennessee,4.96
+2021/2/20,Tennessee,5.05
+2021/2/21,Tennessee,5.13
+2021/2/22,Tennessee,5.22
+2021/2/23,Tennessee,5.29
+2021/2/24,Tennessee,5.57
+2021/2/25,Tennessee,5.81
+2021/2/26,Tennessee,6.09
+2021/2/27,Tennessee,6.38
+2021/2/28,Tennessee,6.71
+2021/3/1,Tennessee,6.86
+2021/3/2,Tennessee,6.89
+2021/3/3,Tennessee,7.14
+2021/3/4,Tennessee,7.35
+2021/3/5,Tennessee,7.67
+2021/3/6,Tennessee,7.88
+2021/3/7,Tennessee,8.27
+2021/3/8,Tennessee,8.39
+2021/3/9,Tennessee,8.43
+2021/3/10,Tennessee,8.67
+2021/3/11,Tennessee,8.89
+2021/3/12,Tennessee,9.13
+2021/3/13,Tennessee,9.37
+2021/3/14,Tennessee,9.66
+2021/3/15,Tennessee,9.82
+2021/3/16,Tennessee,9.88
+2021/3/17,Tennessee,10.07
+2021/3/18,Tennessee,10.29
+2021/3/19,Tennessee,10.49
+2021/3/20,Tennessee,10.73
+2021/3/21,Tennessee,11.02
+2021/3/22,Tennessee,11.25
+2021/3/23,Tennessee,11.34
+2021/3/24,Tennessee,11.62
+2021/3/25,Tennessee,11.94
+2021/3/26,Tennessee,12.26
+2021/3/27,Tennessee,12.63
+2021/3/28,Tennessee,13.14
+2021/3/29,Tennessee,13.36
+2021/3/30,Tennessee,13.44
+2021/3/31,Tennessee,13.8
+2021/4/1,Tennessee,14.24
+2021/4/2,Tennessee,14.63
+2021/4/3,Tennessee,15.15
+2021/4/4,Tennessee,15.44
+2021/4/5,Tennessee,15.58
+2021/4/6,Tennessee,15.62
+2021/4/7,Tennessee,16.04
+2021/4/8,Tennessee,16.53
+2021/4/9,Tennessee,16.97
+2021/4/10,Tennessee,17.46
+2021/4/11,Tennessee,17.98
+2021/4/12,Tennessee,18.2
+2021/4/13,Tennessee,18.27
+2021/4/14,Tennessee,18.45
+2021/4/15,Tennessee,18.95
+2021/4/16,Tennessee,19.44
+2021/4/17,Tennessee,19.9
+2021/4/18,Tennessee,20.43
+2021/4/19,Tennessee,20.58
+2021/4/20,Tennessee,20.67
+2021/4/21,Tennessee,21.09
+2021/4/22,Tennessee,21.59
+2021/4/23,Tennessee,22.07
+2021/4/24,Tennessee,22.58
+2021/4/25,Tennessee,23.06
+2021/4/26,Tennessee,23.24
+2021/4/27,Tennessee,23.32
+2021/4/28,Tennessee,23.66
+2021/4/29,Tennessee,24.08
+2021/4/30,Tennessee,24.48
+2021/5/1,Tennessee,24.89
+2021/1/12,Texas,0.35
+2021/1/13,Texas,0.4
+2021/1/14,Texas,0.47
+2021/1/15,Texas,0.54
+2021/1/16,Texas,0.56
+2021/1/17,Texas,0.58
+2021/1/18,Texas,0.6
+2021/1/19,Texas,0.62
+2021/1/20,Texas,0.65
+2021/1/21,Texas,0.71
+2021/1/22,Texas,0.8
+2021/1/23,Texas,0.87
+2021/1/24,Texas,0.89
+2021/1/25,Texas,0.93
+2021/1/26,Texas,1.04
+2021/1/27,Texas,1.12
+2021/1/28,Texas,1.29
+2021/1/29,Texas,1.43
+2021/1/30,Texas,1.56
+2021/1/31,Texas,1.65
+2021/2/1,Texas,1.73
+2021/2/2,Texas,1.73
+2021/2/3,Texas,1.95
+2021/2/4,Texas,2.15
+2021/2/5,Texas,2.31
+2021/2/6,Texas,2.53
+2021/2/7,Texas,2.69
+2021/2/8,Texas,2.78
+2021/2/9,Texas,2.91
+2021/2/10,Texas,3.08
+2021/2/11,Texas,3.31
+2021/2/12,Texas,3.57
+2021/2/13,Texas,3.81
+2021/2/14,Texas,4
+2021/2/15,Texas,4.1
+2021/2/16,Texas,4.19
+2021/2/17,Texas,4.31
+2021/2/18,Texas,4.34
+2021/2/19,Texas,4.59
+2021/2/20,Texas,4.72
+2021/2/21,Texas,4.83
+2021/2/22,Texas,4.95
+2021/2/23,Texas,5.14
+2021/2/24,Texas,5.33
+2021/2/25,Texas,5.51
+2021/2/26,Texas,5.8
+2021/2/27,Texas,5.96
+2021/2/28,Texas,6.22
+2021/3/1,Texas,6.22
+2021/3/2,Texas,6.84
+2021/3/3,Texas,7.24
+2021/3/4,Texas,7.5
+2021/3/5,Texas,7.71
+2021/3/6,Texas,7.99
+2021/3/7,Texas,8.11
+2021/3/8,Texas,8.25
+2021/3/9,Texas,8.49
+2021/3/10,Texas,8.76
+2021/3/11,Texas,8.96
+2021/3/12,Texas,9.28
+2021/3/13,Texas,9.58
+2021/3/14,Texas,9.75
+2021/3/15,Texas,9.89
+2021/3/16,Texas,9.99
+2021/3/17,Texas,10.14
+2021/3/18,Texas,10.3
+2021/3/19,Texas,10.46
+2021/3/20,Texas,10.64
+2021/3/21,Texas,10.84
+2021/3/22,Texas,11.01
+2021/3/23,Texas,11.08
+2021/3/24,Texas,11.16
+2021/3/25,Texas,11.52
+2021/3/26,Texas,11.88
+2021/3/27,Texas,12.34
+2021/3/28,Texas,12.71
+2021/3/29,Texas,12.95
+2021/3/30,Texas,13.32
+2021/3/31,Texas,13.7
+2021/4/1,Texas,14.32
+2021/4/2,Texas,14.97
+2021/4/3,Texas,15.36
+2021/4/4,Texas,15.74
+2021/4/5,Texas,16.11
+2021/4/6,Texas,16.54
+2021/4/7,Texas,16.94
+2021/4/8,Texas,17.48
+2021/4/9,Texas,18.16
+2021/4/10,Texas,18.98
+2021/4/11,Texas,19.49
+2021/4/12,Texas,19.86
+2021/4/13,Texas,20.24
+2021/4/14,Texas,20.69
+2021/4/15,Texas,21.24
+2021/4/16,Texas,21.72
+2021/4/17,Texas,22.1
+2021/4/18,Texas,22.27
+2021/4/19,Texas,22.63
+2021/4/20,Texas,22.87
+2021/4/21,Texas,23.23
+2021/4/22,Texas,23.74
+2021/4/23,Texas,24.22
+2021/4/24,Texas,24.68
+2021/4/25,Texas,25.06
+2021/4/26,Texas,25.29
+2021/4/27,Texas,25.54
+2021/4/28,Texas,25.91
+2021/4/29,Texas,26.4
+2021/4/30,Texas,26.99
+2021/5/1,Texas,27.46
+2021/1/12,Utah,0.14
+2021/1/13,Utah,0.19
+2021/1/14,Utah,0.26
+2021/1/15,Utah,0.33
+2021/1/16,Utah,0.37
+2021/1/17,Utah,0.41
+2021/1/18,Utah,0.44
+2021/1/19,Utah,0.48
+2021/1/20,Utah,0.51
+2021/1/21,Utah,0.54
+2021/1/22,Utah,0.65
+2021/1/23,Utah,0.65
+2021/1/24,Utah,0.65
+2021/1/25,Utah,0.8
+2021/1/26,Utah,0.81
+2021/1/27,Utah,0.94
+2021/1/28,Utah,0.94
+2021/1/29,Utah,1.28
+2021/1/30,Utah,1.43
+2021/1/31,Utah,1.43
+2021/2/1,Utah,1.95
+2021/2/2,Utah,1.97
+2021/2/3,Utah,1.97
+2021/2/4,Utah,2.34
+2021/2/5,Utah,2.52
+2021/2/6,Utah,2.75
+2021/2/7,Utah,2.75
+2021/2/8,Utah,3.25
+2021/2/9,Utah,3.3
+2021/2/10,Utah,3.3
+2021/2/11,Utah,3.3
+2021/2/12,Utah,3.3
+2021/2/13,Utah,3.3
+2021/2/14,Utah,3.3
+2021/2/15,Utah,3.49
+2021/2/16,Utah,3.68
+2021/2/17,Utah,3.68
+2021/2/18,Utah,3.93
+2021/2/19,Utah,4.24
+2021/2/20,Utah,4.56
+2021/2/21,Utah,4.56
+2021/2/22,Utah,4.57
+2021/2/23,Utah,4.57
+2021/2/24,Utah,4.83
+2021/2/25,Utah,5.26
+2021/2/26,Utah,5.27
+2021/2/27,Utah,5.53
+2021/2/28,Utah,5.55
+2021/3/1,Utah,5.55
+2021/3/2,Utah,5.96
+2021/3/3,Utah,6.14
+2021/3/4,Utah,6.15
+2021/3/5,Utah,6.45
+2021/3/6,Utah,6.61
+2021/3/7,Utah,6.63
+2021/3/8,Utah,6.77
+2021/3/9,Utah,7.38
+2021/3/10,Utah,7.61
+2021/3/11,Utah,7.62
+2021/3/12,Utah,7.94
+2021/3/13,Utah,8.15
+2021/3/14,Utah,8.29
+2021/3/15,Utah,8.3
+2021/3/16,Utah,8.56
+2021/3/17,Utah,8.77
+2021/3/18,Utah,8.93
+2021/3/19,Utah,8.94
+2021/3/20,Utah,8.96
+2021/3/21,Utah,9.55
+2021/3/22,Utah,9.56
+2021/3/23,Utah,9.7
+2021/3/24,Utah,9.97
+2021/3/25,Utah,10.3
+2021/3/26,Utah,10.31
+2021/3/27,Utah,10.9
+2021/3/28,Utah,10.92
+2021/3/29,Utah,10.92
+2021/3/30,Utah,11.41
+2021/3/31,Utah,11.41
+2021/4/1,Utah,11.85
+2021/4/2,Utah,11.85
+2021/4/3,Utah,13.05
+2021/4/4,Utah,13.06
+2021/4/5,Utah,13.6
+2021/4/6,Utah,13.8
+2021/4/7,Utah,14.15
+2021/4/8,Utah,14.62
+2021/4/9,Utah,15.26
+2021/4/10,Utah,16.07
+2021/4/11,Utah,16.09
+2021/4/12,Utah,16.12
+2021/4/13,Utah,17.06
+2021/4/14,Utah,17.57
+2021/4/15,Utah,17.93
+2021/4/16,Utah,18.46
+2021/4/17,Utah,19.45
+2021/4/18,Utah,19.46
+2021/4/19,Utah,20.07
+2021/4/20,Utah,20.07
+2021/4/21,Utah,20.31
+2021/4/22,Utah,20.85
+2021/4/23,Utah,21.47
+2021/4/24,Utah,22
+2021/4/25,Utah,22.01
+2021/4/26,Utah,22.01
+2021/4/27,Utah,22.52
+2021/4/28,Utah,22.99
+2021/4/29,Utah,23.38
+2021/4/30,Utah,23.39
+2021/5/1,Utah,24.37
+2021/1/12,Vermont,0.17
+2021/1/13,Vermont,0.34
+2021/1/14,Vermont,0.5
+2021/1/15,Vermont,0.66
+2021/1/16,Vermont,0.74
+2021/1/17,Vermont,0.82
+2021/1/18,Vermont,0.9
+2021/1/19,Vermont,0.98
+2021/1/20,Vermont,0.99
+2021/1/21,Vermont,1.05
+2021/1/22,Vermont,1.27
+2021/1/23,Vermont,1.42
+2021/1/24,Vermont,1.58
+2021/1/25,Vermont,1.63
+2021/1/26,Vermont,1.66
+2021/1/27,Vermont,1.73
+2021/1/28,Vermont,1.99
+2021/1/29,Vermont,2.27
+2021/1/30,Vermont,2.44
+2021/1/31,Vermont,2.64
+2021/2/1,Vermont,2.94
+2021/2/2,Vermont,3.03
+2021/2/3,Vermont,3.08
+2021/2/4,Vermont,3.34
+2021/2/5,Vermont,3.6
+2021/2/6,Vermont,3.88
+2021/2/7,Vermont,4.19
+2021/2/8,Vermont,4.35
+2021/2/9,Vermont,4.49
+2021/2/10,Vermont,4.51
+2021/2/11,Vermont,4.76
+2021/2/12,Vermont,5
+2021/2/13,Vermont,5.16
+2021/2/14,Vermont,5.37
+2021/2/15,Vermont,5.63
+2021/2/16,Vermont,5.89
+2021/2/17,Vermont,5.92
+2021/2/18,Vermont,6.15
+2021/2/19,Vermont,6.54
+2021/2/20,Vermont,6.9
+2021/2/21,Vermont,7.21
+2021/2/22,Vermont,7.33
+2021/2/23,Vermont,7.48
+2021/2/24,Vermont,7.51
+2021/2/25,Vermont,7.72
+2021/2/26,Vermont,7.91
+2021/2/27,Vermont,8.27
+2021/2/28,Vermont,8.68
+2021/3/1,Vermont,9.12
+2021/3/2,Vermont,9.37
+2021/3/3,Vermont,9.45
+2021/3/4,Vermont,9.61
+2021/3/5,Vermont,9.73
+2021/3/6,Vermont,9.93
+2021/3/7,Vermont,10.33
+2021/3/8,Vermont,10.82
+2021/3/9,Vermont,11.08
+2021/3/10,Vermont,11.21
+2021/3/11,Vermont,11.48
+2021/3/12,Vermont,11.71
+2021/3/13,Vermont,12.46
+2021/3/14,Vermont,12.46
+2021/3/15,Vermont,12.85
+2021/3/16,Vermont,13.19
+2021/3/17,Vermont,13.49
+2021/3/18,Vermont,13.82
+2021/3/19,Vermont,14.13
+2021/3/20,Vermont,14.47
+2021/3/21,Vermont,14.94
+2021/3/22,Vermont,15.09
+2021/3/23,Vermont,15.51
+2021/3/24,Vermont,15.76
+2021/3/25,Vermont,16.02
+2021/3/26,Vermont,16.46
+2021/3/27,Vermont,16.87
+2021/3/28,Vermont,17.41
+2021/3/29,Vermont,17.81
+2021/3/30,Vermont,18.38
+2021/3/31,Vermont,18.86
+2021/4/1,Vermont,19.22
+2021/4/2,Vermont,19.91
+2021/4/3,Vermont,21.33
+2021/4/4,Vermont,21.44
+2021/4/5,Vermont,22.19
+2021/4/6,Vermont,22.67
+2021/4/7,Vermont,22.87
+2021/4/8,Vermont,23.32
+2021/4/9,Vermont,24.23
+2021/4/10,Vermont,25.37
+2021/4/11,Vermont,26.22
+2021/4/12,Vermont,27.21
+2021/4/13,Vermont,27.81
+2021/4/14,Vermont,28.41
+2021/4/15,Vermont,29.09
+2021/4/16,Vermont,29.84
+2021/4/17,Vermont,29.88
+2021/4/18,Vermont,31.09
+2021/4/19,Vermont,31.63
+2021/4/20,Vermont,32.59
+2021/4/21,Vermont,32.81
+2021/4/22,Vermont,33.29
+2021/4/23,Vermont,33.59
+2021/4/24,Vermont,34.22
+2021/4/25,Vermont,34.8
+2021/4/26,Vermont,35.64
+2021/4/27,Vermont,36.03
+2021/4/28,Vermont,36.35
+2021/4/29,Vermont,36.75
+2021/4/30,Vermont,37.29
+2021/5/1,Vermont,37.93
+2021/1/12,Virginia,0.08
+2021/1/13,Virginia,0.16
+2021/1/14,Virginia,0.24
+2021/1/15,Virginia,0.33
+2021/1/16,Virginia,0.35
+2021/1/17,Virginia,0.37
+2021/1/18,Virginia,0.39
+2021/1/19,Virginia,0.41
+2021/1/20,Virginia,0.44
+2021/1/21,Virginia,0.47
+2021/1/22,Virginia,0.54
+2021/1/23,Virginia,0.57
+2021/1/24,Virginia,0.6
+2021/1/25,Virginia,0.7
+2021/1/26,Virginia,0.85
+2021/1/27,Virginia,0.93
+2021/1/28,Virginia,1.05
+2021/1/29,Virginia,1.17
+2021/1/30,Virginia,1.3
+2021/1/31,Virginia,1.39
+2021/2/1,Virginia,1.48
+2021/2/2,Virginia,1.55
+2021/2/3,Virginia,1.62
+2021/2/4,Virginia,1.72
+2021/2/5,Virginia,1.87
+2021/2/6,Virginia,2.12
+2021/2/7,Virginia,2.32
+2021/2/8,Virginia,2.45
+2021/2/9,Virginia,2.58
+2021/2/10,Virginia,2.71
+2021/2/11,Virginia,2.9
+2021/2/12,Virginia,3.2
+2021/2/13,Virginia,3.59
+2021/2/14,Virginia,3.75
+2021/2/15,Virginia,3.95
+2021/2/16,Virginia,4.15
+2021/2/17,Virginia,4.32
+2021/2/18,Virginia,4.64
+2021/2/19,Virginia,5.39
+2021/2/20,Virginia,5.59
+2021/2/21,Virginia,5.87
+2021/2/22,Virginia,6.15
+2021/2/23,Virginia,6.34
+2021/2/24,Virginia,6.59
+2021/2/25,Virginia,6.92
+2021/2/26,Virginia,7.46
+2021/2/27,Virginia,7.83
+2021/2/28,Virginia,8.45
+2021/3/1,Virginia,8.68
+2021/3/2,Virginia,8.82
+2021/3/3,Virginia,9.06
+2021/3/4,Virginia,9.36
+2021/3/5,Virginia,9.65
+2021/3/6,Virginia,9.89
+2021/3/7,Virginia,10.12
+2021/3/8,Virginia,10.42
+2021/3/9,Virginia,10.75
+2021/3/10,Virginia,11.13
+2021/3/11,Virginia,11.55
+2021/3/12,Virginia,11.91
+2021/3/13,Virginia,12.27
+2021/3/14,Virginia,12.5
+2021/3/15,Virginia,12.75
+2021/3/16,Virginia,12.93
+2021/3/17,Virginia,13.08
+2021/3/18,Virginia,13.31
+2021/3/19,Virginia,13.59
+2021/3/20,Virginia,13.81
+2021/3/21,Virginia,14.08
+2021/3/22,Virginia,14.34
+2021/3/23,Virginia,14.45
+2021/3/24,Virginia,14.75
+2021/3/25,Virginia,14.97
+2021/3/26,Virginia,15.32
+2021/3/27,Virginia,15.51
+2021/3/28,Virginia,15.93
+2021/3/29,Virginia,16.25
+2021/3/30,Virginia,16.74
+2021/3/31,Virginia,17.07
+2021/4/1,Virginia,17.46
+2021/4/2,Virginia,17.97
+2021/4/3,Virginia,18.59
+2021/4/4,Virginia,19.23
+2021/4/5,Virginia,19.53
+2021/4/6,Virginia,19.85
+2021/4/7,Virginia,20.27
+2021/4/8,Virginia,20.73
+2021/4/9,Virginia,21.28
+2021/4/10,Virginia,21.96
+2021/4/11,Virginia,22.65
+2021/4/12,Virginia,22.97
+2021/4/13,Virginia,23.41
+2021/4/14,Virginia,23.95
+2021/4/15,Virginia,24.45
+2021/4/16,Virginia,25.27
+2021/4/17,Virginia,26
+2021/4/18,Virginia,26.56
+2021/4/19,Virginia,26.96
+2021/4/20,Virginia,27.29
+2021/4/21,Virginia,27.71
+2021/4/22,Virginia,28.33
+2021/4/23,Virginia,29.1
+2021/4/24,Virginia,29.84
+2021/4/25,Virginia,30.37
+2021/4/26,Virginia,30.77
+2021/4/27,Virginia,31.14
+2021/4/28,Virginia,31.52
+2021/4/29,Virginia,32.09
+2021/4/30,Virginia,32.83
+2021/5/1,Virginia,33.61
+2021/1/12,Washington,0.23
+2021/1/13,Washington,0.3
+2021/1/14,Washington,0.35
+2021/1/15,Washington,0.41
+2021/1/16,Washington,0.45
+2021/1/17,Washington,0.5
+2021/1/18,Washington,0.54
+2021/1/19,Washington,0.59
+2021/1/20,Washington,0.65
+2021/1/21,Washington,0.73
+2021/1/22,Washington,0.82
+2021/1/23,Washington,0.88
+2021/1/24,Washington,0.9
+2021/1/25,Washington,0.97
+2021/1/26,Washington,1
+2021/1/27,Washington,1.07
+2021/1/28,Washington,1.2
+2021/1/29,Washington,1.31
+2021/1/30,Washington,1.42
+2021/1/31,Washington,1.54
+2021/2/1,Washington,1.66
+2021/2/2,Washington,1.72
+2021/2/3,Washington,1.81
+2021/2/4,Washington,1.94
+2021/2/5,Washington,2.07
+2021/2/6,Washington,2.25
+2021/2/7,Washington,2.41
+2021/2/8,Washington,2.54
+2021/2/9,Washington,2.61
+2021/2/10,Washington,2.83
+2021/2/11,Washington,3.01
+2021/2/12,Washington,3.25
+2021/2/13,Washington,3.46
+2021/2/14,Washington,3.7
+2021/2/15,Washington,3.8
+2021/2/16,Washington,3.9
+2021/2/17,Washington,4.11
+2021/2/18,Washington,4.3
+2021/2/19,Washington,4.79
+2021/2/20,Washington,5.12
+2021/2/21,Washington,5.4
+2021/2/22,Washington,5.73
+2021/2/23,Washington,5.85
+2021/2/24,Washington,6
+2021/2/25,Washington,6.39
+2021/2/26,Washington,6.77
+2021/2/27,Washington,7.21
+2021/2/28,Washington,7.65
+2021/3/1,Washington,8.16
+2021/3/2,Washington,8.44
+2021/3/3,Washington,8.73
+2021/3/4,Washington,9.01
+2021/3/5,Washington,9.34
+2021/3/6,Washington,9.67
+2021/3/7,Washington,10.02
+2021/3/8,Washington,10.35
+2021/3/9,Washington,10.56
+2021/3/10,Washington,10.76
+2021/3/11,Washington,11.22
+2021/3/12,Washington,11.54
+2021/3/13,Washington,11.84
+2021/3/14,Washington,12.17
+2021/3/15,Washington,12.54
+2021/3/16,Washington,12.81
+2021/3/17,Washington,12.99
+2021/3/18,Washington,13.31
+2021/3/19,Washington,13.63
+2021/3/20,Washington,13.97
+2021/3/21,Washington,14.36
+2021/3/22,Washington,14.63
+2021/3/23,Washington,14.78
+2021/3/24,Washington,14.96
+2021/3/25,Washington,15.31
+2021/3/26,Washington,15.75
+2021/3/27,Washington,16.22
+2021/3/28,Washington,16.8
+2021/3/29,Washington,17.31
+2021/3/30,Washington,17.56
+2021/3/31,Washington,17.93
+2021/4/1,Washington,18.43
+2021/4/2,Washington,18.95
+2021/4/3,Washington,19.49
+2021/4/4,Washington,20.09
+2021/4/5,Washington,20.69
+2021/4/6,Washington,20.84
+2021/4/7,Washington,21.19
+2021/4/8,Washington,21.66
+2021/4/9,Washington,22.17
+2021/4/10,Washington,22.81
+2021/4/11,Washington,23.44
+2021/4/12,Washington,24.05
+2021/4/13,Washington,24.43
+2021/4/14,Washington,24.89
+2021/4/15,Washington,25.36
+2021/4/16,Washington,25.84
+2021/4/17,Washington,26.36
+2021/4/18,Washington,26.92
+2021/4/19,Washington,27.49
+2021/4/20,Washington,27.66
+2021/4/21,Washington,27.98
+2021/4/22,Washington,28.42
+2021/4/23,Washington,28.97
+2021/4/24,Washington,29.48
+2021/4/25,Washington,30.08
+2021/4/26,Washington,30.6
+2021/4/27,Washington,30.81
+2021/4/28,Washington,31.15
+2021/4/29,Washington,31.65
+2021/4/30,Washington,32.24
+2021/5/1,Washington,32.74
+2021/1/12,West Virginia,0.3
+2021/1/13,West Virginia,0.59
+2021/1/14,West Virginia,0.89
+2021/1/15,West Virginia,1.18
+2021/1/16,West Virginia,1.22
+2021/1/17,West Virginia,1.25
+2021/1/18,West Virginia,1.28
+2021/1/19,West Virginia,1.32
+2021/1/20,West Virginia,1.43
+2021/1/21,West Virginia,1.76
+2021/1/22,West Virginia,1.97
+2021/1/23,West Virginia,2.12
+2021/1/24,West Virginia,2.18
+2021/1/25,West Virginia,2.2
+2021/1/26,West Virginia,2.39
+2021/1/27,West Virginia,2.52
+2021/1/28,West Virginia,2.84
+2021/1/29,West Virginia,3.24
+2021/1/30,West Virginia,3.64
+2021/1/31,West Virginia,3.75
+2021/2/1,West Virginia,3.76
+2021/2/2,West Virginia,3.9
+2021/2/3,West Virginia,4.04
+2021/2/4,West Virginia,4.37
+2021/2/5,West Virginia,4.89
+2021/2/6,West Virginia,5.59
+2021/2/7,West Virginia,5.8
+2021/2/8,West Virginia,5.84
+2021/2/9,West Virginia,6.01
+2021/2/10,West Virginia,6.16
+2021/2/11,West Virginia,6.39
+2021/2/12,West Virginia,6.74
+2021/2/13,West Virginia,7.47
+2021/2/14,West Virginia,7.75
+2021/2/15,West Virginia,7.86
+2021/2/16,West Virginia,7.97
+2021/2/17,West Virginia,8.06
+2021/2/18,West Virginia,8.3
+2021/2/19,West Virginia,9
+2021/2/20,West Virginia,9.16
+2021/2/21,West Virginia,9.32
+2021/2/22,West Virginia,9.49
+2021/2/23,West Virginia,9.62
+2021/2/24,West Virginia,9.74
+2021/2/25,West Virginia,10.1
+2021/2/26,West Virginia,10.57
+2021/2/27,West Virginia,11.22
+2021/2/28,West Virginia,11.44
+2021/3/1,West Virginia,11.5
+2021/3/2,West Virginia,11.56
+2021/3/3,West Virginia,11.69
+2021/3/4,West Virginia,11.9
+2021/3/5,West Virginia,12.27
+2021/3/6,West Virginia,12.64
+2021/3/7,West Virginia,12.78
+2021/3/8,West Virginia,12.84
+2021/3/9,West Virginia,12.91
+2021/3/10,West Virginia,12.99
+2021/3/11,West Virginia,13.32
+2021/3/12,West Virginia,13.77
+2021/3/13,West Virginia,14.41
+2021/3/14,West Virginia,14.51
+2021/3/15,West Virginia,14.57
+2021/3/16,West Virginia,14.65
+2021/3/17,West Virginia,14.7
+2021/3/18,West Virginia,15
+2021/3/19,West Virginia,15.43
+2021/3/20,West Virginia,15.85
+2021/3/21,West Virginia,15.95
+2021/3/22,West Virginia,15.99
+2021/3/23,West Virginia,16.12
+2021/3/24,West Virginia,16.31
+2021/3/25,West Virginia,16.78
+2021/3/26,West Virginia,17.58
+2021/3/27,West Virginia,18.3
+2021/3/28,West Virginia,18.45
+2021/3/29,West Virginia,18.48
+2021/3/30,West Virginia,18.64
+2021/3/31,West Virginia,18.79
+2021/4/1,West Virginia,19.38
+2021/4/2,West Virginia,20.49
+2021/4/3,West Virginia,21
+2021/4/4,West Virginia,21.16
+2021/4/5,West Virginia,21.19
+2021/4/6,West Virginia,21.32
+2021/4/7,West Virginia,21.56
+2021/4/8,West Virginia,22.09
+2021/4/9,West Virginia,22.93
+2021/4/10,West Virginia,23.79
+2021/4/11,West Virginia,24.14
+2021/4/12,West Virginia,24.19
+2021/4/13,West Virginia,24.36
+2021/4/14,West Virginia,24.57
+2021/4/15,West Virginia,24.97
+2021/4/16,West Virginia,25.65
+2021/4/17,West Virginia,26.32
+2021/4/18,West Virginia,26.6
+2021/4/19,West Virginia,26.62
+2021/4/20,West Virginia,26.87
+2021/4/21,West Virginia,27.15
+2021/4/22,West Virginia,27.6
+2021/4/23,West Virginia,28.32
+2021/4/24,West Virginia,28.76
+2021/4/25,West Virginia,28.96
+2021/4/26,West Virginia,28.98
+2021/4/27,West Virginia,29.12
+2021/4/28,West Virginia,29.31
+2021/4/29,West Virginia,29.81
+2021/4/30,West Virginia,30.34
+2021/5/1,West Virginia,30.74
+2021/1/12,Wisconsin,0.19
+2021/1/13,Wisconsin,0.19
+2021/1/14,Wisconsin,0.24
+2021/1/15,Wisconsin,0.29
+2021/1/16,Wisconsin,0.32
+2021/1/17,Wisconsin,0.35
+2021/1/18,Wisconsin,0.38
+2021/1/19,Wisconsin,0.41
+2021/1/20,Wisconsin,0.47
+2021/1/21,Wisconsin,0.55
+2021/1/22,Wisconsin,0.65
+2021/1/23,Wisconsin,0.73
+2021/1/24,Wisconsin,0.78
+2021/1/25,Wisconsin,0.81
+2021/1/26,Wisconsin,0.82
+2021/1/27,Wisconsin,0.9
+2021/1/28,Wisconsin,0.99
+2021/1/29,Wisconsin,1.12
+2021/1/30,Wisconsin,1.24
+2021/1/31,Wisconsin,1.36
+2021/2/1,Wisconsin,1.39
+2021/2/2,Wisconsin,1.4
+2021/2/3,Wisconsin,1.46
+2021/2/4,Wisconsin,1.46
+2021/2/5,Wisconsin,1.66
+2021/2/6,Wisconsin,1.89
+2021/2/7,Wisconsin,2.63
+2021/2/8,Wisconsin,2.73
+2021/2/9,Wisconsin,2.76
+2021/2/10,Wisconsin,2.89
+2021/2/11,Wisconsin,3.03
+2021/2/12,Wisconsin,3.26
+2021/2/13,Wisconsin,3.71
+2021/2/14,Wisconsin,4.03
+2021/2/15,Wisconsin,4.1
+2021/2/16,Wisconsin,4.18
+2021/2/17,Wisconsin,4.34
+2021/2/18,Wisconsin,4.57
+2021/2/19,Wisconsin,5.26
+2021/2/20,Wisconsin,5.75
+2021/2/21,Wisconsin,6.17
+2021/2/22,Wisconsin,6.42
+2021/2/23,Wisconsin,6.5
+2021/2/24,Wisconsin,6.75
+2021/2/25,Wisconsin,7.09
+2021/2/26,Wisconsin,7.55
+2021/2/27,Wisconsin,8.12
+2021/2/28,Wisconsin,8.59
+2021/3/1,Wisconsin,8.89
+2021/3/2,Wisconsin,9.02
+2021/3/3,Wisconsin,9.26
+2021/3/4,Wisconsin,9.6
+2021/3/5,Wisconsin,10.02
+2021/3/6,Wisconsin,10.44
+2021/3/7,Wisconsin,10.77
+2021/3/8,Wisconsin,10.99
+2021/3/9,Wisconsin,11.03
+2021/3/10,Wisconsin,11.21
+2021/3/11,Wisconsin,11.48
+2021/3/12,Wisconsin,11.88
+2021/3/13,Wisconsin,12.66
+2021/3/14,Wisconsin,12.67
+2021/3/15,Wisconsin,12.94
+2021/3/16,Wisconsin,13.2
+2021/3/17,Wisconsin,13.43
+2021/3/18,Wisconsin,13.79
+2021/3/19,Wisconsin,14.27
+2021/3/20,Wisconsin,14.83
+2021/3/21,Wisconsin,15.34
+2021/3/22,Wisconsin,15.6
+2021/3/23,Wisconsin,15.69
+2021/3/24,Wisconsin,15.96
+2021/3/25,Wisconsin,16.3
+2021/3/26,Wisconsin,16.73
+2021/3/27,Wisconsin,17.31
+2021/3/28,Wisconsin,17.85
+2021/3/29,Wisconsin,18.18
+2021/3/30,Wisconsin,18.3
+2021/3/31,Wisconsin,18.54
+2021/4/1,Wisconsin,18.99
+2021/4/2,Wisconsin,19.65
+2021/4/3,Wisconsin,20.45
+2021/4/4,Wisconsin,20.97
+2021/4/5,Wisconsin,21.33
+2021/4/6,Wisconsin,21.37
+2021/4/7,Wisconsin,21.65
+2021/4/8,Wisconsin,22.37
+2021/4/9,Wisconsin,23.25
+2021/4/10,Wisconsin,24.22
+2021/4/11,Wisconsin,25.22
+2021/4/12,Wisconsin,25.76
+2021/4/13,Wisconsin,25.93
+2021/4/14,Wisconsin,26.27
+2021/4/15,Wisconsin,26.72
+2021/4/16,Wisconsin,27.29
+2021/4/17,Wisconsin,28.06
+2021/4/18,Wisconsin,28.84
+2021/4/19,Wisconsin,29.45
+2021/4/20,Wisconsin,29.65
+2021/4/21,Wisconsin,30.04
+2021/4/22,Wisconsin,30.75
+2021/4/23,Wisconsin,31.7
+2021/4/24,Wisconsin,32.41
+2021/4/25,Wisconsin,33.12
+2021/4/26,Wisconsin,33.46
+2021/4/27,Wisconsin,33.58
+2021/4/28,Wisconsin,33.97
+2021/4/29,Wisconsin,34.55
+2021/4/30,Wisconsin,35.28
+2021/5/1,Wisconsin,35.93
+2021/1/12,Wyoming,0.37
+2021/1/13,Wyoming,0.44
+2021/1/14,Wyoming,0.46
+2021/1/15,Wyoming,0.48
+2021/1/16,Wyoming,0.5
+2021/1/17,Wyoming,0.52
+2021/1/18,Wyoming,0.54
+2021/1/19,Wyoming,0.56
+2021/1/20,Wyoming,0.59
+2021/1/21,Wyoming,0.59
+2021/1/22,Wyoming,0.78
+2021/1/23,Wyoming,0.82
+2021/1/24,Wyoming,0.85
+2021/1/25,Wyoming,0.85
+2021/1/26,Wyoming,0.85
+2021/1/27,Wyoming,0.94
+2021/1/28,Wyoming,0.94
+2021/1/29,Wyoming,1.33
+2021/1/30,Wyoming,1.33
+2021/1/31,Wyoming,1.61
+2021/2/1,Wyoming,1.67
+2021/2/2,Wyoming,1.7
+2021/2/3,Wyoming,1.81
+2021/2/4,Wyoming,1.81
+2021/2/5,Wyoming,2.22
+2021/2/6,Wyoming,2.56
+2021/2/7,Wyoming,2.56
+2021/2/8,Wyoming,2.89
+2021/2/9,Wyoming,2.89
+2021/2/10,Wyoming,3.14
+2021/2/11,Wyoming,3.14
+2021/2/12,Wyoming,3.98
+2021/2/13,Wyoming,3.98
+2021/2/14,Wyoming,4.69
+2021/2/15,Wyoming,4.73
+2021/2/16,Wyoming,4.76
+2021/2/17,Wyoming,4.76
+2021/2/18,Wyoming,5.2
+2021/2/19,Wyoming,6.33
+2021/2/20,Wyoming,6.79
+2021/2/21,Wyoming,6.82
+2021/2/22,Wyoming,7.38
+2021/2/23,Wyoming,7.43
+2021/2/24,Wyoming,7.46
+2021/2/25,Wyoming,7.99
+2021/2/26,Wyoming,8.37
+2021/2/27,Wyoming,8.98
+2021/2/28,Wyoming,9.39
+2021/3/1,Wyoming,9.42
+2021/3/2,Wyoming,9.43
+2021/3/3,Wyoming,9.86
+2021/3/4,Wyoming,9.89
+2021/3/5,Wyoming,10.23
+2021/3/6,Wyoming,11.09
+2021/3/7,Wyoming,11.14
+2021/3/8,Wyoming,11.79
+2021/3/9,Wyoming,11.8
+2021/3/10,Wyoming,12.25
+2021/3/11,Wyoming,12.3
+2021/3/12,Wyoming,12.97
+2021/3/13,Wyoming,13.48
+2021/3/14,Wyoming,13.92
+2021/3/15,Wyoming,14.02
+2021/3/16,Wyoming,14.14
+2021/3/17,Wyoming,14.14
+2021/3/18,Wyoming,14.16
+2021/3/19,Wyoming,14.68
+2021/3/20,Wyoming,14.74
+2021/3/21,Wyoming,14.77
+2021/3/22,Wyoming,14.78
+2021/3/23,Wyoming,15.95
+2021/3/24,Wyoming,15.97
+2021/3/25,Wyoming,16.54
+2021/3/26,Wyoming,16.56
+2021/3/27,Wyoming,16.61
+2021/3/28,Wyoming,16.66
+2021/3/29,Wyoming,18.1
+2021/3/30,Wyoming,18.11
+2021/3/31,Wyoming,18.15
+2021/4/1,Wyoming,18.83
+2021/4/2,Wyoming,18.87
+2021/4/3,Wyoming,18.91
+2021/4/4,Wyoming,20.52
+2021/4/5,Wyoming,20.57
+2021/4/6,Wyoming,20.69
+2021/4/7,Wyoming,20.72
+2021/4/8,Wyoming,20.75
+2021/4/9,Wyoming,20.78
+2021/4/10,Wyoming,20.83
+2021/4/11,Wyoming,22.8
+2021/4/12,Wyoming,22.81
+2021/4/13,Wyoming,23.18
+2021/4/14,Wyoming,23.45
+2021/4/15,Wyoming,23.46
+2021/4/16,Wyoming,24.1
+2021/4/17,Wyoming,24.13
+2021/4/18,Wyoming,24.14
+2021/4/19,Wyoming,24.16
+2021/4/20,Wyoming,25.02
+2021/4/21,Wyoming,25.04
+2021/4/22,Wyoming,25.58
+2021/4/23,Wyoming,25.97
+2021/4/24,Wyoming,25.98
+2021/4/25,Wyoming,26.01
+2021/4/26,Wyoming,26.86
+2021/4/27,Wyoming,26.87
+2021/4/28,Wyoming,26.9
+2021/4/29,Wyoming,27.42
+2021/4/30,Wyoming,27.76
+2021/5/1,Wyoming,28.01
